@@ -1,0 +1,15 @@
+Sample	STAR_mqc-generalstats-star-uniquely_mapped_percent	STAR_mqc-generalstats-star-uniquely_mapped
+Mmus_C57-6J_LVR_FLT_C_Rep1_M25	5.33	16.0
+Mmus_C57-6J_LVR_FLT_C_Rep2_M26	9.76	29.0
+Mmus_C57-6J_LVR_FLT_C_Rep3_M27	6.04	18.0
+Mmus_C57-6J_LVR_FLT_C_Rep4_M28	7.43	22.0
+Mmus_C57-6J_LVR_FLT_C_Rep5_M30	5.37	16.0
+Mmus_C57-6J_LVR_FLT_I_Rep1_M21	7.02	21.0
+Mmus_C57-6J_LVR_FLT_I_Rep2_M22	3.36	10.0
+Mmus_C57-6J_LVR_GC_C_Rep1_M36	5.05	15.0
+Mmus_C57-6J_LVR_GC_C_Rep2_M37	6.71	20.0
+Mmus_C57-6J_LVR_GC_C_Rep3_M38	8.7	26.0
+Mmus_C57-6J_LVR_GC_C_Rep4_M39	11.78	35.0
+Mmus_C57-6J_LVR_GC_C_Rep5_M40	9.33	28.0
+Mmus_C57-6J_LVR_GC_I_Rep1_M31	8.67	26.0
+Mmus_C57-6J_LVR_GC_I_Rep2_M32	5.33	16.0

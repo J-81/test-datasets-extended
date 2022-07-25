@@ -1,0 +1,15 @@
+Module	Section	Sample Name	Source
+Rsem	all_sections	Mmus_C57-6J_LVR_FLT_C_Rep4_M28	/tmp/glds48/work/82/d8b74d18fdf94a07dbcbc61aee9e3c/mqc_in/Mmus_C57-6J_LVR_FLT_C_Rep4_M28.stat/Mmus_C57-6J_LVR_FLT_C_Rep4_M28.cnt
+Rsem	all_sections	Mmus_C57-6J_LVR_FLT_I_Rep1_M21	/tmp/glds48/work/82/d8b74d18fdf94a07dbcbc61aee9e3c/mqc_in/Mmus_C57-6J_LVR_FLT_I_Rep1_M21.stat/Mmus_C57-6J_LVR_FLT_I_Rep1_M21.cnt
+Rsem	all_sections	Mmus_C57-6J_LVR_GC_C_Rep4_M39	/tmp/glds48/work/82/d8b74d18fdf94a07dbcbc61aee9e3c/mqc_in/Mmus_C57-6J_LVR_GC_C_Rep4_M39.stat/Mmus_C57-6J_LVR_GC_C_Rep4_M39.cnt
+Rsem	all_sections	Mmus_C57-6J_LVR_GC_C_Rep3_M38	/tmp/glds48/work/82/d8b74d18fdf94a07dbcbc61aee9e3c/mqc_in/Mmus_C57-6J_LVR_GC_C_Rep3_M38.stat/Mmus_C57-6J_LVR_GC_C_Rep3_M38.cnt
+Rsem	all_sections	Mmus_C57-6J_LVR_GC_C_Rep1_M36	/tmp/glds48/work/82/d8b74d18fdf94a07dbcbc61aee9e3c/mqc_in/Mmus_C57-6J_LVR_GC_C_Rep1_M36.stat/Mmus_C57-6J_LVR_GC_C_Rep1_M36.cnt
+Rsem	all_sections	Mmus_C57-6J_LVR_FLT_C_Rep2_M26	/tmp/glds48/work/82/d8b74d18fdf94a07dbcbc61aee9e3c/mqc_in/Mmus_C57-6J_LVR_FLT_C_Rep2_M26.stat/Mmus_C57-6J_LVR_FLT_C_Rep2_M26.cnt
+Rsem	all_sections	Mmus_C57-6J_LVR_GC_I_Rep1_M31	/tmp/glds48/work/82/d8b74d18fdf94a07dbcbc61aee9e3c/mqc_in/Mmus_C57-6J_LVR_GC_I_Rep1_M31.stat/Mmus_C57-6J_LVR_GC_I_Rep1_M31.cnt
+Rsem	all_sections	Mmus_C57-6J_LVR_FLT_C_Rep1_M25	/tmp/glds48/work/82/d8b74d18fdf94a07dbcbc61aee9e3c/mqc_in/Mmus_C57-6J_LVR_FLT_C_Rep1_M25.stat/Mmus_C57-6J_LVR_FLT_C_Rep1_M25.cnt
+Rsem	all_sections	Mmus_C57-6J_LVR_FLT_I_Rep2_M22	/tmp/glds48/work/82/d8b74d18fdf94a07dbcbc61aee9e3c/mqc_in/Mmus_C57-6J_LVR_FLT_I_Rep2_M22.stat/Mmus_C57-6J_LVR_FLT_I_Rep2_M22.cnt
+Rsem	all_sections	Mmus_C57-6J_LVR_FLT_C_Rep3_M27	/tmp/glds48/work/82/d8b74d18fdf94a07dbcbc61aee9e3c/mqc_in/Mmus_C57-6J_LVR_FLT_C_Rep3_M27.stat/Mmus_C57-6J_LVR_FLT_C_Rep3_M27.cnt
+Rsem	all_sections	Mmus_C57-6J_LVR_GC_I_Rep2_M32	/tmp/glds48/work/82/d8b74d18fdf94a07dbcbc61aee9e3c/mqc_in/Mmus_C57-6J_LVR_GC_I_Rep2_M32.stat/Mmus_C57-6J_LVR_GC_I_Rep2_M32.cnt
+Rsem	all_sections	Mmus_C57-6J_LVR_GC_C_Rep2_M37	/tmp/glds48/work/82/d8b74d18fdf94a07dbcbc61aee9e3c/mqc_in/Mmus_C57-6J_LVR_GC_C_Rep2_M37.stat/Mmus_C57-6J_LVR_GC_C_Rep2_M37.cnt
+Rsem	all_sections	Mmus_C57-6J_LVR_GC_C_Rep5_M40	/tmp/glds48/work/82/d8b74d18fdf94a07dbcbc61aee9e3c/mqc_in/Mmus_C57-6J_LVR_GC_C_Rep5_M40.stat/Mmus_C57-6J_LVR_GC_C_Rep5_M40.cnt
+Rsem	all_sections	Mmus_C57-6J_LVR_FLT_C_Rep5_M30	/tmp/glds48/work/82/d8b74d18fdf94a07dbcbc61aee9e3c/mqc_in/Mmus_C57-6J_LVR_FLT_C_Rep5_M30.stat/Mmus_C57-6J_LVR_FLT_C_Rep5_M30.cnt

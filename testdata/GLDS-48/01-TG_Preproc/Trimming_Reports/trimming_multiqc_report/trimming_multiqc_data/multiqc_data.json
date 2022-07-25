@@ -1,0 +1,1167 @@
+{
+    "report_data_sources": {
+        "Cutadapt": {
+            "all_sections": {
+                "Mmus_C57-6J_LVR_FLT_C_Rep5_M30_raw": "/tmp/glds48/work/bf/03dabc50aef814e7c681a2241d9514/mqc_in/Mmus_C57-6J_LVR_FLT_C_Rep5_M30_raw.fastq.gz_trimming_report.txt",
+                "Mmus_C57-6J_LVR_FLT_C_Rep4_M28_raw": "/tmp/glds48/work/bf/03dabc50aef814e7c681a2241d9514/mqc_in/Mmus_C57-6J_LVR_FLT_C_Rep4_M28_raw.fastq.gz_trimming_report.txt",
+                "Mmus_C57-6J_LVR_FLT_C_Rep3_M27_raw": "/tmp/glds48/work/bf/03dabc50aef814e7c681a2241d9514/mqc_in/Mmus_C57-6J_LVR_FLT_C_Rep3_M27_raw.fastq.gz_trimming_report.txt",
+                "Mmus_C57-6J_LVR_FLT_C_Rep2_M26_raw": "/tmp/glds48/work/bf/03dabc50aef814e7c681a2241d9514/mqc_in/Mmus_C57-6J_LVR_FLT_C_Rep2_M26_raw.fastq.gz_trimming_report.txt",
+                "Mmus_C57-6J_LVR_FLT_C_Rep1_M25_raw": "/tmp/glds48/work/bf/03dabc50aef814e7c681a2241d9514/mqc_in/Mmus_C57-6J_LVR_FLT_C_Rep1_M25_raw.fastq.gz_trimming_report.txt",
+                "Mmus_C57-6J_LVR_GC_C_Rep5_M40_raw": "/tmp/glds48/work/bf/03dabc50aef814e7c681a2241d9514/mqc_in/Mmus_C57-6J_LVR_GC_C_Rep5_M40_raw.fastq.gz_trimming_report.txt",
+                "Mmus_C57-6J_LVR_GC_C_Rep4_M39_raw": "/tmp/glds48/work/bf/03dabc50aef814e7c681a2241d9514/mqc_in/Mmus_C57-6J_LVR_GC_C_Rep4_M39_raw.fastq.gz_trimming_report.txt",
+                "Mmus_C57-6J_LVR_GC_C_Rep3_M38_raw": "/tmp/glds48/work/bf/03dabc50aef814e7c681a2241d9514/mqc_in/Mmus_C57-6J_LVR_GC_C_Rep3_M38_raw.fastq.gz_trimming_report.txt",
+                "Mmus_C57-6J_LVR_GC_C_Rep2_M37_raw": "/tmp/glds48/work/bf/03dabc50aef814e7c681a2241d9514/mqc_in/Mmus_C57-6J_LVR_GC_C_Rep2_M37_raw.fastq.gz_trimming_report.txt",
+                "Mmus_C57-6J_LVR_GC_C_Rep1_M36_raw": "/tmp/glds48/work/bf/03dabc50aef814e7c681a2241d9514/mqc_in/Mmus_C57-6J_LVR_GC_C_Rep1_M36_raw.fastq.gz_trimming_report.txt",
+                "Mmus_C57-6J_LVR_FLT_I_Rep2_M22_raw": "/tmp/glds48/work/bf/03dabc50aef814e7c681a2241d9514/mqc_in/Mmus_C57-6J_LVR_FLT_I_Rep2_M22_raw.fastq.gz_trimming_report.txt",
+                "Mmus_C57-6J_LVR_FLT_I_Rep1_M21_raw": "/tmp/glds48/work/bf/03dabc50aef814e7c681a2241d9514/mqc_in/Mmus_C57-6J_LVR_FLT_I_Rep1_M21_raw.fastq.gz_trimming_report.txt",
+                "Mmus_C57-6J_LVR_GC_I_Rep2_M32_raw": "/tmp/glds48/work/bf/03dabc50aef814e7c681a2241d9514/mqc_in/Mmus_C57-6J_LVR_GC_I_Rep2_M32_raw.fastq.gz_trimming_report.txt",
+                "Mmus_C57-6J_LVR_GC_I_Rep1_M31_raw": "/tmp/glds48/work/bf/03dabc50aef814e7c681a2241d9514/mqc_in/Mmus_C57-6J_LVR_GC_I_Rep1_M31_raw.fastq.gz_trimming_report.txt"
+            }
+        }
+    },
+    "report_general_stats_data": [
+        {
+            "Mmus_C57-6J_LVR_FLT_C_Rep5_M30_raw": {
+                "cutadapt_version": "3.4",
+                "r_processed": 300,
+                "r_with_adapters": 114,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 8,
+                "bp_written": 14743,
+                "percent_trimmed": 1.7133333333333334
+            },
+            "Mmus_C57-6J_LVR_FLT_C_Rep4_M28_raw": {
+                "cutadapt_version": "3.4",
+                "r_processed": 300,
+                "r_with_adapters": 99,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 9,
+                "bp_written": 14633,
+                "percent_trimmed": 2.4466666666666668
+            },
+            "Mmus_C57-6J_LVR_FLT_C_Rep3_M27_raw": {
+                "cutadapt_version": "3.4",
+                "r_processed": 300,
+                "r_with_adapters": 97,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 14,
+                "bp_written": 14740,
+                "percent_trimmed": 1.7333333333333332
+            },
+            "Mmus_C57-6J_LVR_FLT_C_Rep2_M26_raw": {
+                "cutadapt_version": "3.4",
+                "r_processed": 300,
+                "r_with_adapters": 116,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 5,
+                "bp_written": 14688,
+                "percent_trimmed": 2.08
+            },
+            "Mmus_C57-6J_LVR_FLT_C_Rep1_M25_raw": {
+                "cutadapt_version": "3.4",
+                "r_processed": 300,
+                "r_with_adapters": 83,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 1,
+                "bp_written": 14882,
+                "percent_trimmed": 0.7866666666666666
+            },
+            "Mmus_C57-6J_LVR_GC_C_Rep5_M40_raw": {
+                "cutadapt_version": "3.4",
+                "r_processed": 300,
+                "r_with_adapters": 107,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 7,
+                "bp_written": 14847,
+                "percent_trimmed": 1.02
+            },
+            "Mmus_C57-6J_LVR_GC_C_Rep4_M39_raw": {
+                "cutadapt_version": "3.4",
+                "r_processed": 300,
+                "r_with_adapters": 115,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 14,
+                "bp_written": 14682,
+                "percent_trimmed": 2.12
+            },
+            "Mmus_C57-6J_LVR_GC_C_Rep3_M38_raw": {
+                "cutadapt_version": "3.4",
+                "r_processed": 300,
+                "r_with_adapters": 89,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 0,
+                "bp_written": 14839,
+                "percent_trimmed": 1.0733333333333333
+            },
+            "Mmus_C57-6J_LVR_GC_C_Rep2_M37_raw": {
+                "cutadapt_version": "3.4",
+                "r_processed": 300,
+                "r_with_adapters": 100,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 0,
+                "bp_written": 14752,
+                "percent_trimmed": 1.6533333333333333
+            },
+            "Mmus_C57-6J_LVR_GC_C_Rep1_M36_raw": {
+                "cutadapt_version": "3.4",
+                "r_processed": 300,
+                "r_with_adapters": 107,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 5,
+                "bp_written": 14704,
+                "percent_trimmed": 1.9733333333333332
+            },
+            "Mmus_C57-6J_LVR_FLT_I_Rep2_M22_raw": {
+                "cutadapt_version": "3.4",
+                "r_processed": 300,
+                "r_with_adapters": 98,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 29,
+                "bp_written": 14741,
+                "percent_trimmed": 1.7266666666666666
+            },
+            "Mmus_C57-6J_LVR_FLT_I_Rep1_M21_raw": {
+                "cutadapt_version": "3.4",
+                "r_processed": 300,
+                "r_with_adapters": 110,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 9,
+                "bp_written": 14798,
+                "percent_trimmed": 1.3466666666666667
+            },
+            "Mmus_C57-6J_LVR_GC_I_Rep2_M32_raw": {
+                "cutadapt_version": "3.4",
+                "r_processed": 300,
+                "r_with_adapters": 95,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 0,
+                "bp_written": 14862,
+                "percent_trimmed": 0.9199999999999999
+            },
+            "Mmus_C57-6J_LVR_GC_I_Rep1_M31_raw": {
+                "cutadapt_version": "3.4",
+                "r_processed": 300,
+                "r_with_adapters": 84,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 1,
+                "bp_written": 14881,
+                "percent_trimmed": 0.7933333333333334
+            }
+        }
+    ],
+    "report_general_stats_headers": [
+        {
+            "percent_trimmed": {
+                "title": "% BP Trimmed",
+                "description": "% Total Base Pairs trimmed",
+                "max": 100,
+                "min": 0,
+                "suffix": "%",
+                "scale": "RdYlBu-rev",
+                "namespace": "Cutadapt",
+                "rid": "mqc-generalstats-cutadapt-percent_trimmed",
+                "format": "{:,.1f}",
+                "colour": "55,126,184",
+                "hidden": null,
+                "ceiling": null,
+                "floor": null,
+                "minRange": null,
+                "shared_key": null,
+                "modify": null,
+                "placement": 1000.0,
+                "dmax": 100.0,
+                "dmin": 0.0
+            }
+        }
+    ],
+    "report_multiqc_command": "/usr/local/bin/multiqc --sample-names samples.txt --interactive -o trimming_multiqc_report -n trimming_multiqc mqc_in --config multiqc.config",
+    "report_plot_data": {
+        "cutadapt_filtered_reads_plot": {
+            "plot_type": "bar_graph",
+            "samples": [
+                [
+                    "Mmus_C57-6J_LVR_FLT_C_Rep1_M25_raw",
+                    "Mmus_C57-6J_LVR_FLT_C_Rep2_M26_raw",
+                    "Mmus_C57-6J_LVR_FLT_C_Rep3_M27_raw",
+                    "Mmus_C57-6J_LVR_FLT_C_Rep4_M28_raw",
+                    "Mmus_C57-6J_LVR_FLT_C_Rep5_M30_raw",
+                    "Mmus_C57-6J_LVR_FLT_I_Rep1_M21_raw",
+                    "Mmus_C57-6J_LVR_FLT_I_Rep2_M22_raw",
+                    "Mmus_C57-6J_LVR_GC_C_Rep1_M36_raw",
+                    "Mmus_C57-6J_LVR_GC_C_Rep2_M37_raw",
+                    "Mmus_C57-6J_LVR_GC_C_Rep3_M38_raw",
+                    "Mmus_C57-6J_LVR_GC_C_Rep4_M39_raw",
+                    "Mmus_C57-6J_LVR_GC_C_Rep5_M40_raw",
+                    "Mmus_C57-6J_LVR_GC_I_Rep1_M31_raw",
+                    "Mmus_C57-6J_LVR_GC_I_Rep2_M32_raw"
+                ]
+            ],
+            "datasets": [
+                [
+                    {
+                        "name": "Reads passing filters",
+                        "data": [
+                            300.0,
+                            300.0,
+                            300.0,
+                            300.0,
+                            300.0,
+                            300.0,
+                            300.0,
+                            300.0,
+                            300.0,
+                            300.0,
+                            300.0,
+                            300.0,
+                            300.0,
+                            300.0
+                        ]
+                    }
+                ]
+            ],
+            "config": {
+                "id": "cutadapt_filtered_reads_plot",
+                "title": "Cutadapt: Filtered Reads",
+                "ylab": "Counts"
+            }
+        },
+        "cutadapt_trimmed_sequences_plot_3": {
+            "plot_type": "xy_line",
+            "datasets": [
+                [
+                    {
+                        "name": "Mmus_C57-6J_LVR_FLT_C_Rep1_M25_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                56
+                            ],
+                            [
+                                2,
+                                22
+                            ],
+                            [
+                                3,
+                                3
+                            ],
+                            [
+                                4,
+                                2
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "Mmus_C57-6J_LVR_FLT_C_Rep2_M26_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                84
+                            ],
+                            [
+                                2,
+                                22
+                            ],
+                            [
+                                3,
+                                6
+                            ],
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                50,
+                                3
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "Mmus_C57-6J_LVR_FLT_C_Rep3_M27_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                62
+                            ],
+                            [
+                                2,
+                                24
+                            ],
+                            [
+                                3,
+                                7
+                            ],
+                            [
+                                5,
+                                1
+                            ],
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                50,
+                                2
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "Mmus_C57-6J_LVR_FLT_C_Rep4_M28_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                62
+                            ],
+                            [
+                                2,
+                                26
+                            ],
+                            [
+                                3,
+                                4
+                            ],
+                            [
+                                4,
+                                1
+                            ],
+                            [
+                                14,
+                                2
+                            ],
+                            [
+                                50,
+                                4
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "Mmus_C57-6J_LVR_FLT_C_Rep5_M30_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                87
+                            ],
+                            [
+                                2,
+                                16
+                            ],
+                            [
+                                3,
+                                6
+                            ],
+                            [
+                                4,
+                                3
+                            ],
+                            [
+                                50,
+                                2
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "Mmus_C57-6J_LVR_FLT_I_Rep1_M21_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                82
+                            ],
+                            [
+                                2,
+                                21
+                            ],
+                            [
+                                3,
+                                5
+                            ],
+                            [
+                                4,
+                                1
+                            ],
+                            [
+                                50,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "Mmus_C57-6J_LVR_FLT_I_Rep2_M22_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                71
+                            ],
+                            [
+                                2,
+                                16
+                            ],
+                            [
+                                3,
+                                9
+                            ],
+                            [
+                                50,
+                                2
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "Mmus_C57-6J_LVR_GC_C_Rep1_M36_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                78
+                            ],
+                            [
+                                2,
+                                19
+                            ],
+                            [
+                                3,
+                                4
+                            ],
+                            [
+                                4,
+                                2
+                            ],
+                            [
+                                5,
+                                1
+                            ],
+                            [
+                                50,
+                                3
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "Mmus_C57-6J_LVR_GC_C_Rep2_M37_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                65
+                            ],
+                            [
+                                2,
+                                21
+                            ],
+                            [
+                                3,
+                                8
+                            ],
+                            [
+                                4,
+                                3
+                            ],
+                            [
+                                5,
+                                1
+                            ],
+                            [
+                                50,
+                                2
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "Mmus_C57-6J_LVR_GC_C_Rep3_M38_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                70
+                            ],
+                            [
+                                2,
+                                13
+                            ],
+                            [
+                                3,
+                                5
+                            ],
+                            [
+                                50,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "Mmus_C57-6J_LVR_GC_C_Rep4_M39_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                78
+                            ],
+                            [
+                                2,
+                                28
+                            ],
+                            [
+                                3,
+                                5
+                            ],
+                            [
+                                5,
+                                1
+                            ],
+                            [
+                                50,
+                                3
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "Mmus_C57-6J_LVR_GC_C_Rep5_M40_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                77
+                            ],
+                            [
+                                2,
+                                24
+                            ],
+                            [
+                                3,
+                                4
+                            ],
+                            [
+                                4,
+                                1
+                            ],
+                            [
+                                5,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "Mmus_C57-6J_LVR_GC_I_Rep1_M31_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                58
+                            ],
+                            [
+                                2,
+                                19
+                            ],
+                            [
+                                3,
+                                6
+                            ],
+                            [
+                                4,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "Mmus_C57-6J_LVR_GC_I_Rep2_M32_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                61
+                            ],
+                            [
+                                2,
+                                26
+                            ],
+                            [
+                                3,
+                                7
+                            ],
+                            [
+                                4,
+                                1
+                            ]
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "name": "Mmus_C57-6J_LVR_FLT_C_Rep1_M25_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                0.7466666666666667
+                            ],
+                            [
+                                2,
+                                1.1702127659574468
+                            ],
+                            [
+                                3,
+                                0.6382978723404255
+                            ],
+                            [
+                                4,
+                                1.6666666666666667
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "Mmus_C57-6J_LVR_FLT_C_Rep2_M26_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                1.12
+                            ],
+                            [
+                                2,
+                                1.1702127659574468
+                            ],
+                            [
+                                3,
+                                1.276595744680851
+                            ],
+                            [
+                                11,
+                                1.0
+                            ],
+                            [
+                                50,
+                                3.0
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "Mmus_C57-6J_LVR_FLT_C_Rep3_M27_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                0.8266666666666667
+                            ],
+                            [
+                                2,
+                                1.276595744680851
+                            ],
+                            [
+                                3,
+                                1.4893617021276595
+                            ],
+                            [
+                                5,
+                                3.3333333333333335
+                            ],
+                            [
+                                10,
+                                1.0
+                            ],
+                            [
+                                50,
+                                2.0
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "Mmus_C57-6J_LVR_FLT_C_Rep4_M28_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                0.8266666666666667
+                            ],
+                            [
+                                2,
+                                1.3829787234042552
+                            ],
+                            [
+                                3,
+                                0.851063829787234
+                            ],
+                            [
+                                4,
+                                0.8333333333333334
+                            ],
+                            [
+                                14,
+                                2.0
+                            ],
+                            [
+                                50,
+                                4.0
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "Mmus_C57-6J_LVR_FLT_C_Rep5_M30_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                1.16
+                            ],
+                            [
+                                2,
+                                0.851063829787234
+                            ],
+                            [
+                                3,
+                                1.276595744680851
+                            ],
+                            [
+                                4,
+                                2.5
+                            ],
+                            [
+                                50,
+                                2.0
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "Mmus_C57-6J_LVR_FLT_I_Rep1_M21_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                1.0933333333333333
+                            ],
+                            [
+                                2,
+                                1.1170212765957446
+                            ],
+                            [
+                                3,
+                                1.0638297872340425
+                            ],
+                            [
+                                4,
+                                0.8333333333333334
+                            ],
+                            [
+                                50,
+                                1.0
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "Mmus_C57-6J_LVR_FLT_I_Rep2_M22_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                0.9466666666666667
+                            ],
+                            [
+                                2,
+                                0.851063829787234
+                            ],
+                            [
+                                3,
+                                1.9148936170212765
+                            ],
+                            [
+                                50,
+                                2.0
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "Mmus_C57-6J_LVR_GC_C_Rep1_M36_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                1.04
+                            ],
+                            [
+                                2,
+                                1.0106382978723405
+                            ],
+                            [
+                                3,
+                                0.851063829787234
+                            ],
+                            [
+                                4,
+                                1.6666666666666667
+                            ],
+                            [
+                                5,
+                                3.3333333333333335
+                            ],
+                            [
+                                50,
+                                3.0
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "Mmus_C57-6J_LVR_GC_C_Rep2_M37_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                0.8666666666666667
+                            ],
+                            [
+                                2,
+                                1.1170212765957446
+                            ],
+                            [
+                                3,
+                                1.702127659574468
+                            ],
+                            [
+                                4,
+                                2.5
+                            ],
+                            [
+                                5,
+                                3.3333333333333335
+                            ],
+                            [
+                                50,
+                                2.0
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "Mmus_C57-6J_LVR_GC_C_Rep3_M38_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                0.9333333333333333
+                            ],
+                            [
+                                2,
+                                0.6914893617021276
+                            ],
+                            [
+                                3,
+                                1.0638297872340425
+                            ],
+                            [
+                                50,
+                                1.0
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "Mmus_C57-6J_LVR_GC_C_Rep4_M39_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                1.04
+                            ],
+                            [
+                                2,
+                                1.4893617021276595
+                            ],
+                            [
+                                3,
+                                1.0638297872340425
+                            ],
+                            [
+                                5,
+                                3.3333333333333335
+                            ],
+                            [
+                                50,
+                                3.0
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "Mmus_C57-6J_LVR_GC_C_Rep5_M40_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                1.0266666666666666
+                            ],
+                            [
+                                2,
+                                1.276595744680851
+                            ],
+                            [
+                                3,
+                                0.851063829787234
+                            ],
+                            [
+                                4,
+                                0.8333333333333334
+                            ],
+                            [
+                                5,
+                                3.3333333333333335
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "Mmus_C57-6J_LVR_GC_I_Rep1_M31_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                0.7733333333333333
+                            ],
+                            [
+                                2,
+                                1.0106382978723405
+                            ],
+                            [
+                                3,
+                                1.276595744680851
+                            ],
+                            [
+                                4,
+                                0.8333333333333334
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "Mmus_C57-6J_LVR_GC_I_Rep2_M32_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                0.8133333333333334
+                            ],
+                            [
+                                2,
+                                1.3829787234042552
+                            ],
+                            [
+                                3,
+                                1.4893617021276595
+                            ],
+                            [
+                                4,
+                                0.8333333333333334
+                            ]
+                        ]
+                    }
+                ]
+            ],
+            "config": {
+                "id": "cutadapt_trimmed_sequences_plot_3",
+                "title": "Cutadapt: Lengths of Trimmed Sequences (3' end)",
+                "ylab": "Counts",
+                "xlab": "Length Trimmed (bp)",
+                "xDecimals": false,
+                "ymin": 0,
+                "tt_label": "<b>{point.x} bp trimmed</b>: {point.y:.0f}",
+                "data_labels": [
+                    {
+                        "name": "Counts",
+                        "ylab": "Count"
+                    },
+                    {
+                        "name": "Obs/Exp",
+                        "ylab": "Observed / Expected"
+                    }
+                ]
+            }
+        }
+    },
+    "report_saved_raw_data": {
+        "multiqc_cutadapt": {
+            "Mmus_C57-6J_LVR_FLT_C_Rep5_M30_raw": {
+                "cutadapt_version": "3.4",
+                "r_processed": 300,
+                "r_with_adapters": 114,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 8,
+                "bp_written": 14743,
+                "percent_trimmed": 1.7133333333333334
+            },
+            "Mmus_C57-6J_LVR_FLT_C_Rep4_M28_raw": {
+                "cutadapt_version": "3.4",
+                "r_processed": 300,
+                "r_with_adapters": 99,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 9,
+                "bp_written": 14633,
+                "percent_trimmed": 2.4466666666666668
+            },
+            "Mmus_C57-6J_LVR_FLT_C_Rep3_M27_raw": {
+                "cutadapt_version": "3.4",
+                "r_processed": 300,
+                "r_with_adapters": 97,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 14,
+                "bp_written": 14740,
+                "percent_trimmed": 1.7333333333333332
+            },
+            "Mmus_C57-6J_LVR_FLT_C_Rep2_M26_raw": {
+                "cutadapt_version": "3.4",
+                "r_processed": 300,
+                "r_with_adapters": 116,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 5,
+                "bp_written": 14688,
+                "percent_trimmed": 2.08
+            },
+            "Mmus_C57-6J_LVR_FLT_C_Rep1_M25_raw": {
+                "cutadapt_version": "3.4",
+                "r_processed": 300,
+                "r_with_adapters": 83,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 1,
+                "bp_written": 14882,
+                "percent_trimmed": 0.7866666666666666
+            },
+            "Mmus_C57-6J_LVR_GC_C_Rep5_M40_raw": {
+                "cutadapt_version": "3.4",
+                "r_processed": 300,
+                "r_with_adapters": 107,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 7,
+                "bp_written": 14847,
+                "percent_trimmed": 1.02
+            },
+            "Mmus_C57-6J_LVR_GC_C_Rep4_M39_raw": {
+                "cutadapt_version": "3.4",
+                "r_processed": 300,
+                "r_with_adapters": 115,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 14,
+                "bp_written": 14682,
+                "percent_trimmed": 2.12
+            },
+            "Mmus_C57-6J_LVR_GC_C_Rep3_M38_raw": {
+                "cutadapt_version": "3.4",
+                "r_processed": 300,
+                "r_with_adapters": 89,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 0,
+                "bp_written": 14839,
+                "percent_trimmed": 1.0733333333333333
+            },
+            "Mmus_C57-6J_LVR_GC_C_Rep2_M37_raw": {
+                "cutadapt_version": "3.4",
+                "r_processed": 300,
+                "r_with_adapters": 100,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 0,
+                "bp_written": 14752,
+                "percent_trimmed": 1.6533333333333333
+            },
+            "Mmus_C57-6J_LVR_GC_C_Rep1_M36_raw": {
+                "cutadapt_version": "3.4",
+                "r_processed": 300,
+                "r_with_adapters": 107,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 5,
+                "bp_written": 14704,
+                "percent_trimmed": 1.9733333333333332
+            },
+            "Mmus_C57-6J_LVR_FLT_I_Rep2_M22_raw": {
+                "cutadapt_version": "3.4",
+                "r_processed": 300,
+                "r_with_adapters": 98,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 29,
+                "bp_written": 14741,
+                "percent_trimmed": 1.7266666666666666
+            },
+            "Mmus_C57-6J_LVR_FLT_I_Rep1_M21_raw": {
+                "cutadapt_version": "3.4",
+                "r_processed": 300,
+                "r_with_adapters": 110,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 9,
+                "bp_written": 14798,
+                "percent_trimmed": 1.3466666666666667
+            },
+            "Mmus_C57-6J_LVR_GC_I_Rep2_M32_raw": {
+                "cutadapt_version": "3.4",
+                "r_processed": 300,
+                "r_with_adapters": 95,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 0,
+                "bp_written": 14862,
+                "percent_trimmed": 0.9199999999999999
+            },
+            "Mmus_C57-6J_LVR_GC_I_Rep1_M31_raw": {
+                "cutadapt_version": "3.4",
+                "r_processed": 300,
+                "r_with_adapters": 84,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 1,
+                "bp_written": 14881,
+                "percent_trimmed": 0.7933333333333334
+            }
+        },
+        "multiqc_general_stats": {
+            "Mmus_C57-6J_LVR_FLT_C_Rep5_M30_raw": {
+                "Cutadapt_mqc-generalstats-cutadapt-percent_trimmed": 1.7133333333333334
+            },
+            "Mmus_C57-6J_LVR_FLT_C_Rep4_M28_raw": {
+                "Cutadapt_mqc-generalstats-cutadapt-percent_trimmed": 2.4466666666666668
+            },
+            "Mmus_C57-6J_LVR_FLT_C_Rep3_M27_raw": {
+                "Cutadapt_mqc-generalstats-cutadapt-percent_trimmed": 1.7333333333333332
+            },
+            "Mmus_C57-6J_LVR_FLT_C_Rep2_M26_raw": {
+                "Cutadapt_mqc-generalstats-cutadapt-percent_trimmed": 2.08
+            },
+            "Mmus_C57-6J_LVR_FLT_C_Rep1_M25_raw": {
+                "Cutadapt_mqc-generalstats-cutadapt-percent_trimmed": 0.7866666666666666
+            },
+            "Mmus_C57-6J_LVR_GC_C_Rep5_M40_raw": {
+                "Cutadapt_mqc-generalstats-cutadapt-percent_trimmed": 1.02
+            },
+            "Mmus_C57-6J_LVR_GC_C_Rep4_M39_raw": {
+                "Cutadapt_mqc-generalstats-cutadapt-percent_trimmed": 2.12
+            },
+            "Mmus_C57-6J_LVR_GC_C_Rep3_M38_raw": {
+                "Cutadapt_mqc-generalstats-cutadapt-percent_trimmed": 1.0733333333333333
+            },
+            "Mmus_C57-6J_LVR_GC_C_Rep2_M37_raw": {
+                "Cutadapt_mqc-generalstats-cutadapt-percent_trimmed": 1.6533333333333333
+            },
+            "Mmus_C57-6J_LVR_GC_C_Rep1_M36_raw": {
+                "Cutadapt_mqc-generalstats-cutadapt-percent_trimmed": 1.9733333333333332
+            },
+            "Mmus_C57-6J_LVR_FLT_I_Rep2_M22_raw": {
+                "Cutadapt_mqc-generalstats-cutadapt-percent_trimmed": 1.7266666666666666
+            },
+            "Mmus_C57-6J_LVR_FLT_I_Rep1_M21_raw": {
+                "Cutadapt_mqc-generalstats-cutadapt-percent_trimmed": 1.3466666666666667
+            },
+            "Mmus_C57-6J_LVR_GC_I_Rep2_M32_raw": {
+                "Cutadapt_mqc-generalstats-cutadapt-percent_trimmed": 0.9199999999999999
+            },
+            "Mmus_C57-6J_LVR_GC_I_Rep1_M31_raw": {
+                "Cutadapt_mqc-generalstats-cutadapt-percent_trimmed": 0.7933333333333334
+            }
+        }
+    },
+    "config_analysis_dir_abs": [
+        "/tmp/glds48/work/bf/03dabc50aef814e7c681a2241d9514/mqc_in"
+    ],
+    "config_analysis_dir": [
+        "mqc_in"
+    ],
+    "config_creation_date": "2022-07-25, 18:23",
+    "config_git_hash": null,
+    "config_intro_text": null,
+    "config_report_comment": null,
+    "config_report_header_info": null,
+    "config_script_path": "/usr/local/lib/python3.10/site-packages/multiqc/utils",
+    "config_short_version": "1.12",
+    "config_subtitle": null,
+    "config_title": null,
+    "config_version": "1.12"
+}
