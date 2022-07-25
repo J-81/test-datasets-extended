@@ -1,0 +1,209 @@
+{
+    "report_data_sources": {
+        "RSeQC": {
+            "infer_experiment": {
+                "Mmus_C57-6J_LVR_FLT_C_Rep3_M27_infer_expt": "/tmp/glds48/work/ce/1ba28f92cf9416f4e47786cf6104c7/mqc_in/Mmus_C57-6J_LVR_FLT_C_Rep3_M27_infer_expt.out",
+                "Mmus_C57-6J_LVR_FLT_C_Rep5_M30_infer_expt": "/tmp/glds48/work/ce/1ba28f92cf9416f4e47786cf6104c7/mqc_in/Mmus_C57-6J_LVR_FLT_C_Rep5_M30_infer_expt.out",
+                "Mmus_C57-6J_LVR_FLT_C_Rep1_M25_infer_expt": "/tmp/glds48/work/ce/1ba28f92cf9416f4e47786cf6104c7/mqc_in/Mmus_C57-6J_LVR_FLT_C_Rep1_M25_infer_expt.out",
+                "Mmus_C57-6J_LVR_FLT_C_Rep4_M28_infer_expt": "/tmp/glds48/work/ce/1ba28f92cf9416f4e47786cf6104c7/mqc_in/Mmus_C57-6J_LVR_FLT_C_Rep4_M28_infer_expt.out",
+                "Mmus_C57-6J_LVR_GC_C_Rep3_M38_infer_expt": "/tmp/glds48/work/ce/1ba28f92cf9416f4e47786cf6104c7/mqc_in/Mmus_C57-6J_LVR_GC_C_Rep3_M38_infer_expt.out",
+                "Mmus_C57-6J_LVR_FLT_I_Rep2_M22_infer_expt": "/tmp/glds48/work/ce/1ba28f92cf9416f4e47786cf6104c7/mqc_in/Mmus_C57-6J_LVR_FLT_I_Rep2_M22_infer_expt.out",
+                "Mmus_C57-6J_LVR_GC_I_Rep1_M31_infer_expt": "/tmp/glds48/work/ce/1ba28f92cf9416f4e47786cf6104c7/mqc_in/Mmus_C57-6J_LVR_GC_I_Rep1_M31_infer_expt.out",
+                "Mmus_C57-6J_LVR_GC_C_Rep2_M37_infer_expt": "/tmp/glds48/work/ce/1ba28f92cf9416f4e47786cf6104c7/mqc_in/Mmus_C57-6J_LVR_GC_C_Rep2_M37_infer_expt.out",
+                "Mmus_C57-6J_LVR_FLT_C_Rep2_M26_infer_expt": "/tmp/glds48/work/ce/1ba28f92cf9416f4e47786cf6104c7/mqc_in/Mmus_C57-6J_LVR_FLT_C_Rep2_M26_infer_expt.out",
+                "Mmus_C57-6J_LVR_GC_C_Rep4_M39_infer_expt": "/tmp/glds48/work/ce/1ba28f92cf9416f4e47786cf6104c7/mqc_in/Mmus_C57-6J_LVR_GC_C_Rep4_M39_infer_expt.out",
+                "Mmus_C57-6J_LVR_GC_C_Rep5_M40_infer_expt": "/tmp/glds48/work/ce/1ba28f92cf9416f4e47786cf6104c7/mqc_in/Mmus_C57-6J_LVR_GC_C_Rep5_M40_infer_expt.out",
+                "Mmus_C57-6J_LVR_GC_C_Rep1_M36_infer_expt": "/tmp/glds48/work/ce/1ba28f92cf9416f4e47786cf6104c7/mqc_in/Mmus_C57-6J_LVR_GC_C_Rep1_M36_infer_expt.out",
+                "Mmus_C57-6J_LVR_GC_I_Rep2_M32_infer_expt": "/tmp/glds48/work/ce/1ba28f92cf9416f4e47786cf6104c7/mqc_in/Mmus_C57-6J_LVR_GC_I_Rep2_M32_infer_expt.out",
+                "Mmus_C57-6J_LVR_FLT_I_Rep1_M21_infer_expt": "/tmp/glds48/work/ce/1ba28f92cf9416f4e47786cf6104c7/mqc_in/Mmus_C57-6J_LVR_FLT_I_Rep1_M21_infer_expt.out"
+            }
+        }
+    },
+    "report_general_stats_data": [],
+    "report_general_stats_headers": [],
+    "report_multiqc_command": "/usr/local/bin/multiqc --sample-names samples.txt --interactive -o infer_exp_multiqc_report -n infer_exp_multiqc mqc_in --config multiqc.config",
+    "report_plot_data": {
+        "rseqc_infer_experiment_plot": {
+            "plot_type": "bar_graph",
+            "samples": [
+                [
+                    "Mmus_C57-6J_LVR_FLT_C_Rep1_M25_infer_expt",
+                    "Mmus_C57-6J_LVR_FLT_C_Rep2_M26_infer_expt",
+                    "Mmus_C57-6J_LVR_FLT_C_Rep3_M27_infer_expt",
+                    "Mmus_C57-6J_LVR_FLT_C_Rep4_M28_infer_expt",
+                    "Mmus_C57-6J_LVR_FLT_C_Rep5_M30_infer_expt",
+                    "Mmus_C57-6J_LVR_FLT_I_Rep1_M21_infer_expt",
+                    "Mmus_C57-6J_LVR_FLT_I_Rep2_M22_infer_expt",
+                    "Mmus_C57-6J_LVR_GC_C_Rep1_M36_infer_expt",
+                    "Mmus_C57-6J_LVR_GC_C_Rep2_M37_infer_expt",
+                    "Mmus_C57-6J_LVR_GC_C_Rep3_M38_infer_expt",
+                    "Mmus_C57-6J_LVR_GC_C_Rep4_M39_infer_expt",
+                    "Mmus_C57-6J_LVR_GC_C_Rep5_M40_infer_expt",
+                    "Mmus_C57-6J_LVR_GC_I_Rep1_M31_infer_expt",
+                    "Mmus_C57-6J_LVR_GC_I_Rep2_M32_infer_expt"
+                ]
+            ],
+            "datasets": [
+                [
+                    {
+                        "name": "Sense",
+                        "data": [
+                            7.140000000000001,
+                            8.33,
+                            21.43,
+                            10.530000000000001,
+                            0.0,
+                            5.56,
+                            0.0,
+                            7.6899999999999995,
+                            0.0,
+                            8.7,
+                            9.68,
+                            8.33,
+                            0.0,
+                            0.0
+                        ]
+                    },
+                    {
+                        "name": "Antisense",
+                        "data": [
+                            92.86,
+                            70.83,
+                            78.57,
+                            84.21,
+                            92.31,
+                            83.33,
+                            87.5,
+                            84.61999999999999,
+                            100.0,
+                            73.91,
+                            83.87,
+                            87.5,
+                            86.36,
+                            92.86
+                        ]
+                    },
+                    {
+                        "name": "Undetermined",
+                        "data": [
+                            0.0,
+                            20.830000000000002,
+                            0.0,
+                            5.26,
+                            7.6899999999999995,
+                            11.110000000000001,
+                            12.5,
+                            7.6899999999999995,
+                            0.0,
+                            17.39,
+                            6.45,
+                            4.17,
+                            13.639999999999999,
+                            7.140000000000001
+                        ]
+                    }
+                ]
+            ],
+            "config": {
+                "id": "rseqc_infer_experiment_plot",
+                "title": "RSeQC: Infer experiment",
+                "ylab": "% Tags",
+                "ymin": 0,
+                "ymax": 100,
+                "tt_percentages": false,
+                "ylab_format": "{value}%",
+                "cpswitch": false
+            }
+        }
+    },
+    "report_saved_raw_data": {
+        "multiqc_rseqc_infer_experiment": {
+            "Mmus_C57-6J_LVR_FLT_C_Rep3_M27_infer_expt": {
+                "se_sense": 0.2143,
+                "se_antisense": 0.7857,
+                "failed": 0.0
+            },
+            "Mmus_C57-6J_LVR_FLT_C_Rep5_M30_infer_expt": {
+                "se_sense": 0.0,
+                "se_antisense": 0.9231,
+                "failed": 0.0769
+            },
+            "Mmus_C57-6J_LVR_FLT_C_Rep1_M25_infer_expt": {
+                "se_sense": 0.0714,
+                "se_antisense": 0.9286,
+                "failed": 0.0
+            },
+            "Mmus_C57-6J_LVR_FLT_C_Rep4_M28_infer_expt": {
+                "se_sense": 0.1053,
+                "se_antisense": 0.8421,
+                "failed": 0.0526
+            },
+            "Mmus_C57-6J_LVR_GC_C_Rep3_M38_infer_expt": {
+                "se_sense": 0.087,
+                "se_antisense": 0.7391,
+                "failed": 0.1739
+            },
+            "Mmus_C57-6J_LVR_FLT_I_Rep2_M22_infer_expt": {
+                "se_sense": 0.0,
+                "se_antisense": 0.875,
+                "failed": 0.125
+            },
+            "Mmus_C57-6J_LVR_GC_I_Rep1_M31_infer_expt": {
+                "se_sense": 0.0,
+                "se_antisense": 0.8636,
+                "failed": 0.1364
+            },
+            "Mmus_C57-6J_LVR_GC_C_Rep2_M37_infer_expt": {
+                "se_sense": 0.0,
+                "se_antisense": 1.0,
+                "failed": 0.0
+            },
+            "Mmus_C57-6J_LVR_FLT_C_Rep2_M26_infer_expt": {
+                "se_sense": 0.0833,
+                "se_antisense": 0.7083,
+                "failed": 0.2083
+            },
+            "Mmus_C57-6J_LVR_GC_C_Rep4_M39_infer_expt": {
+                "se_sense": 0.0968,
+                "se_antisense": 0.8387,
+                "failed": 0.0645
+            },
+            "Mmus_C57-6J_LVR_GC_C_Rep5_M40_infer_expt": {
+                "se_sense": 0.0833,
+                "se_antisense": 0.875,
+                "failed": 0.0417
+            },
+            "Mmus_C57-6J_LVR_GC_C_Rep1_M36_infer_expt": {
+                "se_sense": 0.0769,
+                "se_antisense": 0.8462,
+                "failed": 0.0769
+            },
+            "Mmus_C57-6J_LVR_GC_I_Rep2_M32_infer_expt": {
+                "se_sense": 0.0,
+                "se_antisense": 0.9286,
+                "failed": 0.0714
+            },
+            "Mmus_C57-6J_LVR_FLT_I_Rep1_M21_infer_expt": {
+                "se_sense": 0.0556,
+                "se_antisense": 0.8333,
+                "failed": 0.1111
+            }
+        }
+    },
+    "config_analysis_dir_abs": [
+        "/tmp/glds48/work/ce/1ba28f92cf9416f4e47786cf6104c7/mqc_in"
+    ],
+    "config_analysis_dir": [
+        "mqc_in"
+    ],
+    "config_creation_date": "2022-07-25, 16:20",
+    "config_git_hash": null,
+    "config_intro_text": null,
+    "config_report_comment": null,
+    "config_report_header_info": null,
+    "config_script_path": "/usr/local/lib/python3.10/site-packages/multiqc/utils",
+    "config_short_version": "1.12",
+    "config_subtitle": null,
+    "config_title": null,
+    "config_version": "1.12"
+}

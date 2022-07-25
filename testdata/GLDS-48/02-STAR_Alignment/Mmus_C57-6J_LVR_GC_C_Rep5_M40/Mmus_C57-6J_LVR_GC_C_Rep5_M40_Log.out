@@ -1,0 +1,215 @@
+STAR version=2.7.10a
+STAR compilation time,server,dir=2022-01-14T18:50:00-05:00 :/home/dobin/data/STAR/STARcode/STAR.master/source
+STAR git: On branch master ; commit ae26add7ea1724f3281ec8abedb71bcff6a4ae73 ; diff files: CHANGES.md README.md RELEASEnotes.md doc/STARmanual.pdf extras/doc-latex/STARmanual.tex extras/doc-latex/convertParDefToLatexTable.awk extras/doc-latex/parametersDefault.tex extras/docker/Dockerfile source/VERSION 
+##### Command Line:
+STAR --twopassMode Basic --limitBAMsortRAM 8589934592 --outFilterType BySJout --outSAMunmapped Within --genomeDir Mus_musculus.GRCm38.dna.primary_assembly_sub_19_RL-50 --outSAMattributes NH HI AS NM MD MC --outFilterMismatchNoverReadLmax 0.04 --outFilterMismatchNmax 999 --outFilterMultimapNmax 20 --alignIntronMin 20 --alignSJoverhangMin 8 --alignMatesGapMax 1000000 --alignIntronMax 1000000 --alignSJDBoverhangMin 1 --sjdbScore 1 --outSAMtype BAM SortedByCoordinate --outSAMheaderHD @HD VN:1.4 SO:coordinate --runThreadN 2 --readFilesCommand zcat --quantMode TranscriptomeSAM GeneCounts --outFileNamePrefix Mmus_C57-6J_LVR_GC_C_Rep5_M40/Mmus_C57-6J_LVR_GC_C_Rep5_M40_ --readFilesIn Mmus_C57-6J_LVR_GC_C_Rep5_M40_trimmed.fastq.gz
+##### Initial USER parameters from Command Line:
+outFileNamePrefix                 Mmus_C57-6J_LVR_GC_C_Rep5_M40/Mmus_C57-6J_LVR_GC_C_Rep5_M40_
+###### All USER parameters from Command Line:
+twopassMode                   Basic     ~RE-DEFINED
+limitBAMsortRAM               8589934592     ~RE-DEFINED
+outFilterType                 BySJout     ~RE-DEFINED
+outSAMunmapped                Within        ~RE-DEFINED
+genomeDir                     Mus_musculus.GRCm38.dna.primary_assembly_sub_19_RL-50     ~RE-DEFINED
+outSAMattributes              NH   HI   AS   NM   MD   MC        ~RE-DEFINED
+outFilterMismatchNoverReadLmax0.04     ~RE-DEFINED
+outFilterMismatchNmax         999     ~RE-DEFINED
+outFilterMultimapNmax         20     ~RE-DEFINED
+alignIntronMin                20     ~RE-DEFINED
+alignSJoverhangMin            8     ~RE-DEFINED
+alignMatesGapMax              1000000     ~RE-DEFINED
+alignIntronMax                1000000     ~RE-DEFINED
+alignSJDBoverhangMin          1     ~RE-DEFINED
+sjdbScore                     1     ~RE-DEFINED
+outSAMtype                    BAM   SortedByCoordinate        ~RE-DEFINED
+outSAMheaderHD                @HD   VN:1.4   SO:coordinate        ~RE-DEFINED
+runThreadN                    2     ~RE-DEFINED
+readFilesCommand              zcat        ~RE-DEFINED
+quantMode                     TranscriptomeSAM   GeneCounts        ~RE-DEFINED
+outFileNamePrefix             Mmus_C57-6J_LVR_GC_C_Rep5_M40/Mmus_C57-6J_LVR_GC_C_Rep5_M40_     ~RE-DEFINED
+readFilesIn                   Mmus_C57-6J_LVR_GC_C_Rep5_M40_trimmed.fastq.gz        ~RE-DEFINED
+##### Finished reading parameters from all sources
+
+##### Final user re-defined parameters-----------------:
+runThreadN                        2
+genomeDir                         Mus_musculus.GRCm38.dna.primary_assembly_sub_19_RL-50
+readFilesIn                       Mmus_C57-6J_LVR_GC_C_Rep5_M40_trimmed.fastq.gz   
+readFilesCommand                  zcat   
+limitBAMsortRAM                   8589934592
+outFileNamePrefix                 Mmus_C57-6J_LVR_GC_C_Rep5_M40/Mmus_C57-6J_LVR_GC_C_Rep5_M40_
+outSAMtype                        BAM   SortedByCoordinate   
+outSAMattributes                  NH   HI   AS   NM   MD   MC   
+outSAMunmapped                    Within   
+outSAMheaderHD                    @HD   VN:1.4   SO:coordinate   
+outFilterType                     BySJout
+outFilterMultimapNmax             20
+outFilterMismatchNmax             999
+outFilterMismatchNoverReadLmax    0.04
+alignIntronMin                    20
+alignIntronMax                    1000000
+alignMatesGapMax                  1000000
+alignSJoverhangMin                8
+alignSJDBoverhangMin              1
+sjdbScore                         1
+quantMode                         TranscriptomeSAM   GeneCounts   
+twopassMode                       Basic
+
+-------------------------------
+##### Final effective command line:
+STAR   --runThreadN 2   --genomeDir Mus_musculus.GRCm38.dna.primary_assembly_sub_19_RL-50   --readFilesIn Mmus_C57-6J_LVR_GC_C_Rep5_M40_trimmed.fastq.gz      --readFilesCommand zcat      --limitBAMsortRAM 8589934592   --outFileNamePrefix Mmus_C57-6J_LVR_GC_C_Rep5_M40/Mmus_C57-6J_LVR_GC_C_Rep5_M40_   --outSAMtype BAM   SortedByCoordinate      --outSAMattributes NH   HI   AS   NM   MD   MC      --outSAMunmapped Within      --outSAMheaderHD @HD   VN:1.4   SO:coordinate      --outFilterType BySJout   --outFilterMultimapNmax 20   --outFilterMismatchNmax 999   --outFilterMismatchNoverReadLmax 0.04   --alignIntronMin 20   --alignIntronMax 1000000   --alignMatesGapMax 1000000   --alignSJoverhangMin 8   --alignSJDBoverhangMin 1   --sjdbScore 1   --quantMode TranscriptomeSAM   GeneCounts      --twopassMode Basic
+----------------------------------------
+
+Number of fastq files for each mate = 1
+
+   Input read files for mate 1 :
+-rw-r--r--    2 33333    33333         8476 Jul 25 16:13 Mmus_C57-6J_LVR_GC_C_Rep5_M40_trimmed.fastq.gz
+
+   readsCommandsFile:
+exec > "Mmus_C57-6J_LVR_GC_C_Rep5_M40/Mmus_C57-6J_LVR_GC_C_Rep5_M40__STARtmp/tmp.fifo.read1"
+echo FILE 0
+zcat      "Mmus_C57-6J_LVR_GC_C_Rep5_M40_trimmed.fastq.gz"
+
+ParametersSolo: --soloCellFilterType CellRanger2.2 filtering parameters:  3000 0.99 10
+Finished loading and checking parameters
+Reading genome generation parameters:
+### STAR   --runMode genomeGenerate      --runThreadN 2   --genomeDir Mus_musculus.GRCm38.dna.primary_assembly_sub_19_RL-50   --genomeFastaFiles Mus_musculus.GRCm38.dna.primary_assembly_sub_19.fa      --genomeSAindexNbases 11   --limitGenomeGenerateRAM 8589934592   --sjdbGTFfile Mus_musculus.GRCm38.96_sub_19.gtf   --sjdbOverhang 49
+### GstrandBit=32
+versionGenome                 2.7.4a     ~RE-DEFINED
+genomeType                    Full     ~RE-DEFINED
+genomeFastaFiles              Mus_musculus.GRCm38.dna.primary_assembly_sub_19.fa        ~RE-DEFINED
+genomeSAindexNbases           11     ~RE-DEFINED
+genomeChrBinNbits             18     ~RE-DEFINED
+genomeSAsparseD               1     ~RE-DEFINED
+genomeTransformType           None     ~RE-DEFINED
+genomeTransformVCF            -     ~RE-DEFINED
+sjdbOverhang                  49     ~RE-DEFINED
+sjdbFileChrStartEnd           -        ~RE-DEFINED
+sjdbGTFfile                   Mus_musculus.GRCm38.96_sub_19.gtf     ~RE-DEFINED
+sjdbGTFchrPrefix              -     ~RE-DEFINED
+sjdbGTFfeatureExon            exon     ~RE-DEFINED
+sjdbGTFtagExonParentTranscripttranscript_id     ~RE-DEFINED
+sjdbGTFtagExonParentGene      gene_id     ~RE-DEFINED
+sjdbInsertSave                Basic     ~RE-DEFINED
+genomeFileSizes               62516620   487652685        ~RE-DEFINED
+Genome version is compatible with current STAR
+Number of real (reference) chromosomes= 1
+1	19	61431566	0
+--sjdbOverhang = 49 taken from the generated genome
+Started loading the genome: Mon Jul 25 16:19:28 2022
+
+Genome: size given as a parameter = 62516620
+SA: size given as a parameter = 487652685
+SAindex: size given as a parameter = 1
+Read from SAindex: pGe.gSAindexNbases=11  nSAi=5592404
+nGenome=62516620;  nSAbyte=487652685
+GstrandBit=32   SA number of indices=118218832
+Shared memory is not used for genomes. Allocated a private copy of the genome.
+Genome file size: 62516620 bytes; state: good=1 eof=0 fail=0 bad=0
+Loading Genome ... done! state: good=1 eof=0 fail=0 bad=0; loaded 62516620 bytes
+SA file size: 487652685 bytes; state: good=1 eof=0 fail=0 bad=0
+Loading SA ... done! state: good=1 eof=0 fail=0 bad=0; loaded 487652685 bytes
+Loading SAindex ... done: 24466875 bytes
+Finished loading the genome: Mon Jul 25 16:19:31 2022
+
+Processing splice junctions database sjdbN=9220,   pGe.sjdbOverhang=49 
+To accommodate alignIntronMax=1000000 redefined winBinNbits=18
+To accommodate alignIntronMax=1000000 and alignMatesGapMax=1000000, redefined winFlankNbins=4 and winAnchorDistNbins=8
+Opening the file: Mmus_C57-6J_LVR_GC_C_Rep5_M40/Mmus_C57-6J_LVR_GC_C_Rep5_M40__STARtmp//FilterBySJoutFiles.mate1.thread0 ... ok
+Opening the file: Mmus_C57-6J_LVR_GC_C_Rep5_M40/Mmus_C57-6J_LVR_GC_C_Rep5_M40__STARtmp//FilterBySJoutFiles.mate1.thread1 ... ok
+Created thread # 1
+Starting to map file # 0
+mate 1:   Mmus_C57-6J_LVR_GC_C_Rep5_M40_trimmed.fastq.gz
+Thread #0 end of input stream, nextChar=-1
+Completed: thread #1
+Completed: thread #0
+Joined thread # 1
+Jul 25 16:19:32   Loaded database junctions from the generated genome Mus_musculus.GRCm38.dna.primary_assembly_sub_19_RL-50//sjdbList.out.tab: 9220 total junctions
+
+Jul 25 16:19:32   Loaded database junctions from the 1st pass file: Mmus_C57-6J_LVR_GC_C_Rep5_M40/Mmus_C57-6J_LVR_GC_C_Rep5_M40__STARpass1//SJ.out.tab: 9221 total junctions
+
+Jul 25 16:19:32   Finished preparing junctions
+Jul 25 16:19:32 ..... inserting junctions into the genome indices
+Jul 25 16:19:32   Finished SA search: number of new junctions=0, old junctions=9220
+Jul 25 16:19:32   Finished sorting SA indicesL nInd=0
+Genome size with junctions=62516620  61603840   912780
+GstrandBit1=32   GstrandBit=32
+Jul 25 16:19:35   Finished inserting junction indices
+Jul 25 16:19:35   Finished SAi
+Jul 25 16:19:35 ..... finished inserting junctions into genome
+
+   Input read files for mate 1 :
+-rw-r--r--    2 33333    33333         8476 Jul 25 16:13 Mmus_C57-6J_LVR_GC_C_Rep5_M40_trimmed.fastq.gz
+
+   readsCommandsFile:
+exec > "Mmus_C57-6J_LVR_GC_C_Rep5_M40/Mmus_C57-6J_LVR_GC_C_Rep5_M40__STARtmp/tmp.fifo.read1"
+echo FILE 0
+zcat      "Mmus_C57-6J_LVR_GC_C_Rep5_M40_trimmed.fastq.gz"
+
+Loaded transcript database, nTr=4327
+Loaded exon database, nEx=27942
+Opening the file: Mmus_C57-6J_LVR_GC_C_Rep5_M40/Mmus_C57-6J_LVR_GC_C_Rep5_M40__STARtmp//FilterBySJoutFiles.mate1.thread0 ... ok
+Opening the file: Mmus_C57-6J_LVR_GC_C_Rep5_M40/Mmus_C57-6J_LVR_GC_C_Rep5_M40__STARtmp//FilterBySJoutFiles.mate1.thread1 ... ok
+Created thread # 1
+Starting to map file # 0
+mate 1:   Mmus_C57-6J_LVR_GC_C_Rep5_M40_trimmed.fastq.gz
+Thread #0 end of input stream, nextChar=-1
+Completed: thread #1
+Completed: thread #0
+Joined thread # 1
+Completed stage 1 mapping of outFilterBySJout mapping
+Detected 0 novel junctions that passed filtering, will proceed to filter reads that contained unannotated junctions
+Created thread # 1
+BAM sorting: 43 mapped reads
+BAM sorting bins genomic start loci:
+1	0	5124180
+2	0	5124180
+3	0	5124180
+4	0	5124180
+5	0	5124180
+6	0	5124180
+7	0	5124180
+8Completed: 9	0	5124180
+10	0	5124180
+11	0	5124180
+12	0	5124180
+13	0	5124180
+14	0	5124180
+15	0	5124180
+16	0	5124180
+17	0	5124180
+18	0	5124180
+19	0	5124180
+20	0	5124180
+21	0	5124180
+22	0	5124180
+23	0	5124180
+24	0	5124180
+25	0	5124180
+26	0	5124180
+27	0	5124180
+28	0	5124180
+29	0	5124180
+30	0	5124180
+31	0	5124180
+32	0	5124180
+33	0	5124180
+34	0	5124180
+35	0	5124180
+36	0	5124180
+37	0	5124180
+38	0	5124180
+39	0	5124180
+40	0	5124180
+41	0	5124180
+42	0	5124180
+43	0	5124180
+44	0	5124180
+45	0	5124180
+46	0	5124180
+47	0	5124180
+48	0	5124180
+Completed: thread #0
+Joined thread # 1
+Jul 25 16:19:36 ..... started sorting BAM
+Max memory needed for sorting = 8972
+ALL DONE!

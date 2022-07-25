@@ -1,0 +1,43 @@
+[2022-07-25 16:20:36,161] multiqc                                            [DEBUG  ]  This is MultiQC v1.12
+[2022-07-25 16:20:36,161] multiqc                                            [DEBUG  ]  No MultiQC config found: /usr/local/lib/python3.10/site-packages/multiqc_config.yaml
+[2022-07-25 16:20:36,162] multiqc                                            [DEBUG  ]  No MultiQC config found: /.multiqc_config.yaml
+[2022-07-25 16:20:36,162] multiqc                                            [DEBUG  ]  No MultiQC config found: multiqc_config.yaml
+[2022-07-25 16:20:36,166] multiqc                                            [DEBUG  ]  Loading config settings from: multiqc.config
+[2022-07-25 16:20:36,166] multiqc                                            [DEBUG  ]  New config 'module_order': [{'fastqc': None}, 'cutadapt', 'star', 'rseqc', 'rsem']
+[2022-07-25 16:20:36,166] multiqc                                            [DEBUG  ]  Added to filename clean extensions: ['.read_distribution_out', '.infer_experiment_out', '.geneBodyCoverage.txt']
+[2022-07-25 16:20:36,166] multiqc                                            [DEBUG  ]  New config 'use_filename_as_sample_name': ['rseqc/gene_body_coverage']
+[2022-07-25 16:20:36,166] multiqc                                            [DEBUG  ]  New config 'show_analysis_paths': False
+[2022-07-25 16:20:36,167] multiqc                                            [DEBUG  ]  New config 'show_analysis_time': False
+[2022-07-25 16:20:36,167] multiqc                                            [DEBUG  ]  Command used: /usr/local/bin/multiqc --sample-names samples.txt --interactive -o geneBody_cov_multiqc_report -n geneBody_cov_multiqc mqc_in --config multiqc.config
+[2022-07-25 16:20:36,957] multiqc                                            [DEBUG  ]  Latest MultiQC version is v1.12
+[2022-07-25 16:20:36,957] multiqc                                            [DEBUG  ]  Loading sample renaming config settings from: samples.txt
+[2022-07-25 16:20:36,957] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Mmus_C57-6J_LVR_FLT_C_Rep1_M25
+[2022-07-25 16:20:36,957] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Mmus_C57-6J_LVR_FLT_C_Rep2_M26
+[2022-07-25 16:20:36,957] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Mmus_C57-6J_LVR_FLT_C_Rep3_M27
+[2022-07-25 16:20:36,957] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Mmus_C57-6J_LVR_FLT_C_Rep4_M28
+[2022-07-25 16:20:36,957] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Mmus_C57-6J_LVR_FLT_C_Rep5_M30
+[2022-07-25 16:20:36,957] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Mmus_C57-6J_LVR_FLT_I_Rep1_M21
+[2022-07-25 16:20:36,957] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Mmus_C57-6J_LVR_FLT_I_Rep2_M22
+[2022-07-25 16:20:36,957] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Mmus_C57-6J_LVR_GC_C_Rep1_M36
+[2022-07-25 16:20:36,957] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Mmus_C57-6J_LVR_GC_C_Rep2_M37
+[2022-07-25 16:20:36,957] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Mmus_C57-6J_LVR_GC_C_Rep3_M38
+[2022-07-25 16:20:36,958] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Mmus_C57-6J_LVR_GC_C_Rep4_M39
+[2022-07-25 16:20:36,958] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Mmus_C57-6J_LVR_GC_C_Rep5_M40
+[2022-07-25 16:20:36,958] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Mmus_C57-6J_LVR_GC_I_Rep1_M31
+[2022-07-25 16:20:36,958] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Mmus_C57-6J_LVR_GC_I_Rep2_M32
+[2022-07-25 16:20:36,958] multiqc                                            [DEBUG  ]  Found 0 sample renaming patterns
+[2022-07-25 16:20:36,958] multiqc                                            [DEBUG  ]  Command     : /usr/local/bin/multiqc --sample-names samples.txt --interactive -o geneBody_cov_multiqc_report -n geneBody_cov_multiqc mqc_in --config multiqc.config
+[2022-07-25 16:20:36,958] multiqc                                            [DEBUG  ]  Working dir : /tmp/glds48/work/68/b794e8fab68086b78591424cb16a59
+[2022-07-25 16:20:36,958] multiqc                                            [DEBUG  ]  Template    : default
+[2022-07-25 16:20:36,958] multiqc                                            [DEBUG  ]  Running Python 3.10.2 | packaged by conda-forge | (main, Feb  1 2022, 19:28:35) [GCC 9.4.0]
+[2022-07-25 16:20:36,958] multiqc                                            [DEBUG  ]  Analysing modules: adapterRemoval, afterqc, bamtools, bbmap, bcftools, bcl2fastq, bclconvert, biobambam2, biobloomtools, biscuit, bismark, bowtie1, bowtie2, busco, bustools, ccs, checkqc, clipandmerge, clusterflow, conpair, custom_content, damageprofiler, dedup, deeptools, disambiguate, dragen, eigenstratdatabasetools, fastp, fastq_screen, featureCounts, fgbio, flash, flexbar, gatk, gffcompare, goleft_indexcov, happy, hicexplorer, hicpro, hicup, hisat2, homer, hops, htseq, interop, ivar, jcvi, jellyfish, kaiju, kallisto, kat, kraken, leehom, lima, longranger, macs2, malt, methylQA, minionqc, mirtop, mirtrace, mosdepth, mtnucratio, multivcfanalyzer, nanostat, ngsderive, odgi, optitype, pangolin, pbmarkdup, peddy, phantompeakqualtools, picard, preseq, prokka, purple, pychopper, pycoqc, qc3C, qorts, qualimap, quast, rna_seqc, rockhopper, salmon, sambamba, samblaster, samtools, sargasso, sentieon, seqyclean, sexdeterrmine, sickle, skewer, slamdunk, snippy, snpeff, snpsplit, somalier, sortmerna, stacks, supernova, theta2, tophat, trimmomatic, varscan2, vcftools, vep, verifybamid, whatshap, fastqc, cutadapt, star, rseqc, rsem
+[2022-07-25 16:20:36,958] multiqc                                            [DEBUG  ]  Using temporary directory for creating report: /tmp/tmp2l_y_88z
+[2022-07-25 16:20:37,495] multiqc                                            [INFO   ]  Search path : /tmp/glds48/work/68/b794e8fab68086b78591424cb16a59/mqc_in
+[2022-07-25 16:20:40,063] multiqc.plots.bargraph                             [DEBUG  ]  Using matplotlib version 3.5.1
+[2022-07-25 16:20:40,065] multiqc.plots.linegraph                            [DEBUG  ]  Using matplotlib version 3.5.1
+[2022-07-25 16:20:40,113] multiqc.modules.rseqc.rseqc                        [INFO   ]  Found 14 gene_body_coverage reports
+[2022-07-25 16:20:40,115] multiqc                                            [INFO   ]  Compressing plot data
+[2022-07-25 16:20:40,226] multiqc                                            [INFO   ]  Report      : geneBody_cov_multiqc_report/geneBody_cov_multiqc.html
+[2022-07-25 16:20:40,227] multiqc                                            [INFO   ]  Data        : geneBody_cov_multiqc_report/geneBody_cov_multiqc_data
+[2022-07-25 16:20:40,227] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmp2l_y_88z/multiqc_data' to 'geneBody_cov_multiqc_report/geneBody_cov_multiqc_data'
+[2022-07-25 16:20:40,408] multiqc                                            [INFO   ]  MultiQC complete
