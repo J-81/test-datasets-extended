@@ -1,0 +1,14 @@
+Sample	total_reads	avg_input_read_length	uniquely_mapped	uniquely_mapped_percent	avg_mapped_read_length	num_splices	num_annotated_splices	num_GTAG_splices	num_GCAG_splices	num_ATAC_splices	num_noncanonical_splices	mismatch_rate	deletion_rate	deletion_length	insertion_rate	insertion_length	multimapped	multimapped_percent	multimapped_toomany	multimapped_toomany_percent	unmapped_mismatches_percent	unmapped_tooshort_percent	unmapped_other_percent	unmapped_mismatches	unmapped_tooshort	unmapped_other
+Mmus_BAL-TAL_LRTN_BSL_Rep1_B7	300.0	270.0	17.0	5.67	256.53	9.0	9.0	9.0	0.0	0.0	0.0	0.87	0.05	2.0	0.0	0.0	1.0	0.33	0.0	0.0	0.0	58.67	35.33	0	176	106
+Mmus_BAL-TAL_LRTN_FLT_Rep1_F6	299.0	271.0	13.0	4.35	285.31	7.0	7.0	7.0	0.0	0.0	0.0	0.84	0.0	0.0	0.03	1.0	1.0	0.33	0.0	0.0	0.0	57.53	37.79	0	172	113
+Mmus_BAL-TAL_LRTN_FLT_Rep2_F7	299.0	277.0	24.0	8.03	258.58	0.0	0.0	0.0	0.0	0.0	0.0	1.37	0.11	1.4	0.03	1.0	1.0	0.33	0.0	0.0	0.0	56.52	35.12	0	169	105
+Mmus_BAL-TAL_LRTN_FLT_Rep3_F8	298.0	278.0	15.0	5.03	275.4	7.0	7.0	7.0	0.0	0.0	0.0	1.31	0.0	0.0	0.0	0.0	1.0	0.34	0.0	0.0	0.0	50.67	43.96	0	151	131
+Mmus_BAL-TAL_LRTN_FLT_Rep4_F9	300.0	274.0	18.0	6.0	266.5	7.0	7.0	7.0	0.0	0.0	0.0	1.71	0.0	0.0	0.1	2.5	4.0	1.33	0.0	0.0	0.0	56.67	36.0	0	170	108
+Mmus_BAL-TAL_LRTN_FLT_Rep5_F10	300.0	275.0	10.0	3.33	242.6	1.0	1.0	1.0	0.0	0.0	0.0	0.66	0.0	0.0	0.0	0.0	4.0	1.33	1.0	0.33	0.0	53.0	42.0	0	159	126
+Mmus_BAL-TAL_LRTN_GC_Rep1_G6	300.0	274.0	14.0	4.67	253.43	2.0	2.0	2.0	0.0	0.0	0.0	1.44	0.0	0.0	0.03	1.0	3.0	1.0	0.0	0.0	0.0	57.67	36.67	0	173	110
+Mmus_BAL-TAL_LRTN_GC_Rep2_G8	300.0	275.0	21.0	7.0	253.19	2.0	2.0	2.0	0.0	0.0	0.0	2.07	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	58.67	34.33	0	176	103
+Mmus_BAL-TAL_LRTN_GC_Rep3_G9	300.0	279.0	18.0	6.0	260.67	4.0	4.0	4.0	0.0	0.0	0.0	1.15	0.09	4.0	0.36	5.67	1.0	0.33	0.0	0.0	0.0	55.67	38.0	0	167	114
+Mmus_BAL-TAL_RRTN_BSL_Rep2_B8	299.0	278.0	17.0	5.69	271.06	2.0	2.0	2.0	0.0	0.0	0.0	0.87	0.0	0.0	0.0	0.0	1.0	0.33	0.0	0.0	0.0	53.85	40.13	0	161	120
+Mmus_BAL-TAL_RRTN_BSL_Rep3_B9	298.0	275.0	19.0	6.38	238.21	2.0	2.0	2.0	0.0	0.0	0.0	1.37	0.07	1.0	0.0	0.0	2.0	0.67	0.0	0.0	0.0	58.72	34.23	0	175	102
+Mmus_BAL-TAL_RRTN_BSL_Rep4_B10	299.0	281.0	19.0	6.35	253.42	5.0	5.0	5.0	0.0	0.0	0.0	1.12	0.0	0.0	0.0	0.0	1.0	0.33	1.0	0.33	0.0	51.51	41.47	0	154	124
+Mmus_BAL-TAL_RRTN_GC_Rep4_G10	300.0	279.0	17.0	5.67	271.88	6.0	6.0	6.0	0.0	0.0	0.0	1.77	0.0	0.0	0.0	0.0	2.0	0.67	0.0	0.0	0.0	54.0	39.67	0	162	119

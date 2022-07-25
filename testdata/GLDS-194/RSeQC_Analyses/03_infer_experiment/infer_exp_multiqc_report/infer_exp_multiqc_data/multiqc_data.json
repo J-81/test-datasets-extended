@@ -1,0 +1,199 @@
+{
+    "report_data_sources": {
+        "RSeQC": {
+            "infer_experiment": {
+                "Mmus_BAL-TAL_LRTN_FLT_Rep3_F8_infer_expt": "/tmp/test194/work/be/57772d6b541d2af6db2ef82fc8aa5c/mqc_in/Mmus_BAL-TAL_LRTN_FLT_Rep3_F8_infer_expt.out",
+                "Mmus_BAL-TAL_LRTN_FLT_Rep5_F10_infer_expt": "/tmp/test194/work/be/57772d6b541d2af6db2ef82fc8aa5c/mqc_in/Mmus_BAL-TAL_LRTN_FLT_Rep5_F10_infer_expt.out",
+                "Mmus_BAL-TAL_LRTN_GC_Rep1_G6_infer_expt": "/tmp/test194/work/be/57772d6b541d2af6db2ef82fc8aa5c/mqc_in/Mmus_BAL-TAL_LRTN_GC_Rep1_G6_infer_expt.out",
+                "Mmus_BAL-TAL_LRTN_BSL_Rep1_B7_infer_expt": "/tmp/test194/work/be/57772d6b541d2af6db2ef82fc8aa5c/mqc_in/Mmus_BAL-TAL_LRTN_BSL_Rep1_B7_infer_expt.out",
+                "Mmus_BAL-TAL_LRTN_FLT_Rep1_F6_infer_expt": "/tmp/test194/work/be/57772d6b541d2af6db2ef82fc8aa5c/mqc_in/Mmus_BAL-TAL_LRTN_FLT_Rep1_F6_infer_expt.out",
+                "Mmus_BAL-TAL_LRTN_GC_Rep3_G9_infer_expt": "/tmp/test194/work/be/57772d6b541d2af6db2ef82fc8aa5c/mqc_in/Mmus_BAL-TAL_LRTN_GC_Rep3_G9_infer_expt.out",
+                "Mmus_BAL-TAL_LRTN_FLT_Rep2_F7_infer_expt": "/tmp/test194/work/be/57772d6b541d2af6db2ef82fc8aa5c/mqc_in/Mmus_BAL-TAL_LRTN_FLT_Rep2_F7_infer_expt.out",
+                "Mmus_BAL-TAL_RRTN_GC_Rep4_G10_infer_expt": "/tmp/test194/work/be/57772d6b541d2af6db2ef82fc8aa5c/mqc_in/Mmus_BAL-TAL_RRTN_GC_Rep4_G10_infer_expt.out",
+                "Mmus_BAL-TAL_RRTN_BSL_Rep4_B10_infer_expt": "/tmp/test194/work/be/57772d6b541d2af6db2ef82fc8aa5c/mqc_in/Mmus_BAL-TAL_RRTN_BSL_Rep4_B10_infer_expt.out",
+                "Mmus_BAL-TAL_LRTN_GC_Rep2_G8_infer_expt": "/tmp/test194/work/be/57772d6b541d2af6db2ef82fc8aa5c/mqc_in/Mmus_BAL-TAL_LRTN_GC_Rep2_G8_infer_expt.out",
+                "Mmus_BAL-TAL_RRTN_BSL_Rep3_B9_infer_expt": "/tmp/test194/work/be/57772d6b541d2af6db2ef82fc8aa5c/mqc_in/Mmus_BAL-TAL_RRTN_BSL_Rep3_B9_infer_expt.out",
+                "Mmus_BAL-TAL_LRTN_FLT_Rep4_F9_infer_expt": "/tmp/test194/work/be/57772d6b541d2af6db2ef82fc8aa5c/mqc_in/Mmus_BAL-TAL_LRTN_FLT_Rep4_F9_infer_expt.out",
+                "Mmus_BAL-TAL_RRTN_BSL_Rep2_B8_infer_expt": "/tmp/test194/work/be/57772d6b541d2af6db2ef82fc8aa5c/mqc_in/Mmus_BAL-TAL_RRTN_BSL_Rep2_B8_infer_expt.out"
+            }
+        }
+    },
+    "report_general_stats_data": [],
+    "report_general_stats_headers": [],
+    "report_multiqc_command": "/usr/local/bin/multiqc --sample-names samples.txt --interactive -o infer_exp_multiqc_report -n infer_exp_multiqc mqc_in --config multiqc.config",
+    "report_plot_data": {
+        "rseqc_infer_experiment_plot": {
+            "plot_type": "bar_graph",
+            "samples": [
+                [
+                    "Mmus_BAL-TAL_LRTN_BSL_Rep1_B7_infer_expt",
+                    "Mmus_BAL-TAL_LRTN_FLT_Rep1_F6_infer_expt",
+                    "Mmus_BAL-TAL_LRTN_FLT_Rep2_F7_infer_expt",
+                    "Mmus_BAL-TAL_LRTN_FLT_Rep3_F8_infer_expt",
+                    "Mmus_BAL-TAL_LRTN_FLT_Rep4_F9_infer_expt",
+                    "Mmus_BAL-TAL_LRTN_FLT_Rep5_F10_infer_expt",
+                    "Mmus_BAL-TAL_LRTN_GC_Rep1_G6_infer_expt",
+                    "Mmus_BAL-TAL_LRTN_GC_Rep2_G8_infer_expt",
+                    "Mmus_BAL-TAL_LRTN_GC_Rep3_G9_infer_expt",
+                    "Mmus_BAL-TAL_RRTN_BSL_Rep2_B8_infer_expt",
+                    "Mmus_BAL-TAL_RRTN_BSL_Rep3_B9_infer_expt",
+                    "Mmus_BAL-TAL_RRTN_BSL_Rep4_B10_infer_expt",
+                    "Mmus_BAL-TAL_RRTN_GC_Rep4_G10_infer_expt"
+                ]
+            ],
+            "datasets": [
+                [
+                    {
+                        "name": "Sense",
+                        "data": [
+                            29.409999999999997,
+                            7.6899999999999995,
+                            15.0,
+                            16.669999999999998,
+                            23.53,
+                            0.0,
+                            9.09,
+                            18.75,
+                            13.33,
+                            6.67,
+                            21.43,
+                            25.0,
+                            15.790000000000001
+                        ]
+                    },
+                    {
+                        "name": "Antisense",
+                        "data": [
+                            64.71000000000001,
+                            84.61999999999999,
+                            75.0,
+                            83.33,
+                            70.59,
+                            85.71,
+                            54.55,
+                            71.88,
+                            66.67,
+                            80.0,
+                            71.43,
+                            68.75,
+                            84.21
+                        ]
+                    },
+                    {
+                        "name": "Undetermined",
+                        "data": [
+                            5.88,
+                            7.6899999999999995,
+                            10.0,
+                            0.0,
+                            5.88,
+                            14.29,
+                            36.36,
+                            9.379999999999999,
+                            20.0,
+                            13.33,
+                            7.140000000000001,
+                            6.25,
+                            0.0
+                        ]
+                    }
+                ]
+            ],
+            "config": {
+                "id": "rseqc_infer_experiment_plot",
+                "title": "RSeQC: Infer experiment",
+                "ylab": "% Tags",
+                "ymin": 0,
+                "ymax": 100,
+                "tt_percentages": false,
+                "ylab_format": "{value}%",
+                "cpswitch": false
+            }
+        }
+    },
+    "report_saved_raw_data": {
+        "multiqc_rseqc_infer_experiment": {
+            "Mmus_BAL-TAL_LRTN_FLT_Rep3_F8_infer_expt": {
+                "pe_sense": 0.1667,
+                "pe_antisense": 0.8333,
+                "failed": 0.0
+            },
+            "Mmus_BAL-TAL_LRTN_FLT_Rep5_F10_infer_expt": {
+                "pe_sense": 0.0,
+                "pe_antisense": 0.8571,
+                "failed": 0.1429
+            },
+            "Mmus_BAL-TAL_LRTN_GC_Rep1_G6_infer_expt": {
+                "pe_sense": 0.0909,
+                "pe_antisense": 0.5455,
+                "failed": 0.3636
+            },
+            "Mmus_BAL-TAL_LRTN_BSL_Rep1_B7_infer_expt": {
+                "pe_sense": 0.2941,
+                "pe_antisense": 0.6471,
+                "failed": 0.0588
+            },
+            "Mmus_BAL-TAL_LRTN_FLT_Rep1_F6_infer_expt": {
+                "pe_sense": 0.0769,
+                "pe_antisense": 0.8462,
+                "failed": 0.0769
+            },
+            "Mmus_BAL-TAL_LRTN_GC_Rep3_G9_infer_expt": {
+                "pe_sense": 0.1333,
+                "pe_antisense": 0.6667,
+                "failed": 0.2
+            },
+            "Mmus_BAL-TAL_LRTN_FLT_Rep2_F7_infer_expt": {
+                "pe_sense": 0.15,
+                "pe_antisense": 0.75,
+                "failed": 0.1
+            },
+            "Mmus_BAL-TAL_RRTN_GC_Rep4_G10_infer_expt": {
+                "pe_sense": 0.1579,
+                "pe_antisense": 0.8421,
+                "failed": 0.0
+            },
+            "Mmus_BAL-TAL_RRTN_BSL_Rep4_B10_infer_expt": {
+                "pe_sense": 0.25,
+                "pe_antisense": 0.6875,
+                "failed": 0.0625
+            },
+            "Mmus_BAL-TAL_LRTN_GC_Rep2_G8_infer_expt": {
+                "pe_sense": 0.1875,
+                "pe_antisense": 0.7188,
+                "failed": 0.0938
+            },
+            "Mmus_BAL-TAL_RRTN_BSL_Rep3_B9_infer_expt": {
+                "pe_sense": 0.2143,
+                "pe_antisense": 0.7143,
+                "failed": 0.0714
+            },
+            "Mmus_BAL-TAL_LRTN_FLT_Rep4_F9_infer_expt": {
+                "pe_sense": 0.2353,
+                "pe_antisense": 0.7059,
+                "failed": 0.0588
+            },
+            "Mmus_BAL-TAL_RRTN_BSL_Rep2_B8_infer_expt": {
+                "pe_sense": 0.0667,
+                "pe_antisense": 0.8,
+                "failed": 0.1333
+            }
+        }
+    },
+    "config_analysis_dir_abs": [
+        "/tmp/test194/work/be/57772d6b541d2af6db2ef82fc8aa5c/mqc_in"
+    ],
+    "config_analysis_dir": [
+        "mqc_in"
+    ],
+    "config_creation_date": "2022-07-25, 19:15",
+    "config_git_hash": null,
+    "config_intro_text": null,
+    "config_report_comment": null,
+    "config_report_header_info": null,
+    "config_script_path": "/usr/local/lib/python3.10/site-packages/multiqc/utils",
+    "config_short_version": "1.12",
+    "config_subtitle": null,
+    "config_title": null,
+    "config_version": "1.12"
+}

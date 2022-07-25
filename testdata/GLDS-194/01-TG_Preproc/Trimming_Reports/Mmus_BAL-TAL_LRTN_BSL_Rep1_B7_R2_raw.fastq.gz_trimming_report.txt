@@ -1,0 +1,112 @@
+
+SUMMARISING RUN PARAMETERS
+==========================
+Input filename: Mmus_BAL-TAL_LRTN_BSL_Rep1_B7_R2_raw.fastq.gz
+Trimming mode: paired-end
+Trim Galore version: 0.6.7
+Cutadapt version: 3.4
+Number of cores used for trimming: 1
+Quality Phred score cutoff: 20
+Quality encoding type selected: ASCII+33
+Adapter sequence: 'AGATCGGAAGAGC' (Illumina TruSeq, Sanger iPCR; user defined)
+Maximum trimming error rate: 0.1 (default)
+Minimum required adapter overlap (stringency): 1 bp
+Minimum required sequence length for both reads before a sequence pair gets removed: 20 bp
+Output file will be GZIP compressed
+
+
+This is cutadapt 3.4 with Python 3.9.6
+Command line parameters: -j 1 -e 0.1 -q 20 -O 1 -a AGATCGGAAGAGC Mmus_BAL-TAL_LRTN_BSL_Rep1_B7_R2_raw.fastq.gz
+Processing reads on 1 core in single-end mode ...
+Finished in 0.01 s (39 µs/read; 1.54 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                     300
+Reads with adapters:                       184 (61.3%)
+Reads written (passing filters):           300 (100.0%)
+
+Total basepairs processed:        45,300 bp
+Quality-trimmed:                     661 bp (1.5%)
+Total written (filtered):         40,467 bp (89.3%)
+
+=== Adapter 1 ===
+
+Sequence: AGATCGGAAGAGC; Type: regular 3'; Length: 13; Trimmed: 184 times
+
+No. of allowed errors:
+1-9 bp: 0; 10-13 bp: 1
+
+Bases preceding removed adapters:
+  A: 17.9%
+  C: 41.3%
+  G: 33.7%
+  T: 7.1%
+  none/other: 0.0%
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+1	43	75.0	0	43
+2	15	18.8	0	15
+3	5	4.7	0	5
+4	3	1.2	0	3
+5	2	0.3	0	2
+6	2	0.1	0	2
+7	1	0.0	0	1
+8	3	0.0	0	3
+9	3	0.0	0	3
+10	1	0.0	1	1
+12	4	0.0	1	4
+13	3	0.0	1	3
+14	1	0.0	1	1
+16	1	0.0	1	1
+17	5	0.0	1	5
+18	2	0.0	1	2
+20	2	0.0	1	2
+22	2	0.0	1	2
+24	3	0.0	1	3
+25	1	0.0	1	1
+26	2	0.0	1	2
+27	1	0.0	1	1
+28	2	0.0	1	2
+29	2	0.0	1	2
+30	6	0.0	1	6
+31	2	0.0	1	1 1
+32	4	0.0	1	4
+34	4	0.0	1	4
+35	1	0.0	1	1
+36	3	0.0	1	3
+37	3	0.0	1	3
+38	4	0.0	1	4
+40	7	0.0	1	7
+41	1	0.0	1	1
+42	3	0.0	1	3
+43	1	0.0	1	1
+44	3	0.0	1	3
+45	3	0.0	1	3
+46	1	0.0	1	1
+47	3	0.0	1	3
+49	2	0.0	1	2
+50	2	0.0	1	2
+51	2	0.0	1	2
+54	5	0.0	1	5
+55	1	0.0	1	1
+56	1	0.0	1	1
+57	1	0.0	1	1
+58	1	0.0	1	1
+60	1	0.0	1	1
+61	2	0.0	1	2
+62	1	0.0	1	1
+64	1	0.0	1	1
+67	1	0.0	1	1
+68	3	0.0	1	3
+69	1	0.0	1	1
+70	1	0.0	1	1
+
+RUN STATISTICS FOR INPUT FILE: Mmus_BAL-TAL_LRTN_BSL_Rep1_B7_R2_raw.fastq.gz
+=============================================
+300 sequences processed in total
+
+Total number of sequences analysed for the sequence pair length validation: 300
+
+Number of sequence pairs removed because at least one read was shorter than the length cutoff (20 bp): 0 (0.00%)

@@ -1,0 +1,14 @@
+Sample	STAR_mqc-generalstats-star-uniquely_mapped_percent	STAR_mqc-generalstats-star-uniquely_mapped
+Mmus_BAL-TAL_LRTN_BSL_Rep1_B7	5.67	17.0
+Mmus_BAL-TAL_LRTN_FLT_Rep1_F6	4.35	13.0
+Mmus_BAL-TAL_LRTN_FLT_Rep2_F7	8.03	24.0
+Mmus_BAL-TAL_LRTN_FLT_Rep3_F8	5.03	15.0
+Mmus_BAL-TAL_LRTN_FLT_Rep4_F9	6.0	18.0
+Mmus_BAL-TAL_LRTN_FLT_Rep5_F10	3.33	10.0
+Mmus_BAL-TAL_LRTN_GC_Rep1_G6	4.67	14.0
+Mmus_BAL-TAL_LRTN_GC_Rep2_G8	7.0	21.0
+Mmus_BAL-TAL_LRTN_GC_Rep3_G9	6.0	18.0
+Mmus_BAL-TAL_RRTN_BSL_Rep2_B8	5.69	17.0
+Mmus_BAL-TAL_RRTN_BSL_Rep3_B9	6.38	19.0
+Mmus_BAL-TAL_RRTN_BSL_Rep4_B10	6.35	19.0
+Mmus_BAL-TAL_RRTN_GC_Rep4_G10	5.67	17.0

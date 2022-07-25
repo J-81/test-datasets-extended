@@ -1,0 +1,14 @@
+Module	Section	Sample Name	Source
+RSeQC	inner_distance	Mmus_BAL-TAL_LRTN_FLT_Rep3_F8	/tmp/test194/work/65/611b5f1f7d6c2963db93ebdb19ad61/mqc_in/Mmus_BAL-TAL_LRTN_FLT_Rep3_F8.inner_distance_freq.txt
+RSeQC	inner_distance	Mmus_BAL-TAL_LRTN_FLT_Rep5_F10	/tmp/test194/work/65/611b5f1f7d6c2963db93ebdb19ad61/mqc_in/Mmus_BAL-TAL_LRTN_FLT_Rep5_F10.inner_distance_freq.txt
+RSeQC	inner_distance	Mmus_BAL-TAL_LRTN_GC_Rep1_G6	/tmp/test194/work/65/611b5f1f7d6c2963db93ebdb19ad61/mqc_in/Mmus_BAL-TAL_LRTN_GC_Rep1_G6.inner_distance_freq.txt
+RSeQC	inner_distance	Mmus_BAL-TAL_LRTN_BSL_Rep1_B7	/tmp/test194/work/65/611b5f1f7d6c2963db93ebdb19ad61/mqc_in/Mmus_BAL-TAL_LRTN_BSL_Rep1_B7.inner_distance_freq.txt
+RSeQC	inner_distance	Mmus_BAL-TAL_LRTN_FLT_Rep1_F6	/tmp/test194/work/65/611b5f1f7d6c2963db93ebdb19ad61/mqc_in/Mmus_BAL-TAL_LRTN_FLT_Rep1_F6.inner_distance_freq.txt
+RSeQC	inner_distance	Mmus_BAL-TAL_LRTN_GC_Rep3_G9	/tmp/test194/work/65/611b5f1f7d6c2963db93ebdb19ad61/mqc_in/Mmus_BAL-TAL_LRTN_GC_Rep3_G9.inner_distance_freq.txt
+RSeQC	inner_distance	Mmus_BAL-TAL_LRTN_FLT_Rep2_F7	/tmp/test194/work/65/611b5f1f7d6c2963db93ebdb19ad61/mqc_in/Mmus_BAL-TAL_LRTN_FLT_Rep2_F7.inner_distance_freq.txt
+RSeQC	inner_distance	Mmus_BAL-TAL_RRTN_GC_Rep4_G10	/tmp/test194/work/65/611b5f1f7d6c2963db93ebdb19ad61/mqc_in/Mmus_BAL-TAL_RRTN_GC_Rep4_G10.inner_distance_freq.txt
+RSeQC	inner_distance	Mmus_BAL-TAL_RRTN_BSL_Rep4_B10	/tmp/test194/work/65/611b5f1f7d6c2963db93ebdb19ad61/mqc_in/Mmus_BAL-TAL_RRTN_BSL_Rep4_B10.inner_distance_freq.txt
+RSeQC	inner_distance	Mmus_BAL-TAL_LRTN_GC_Rep2_G8	/tmp/test194/work/65/611b5f1f7d6c2963db93ebdb19ad61/mqc_in/Mmus_BAL-TAL_LRTN_GC_Rep2_G8.inner_distance_freq.txt
+RSeQC	inner_distance	Mmus_BAL-TAL_RRTN_BSL_Rep3_B9	/tmp/test194/work/65/611b5f1f7d6c2963db93ebdb19ad61/mqc_in/Mmus_BAL-TAL_RRTN_BSL_Rep3_B9.inner_distance_freq.txt
+RSeQC	inner_distance	Mmus_BAL-TAL_LRTN_FLT_Rep4_F9	/tmp/test194/work/65/611b5f1f7d6c2963db93ebdb19ad61/mqc_in/Mmus_BAL-TAL_LRTN_FLT_Rep4_F9.inner_distance_freq.txt
+RSeQC	inner_distance	Mmus_BAL-TAL_RRTN_BSL_Rep2_B8	/tmp/test194/work/65/611b5f1f7d6c2963db93ebdb19ad61/mqc_in/Mmus_BAL-TAL_RRTN_BSL_Rep2_B8.inner_distance_freq.txt
