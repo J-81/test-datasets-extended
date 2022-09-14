@@ -1,71 +1,71 @@
-[2022-07-25 16:20:35,180] multiqc                                            [DEBUG  ]  This is MultiQC v1.12
-[2022-07-25 16:20:35,181] multiqc                                            [DEBUG  ]  No MultiQC config found: /usr/local/lib/python3.10/site-packages/multiqc_config.yaml
-[2022-07-25 16:20:35,181] multiqc                                            [DEBUG  ]  No MultiQC config found: /.multiqc_config.yaml
-[2022-07-25 16:20:35,181] multiqc                                            [DEBUG  ]  No MultiQC config found: multiqc_config.yaml
-[2022-07-25 16:20:35,183] multiqc                                            [DEBUG  ]  Loading config settings from: multiqc.config
-[2022-07-25 16:20:35,183] multiqc                                            [DEBUG  ]  New config 'module_order': [{'fastqc': None}, 'cutadapt', 'star', 'rseqc', 'rsem']
-[2022-07-25 16:20:35,183] multiqc                                            [DEBUG  ]  Added to filename clean extensions: ['.read_distribution_out', '.infer_experiment_out', '.geneBodyCoverage.txt']
-[2022-07-25 16:20:35,183] multiqc                                            [DEBUG  ]  New config 'use_filename_as_sample_name': ['rseqc/gene_body_coverage']
-[2022-07-25 16:20:35,183] multiqc                                            [DEBUG  ]  New config 'show_analysis_paths': False
-[2022-07-25 16:20:35,183] multiqc                                            [DEBUG  ]  New config 'show_analysis_time': False
-[2022-07-25 16:20:35,184] multiqc                                            [DEBUG  ]  Command used: /usr/local/bin/multiqc --sample-names samples.txt --interactive -o read_dist_multiqc_report -n read_dist_multiqc mqc_in --config multiqc.config
-[2022-07-25 16:20:36,018] multiqc                                            [DEBUG  ]  Latest MultiQC version is v1.12
-[2022-07-25 16:20:36,019] multiqc                                            [DEBUG  ]  Loading sample renaming config settings from: samples.txt
-[2022-07-25 16:20:36,019] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Mmus_C57-6J_LVR_FLT_C_Rep1_M25
-[2022-07-25 16:20:36,019] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Mmus_C57-6J_LVR_FLT_C_Rep2_M26
-[2022-07-25 16:20:36,019] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Mmus_C57-6J_LVR_FLT_C_Rep3_M27
-[2022-07-25 16:20:36,019] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Mmus_C57-6J_LVR_FLT_C_Rep4_M28
-[2022-07-25 16:20:36,019] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Mmus_C57-6J_LVR_FLT_C_Rep5_M30
-[2022-07-25 16:20:36,019] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Mmus_C57-6J_LVR_FLT_I_Rep1_M21
-[2022-07-25 16:20:36,019] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Mmus_C57-6J_LVR_FLT_I_Rep2_M22
-[2022-07-25 16:20:36,019] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Mmus_C57-6J_LVR_GC_C_Rep1_M36
-[2022-07-25 16:20:36,019] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Mmus_C57-6J_LVR_GC_C_Rep2_M37
-[2022-07-25 16:20:36,019] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Mmus_C57-6J_LVR_GC_C_Rep3_M38
-[2022-07-25 16:20:36,019] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Mmus_C57-6J_LVR_GC_C_Rep4_M39
-[2022-07-25 16:20:36,019] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Mmus_C57-6J_LVR_GC_C_Rep5_M40
-[2022-07-25 16:20:36,019] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Mmus_C57-6J_LVR_GC_I_Rep1_M31
-[2022-07-25 16:20:36,020] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Mmus_C57-6J_LVR_GC_I_Rep2_M32
-[2022-07-25 16:20:36,020] multiqc                                            [DEBUG  ]  Found 0 sample renaming patterns
-[2022-07-25 16:20:36,020] multiqc                                            [DEBUG  ]  Command     : /usr/local/bin/multiqc --sample-names samples.txt --interactive -o read_dist_multiqc_report -n read_dist_multiqc mqc_in --config multiqc.config
-[2022-07-25 16:20:36,020] multiqc                                            [DEBUG  ]  Working dir : /tmp/glds48/work/71/a738443f0d0ca75b5b95bc57785906
-[2022-07-25 16:20:36,020] multiqc                                            [DEBUG  ]  Template    : default
-[2022-07-25 16:20:36,020] multiqc                                            [DEBUG  ]  Running Python 3.10.2 | packaged by conda-forge | (main, Feb  1 2022, 19:28:35) [GCC 9.4.0]
-[2022-07-25 16:20:36,021] multiqc                                            [DEBUG  ]  Analysing modules: adapterRemoval, afterqc, bamtools, bbmap, bcftools, bcl2fastq, bclconvert, biobambam2, biobloomtools, biscuit, bismark, bowtie1, bowtie2, busco, bustools, ccs, checkqc, clipandmerge, clusterflow, conpair, custom_content, damageprofiler, dedup, deeptools, disambiguate, dragen, eigenstratdatabasetools, fastp, fastq_screen, featureCounts, fgbio, flash, flexbar, gatk, gffcompare, goleft_indexcov, happy, hicexplorer, hicpro, hicup, hisat2, homer, hops, htseq, interop, ivar, jcvi, jellyfish, kaiju, kallisto, kat, kraken, leehom, lima, longranger, macs2, malt, methylQA, minionqc, mirtop, mirtrace, mosdepth, mtnucratio, multivcfanalyzer, nanostat, ngsderive, odgi, optitype, pangolin, pbmarkdup, peddy, phantompeakqualtools, picard, preseq, prokka, purple, pychopper, pycoqc, qc3C, qorts, qualimap, quast, rna_seqc, rockhopper, salmon, sambamba, samblaster, samtools, sargasso, sentieon, seqyclean, sexdeterrmine, sickle, skewer, slamdunk, snippy, snpeff, snpsplit, somalier, sortmerna, stacks, supernova, theta2, tophat, trimmomatic, varscan2, vcftools, vep, verifybamid, whatshap, fastqc, cutadapt, star, rseqc, rsem
-[2022-07-25 16:20:36,021] multiqc                                            [DEBUG  ]  Using temporary directory for creating report: /tmp/tmphcigji3l
-[2022-07-25 16:20:36,322] multiqc                                            [INFO   ]  Search path : /tmp/glds48/work/71/a738443f0d0ca75b5b95bc57785906/mqc_in
-[2022-07-25 16:20:36,391] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: Mmus_C57-6J_LVR_FLT_C_Rep3_M27_read_dist.out
-[2022-07-25 16:20:36,393] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: Mmus_C57-6J_LVR_FLT_C_Rep3_M27_read_dist.out
-[2022-07-25 16:20:36,400] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: Mmus_C57-6J_LVR_FLT_C_Rep5_M30_read_dist.out
-[2022-07-25 16:20:36,401] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: Mmus_C57-6J_LVR_FLT_C_Rep5_M30_read_dist.out
-[2022-07-25 16:20:36,406] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: Mmus_C57-6J_LVR_FLT_C_Rep1_M25_read_dist.out
-[2022-07-25 16:20:36,407] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: Mmus_C57-6J_LVR_FLT_C_Rep1_M25_read_dist.out
-[2022-07-25 16:20:36,458] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: Mmus_C57-6J_LVR_FLT_C_Rep4_M28_read_dist.out
-[2022-07-25 16:20:36,459] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: Mmus_C57-6J_LVR_FLT_C_Rep4_M28_read_dist.out
-[2022-07-25 16:20:36,465] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: Mmus_C57-6J_LVR_GC_C_Rep3_M38_read_dist.out
-[2022-07-25 16:20:36,466] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: Mmus_C57-6J_LVR_GC_C_Rep3_M38_read_dist.out
-[2022-07-25 16:20:36,471] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: Mmus_C57-6J_LVR_FLT_I_Rep2_M22_read_dist.out
-[2022-07-25 16:20:36,472] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: Mmus_C57-6J_LVR_FLT_I_Rep2_M22_read_dist.out
-[2022-07-25 16:20:36,477] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: Mmus_C57-6J_LVR_GC_I_Rep1_M31_read_dist.out
-[2022-07-25 16:20:36,479] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: Mmus_C57-6J_LVR_GC_I_Rep1_M31_read_dist.out
-[2022-07-25 16:20:36,484] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: Mmus_C57-6J_LVR_GC_C_Rep2_M37_read_dist.out
-[2022-07-25 16:20:36,485] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: Mmus_C57-6J_LVR_GC_C_Rep2_M37_read_dist.out
-[2022-07-25 16:20:36,490] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: Mmus_C57-6J_LVR_FLT_C_Rep2_M26_read_dist.out
-[2022-07-25 16:20:36,491] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: Mmus_C57-6J_LVR_FLT_C_Rep2_M26_read_dist.out
-[2022-07-25 16:20:36,497] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: Mmus_C57-6J_LVR_GC_C_Rep4_M39_read_dist.out
-[2022-07-25 16:20:36,497] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: Mmus_C57-6J_LVR_GC_C_Rep4_M39_read_dist.out
-[2022-07-25 16:20:36,503] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: Mmus_C57-6J_LVR_GC_C_Rep5_M40_read_dist.out
-[2022-07-25 16:20:36,504] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: Mmus_C57-6J_LVR_GC_C_Rep5_M40_read_dist.out
-[2022-07-25 16:20:36,509] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: Mmus_C57-6J_LVR_FLT_I_Rep1_M21_read_dist.out
-[2022-07-25 16:20:36,511] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: Mmus_C57-6J_LVR_FLT_I_Rep1_M21_read_dist.out
-[2022-07-25 16:20:36,517] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: Mmus_C57-6J_LVR_GC_C_Rep1_M36_read_dist.out
-[2022-07-25 16:20:36,518] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: Mmus_C57-6J_LVR_GC_C_Rep1_M36_read_dist.out
-[2022-07-25 16:20:36,558] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: Mmus_C57-6J_LVR_GC_I_Rep2_M32_read_dist.out
-[2022-07-25 16:20:36,560] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: Mmus_C57-6J_LVR_GC_I_Rep2_M32_read_dist.out
-[2022-07-25 16:20:39,294] multiqc.plots.bargraph                             [DEBUG  ]  Using matplotlib version 3.5.1
-[2022-07-25 16:20:39,313] multiqc.modules.rseqc.rseqc                        [INFO   ]  Found 14 read_distribution reports
-[2022-07-25 16:20:39,314] multiqc.plots.linegraph                            [DEBUG  ]  Using matplotlib version 3.5.1
-[2022-07-25 16:20:39,355] multiqc                                            [INFO   ]  Compressing plot data
-[2022-07-25 16:20:39,363] multiqc                                            [INFO   ]  Report      : read_dist_multiqc_report/read_dist_multiqc.html
-[2022-07-25 16:20:39,363] multiqc                                            [INFO   ]  Data        : read_dist_multiqc_report/read_dist_multiqc_data
-[2022-07-25 16:20:39,363] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmphcigji3l/multiqc_data' to 'read_dist_multiqc_report/read_dist_multiqc_data'
-[2022-07-25 16:20:39,577] multiqc                                            [INFO   ]  MultiQC complete
+[2022-09-14 23:27:13,112] multiqc                                            [DEBUG  ]  This is MultiQC v1.12
+[2022-09-14 23:27:13,112] multiqc                                            [DEBUG  ]  No MultiQC config found: /usr/local/lib/python3.10/site-packages/multiqc_config.yaml
+[2022-09-14 23:27:13,112] multiqc                                            [DEBUG  ]  No MultiQC config found: /home/gitpod/.multiqc_config.yaml
+[2022-09-14 23:27:13,112] multiqc                                            [DEBUG  ]  No MultiQC config found: multiqc_config.yaml
+[2022-09-14 23:27:13,114] multiqc                                            [DEBUG  ]  Loading config settings from: multiqc.config
+[2022-09-14 23:27:13,114] multiqc                                            [DEBUG  ]  New config 'module_order': [{'fastqc': None}, 'cutadapt', 'star', 'rseqc', 'rsem']
+[2022-09-14 23:27:13,115] multiqc                                            [DEBUG  ]  Added to filename clean extensions: ['.read_distribution_out', '.infer_experiment_out', '.geneBodyCoverage.txt']
+[2022-09-14 23:27:13,115] multiqc                                            [DEBUG  ]  New config 'use_filename_as_sample_name': ['rseqc/gene_body_coverage']
+[2022-09-14 23:27:13,115] multiqc                                            [DEBUG  ]  New config 'show_analysis_paths': False
+[2022-09-14 23:27:13,115] multiqc                                            [DEBUG  ]  New config 'show_analysis_time': False
+[2022-09-14 23:27:13,115] multiqc                                            [DEBUG  ]  Command used: /usr/local/bin/multiqc --sample-names samples.txt --interactive -o read_dist_multiqc_report -n read_dist_multiqc mqc_in --config multiqc.config
+[2022-09-14 23:27:14,106] multiqc                                            [WARNING]  MultiQC Version v1.13 now available!
+[2022-09-14 23:27:14,106] multiqc                                            [DEBUG  ]  Loading sample renaming config settings from: samples.txt
+[2022-09-14 23:27:14,106] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Mmus_C57-6J_LVR_FLT_C_Rep1_M25
+[2022-09-14 23:27:14,109] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Mmus_C57-6J_LVR_FLT_C_Rep2_M26
+[2022-09-14 23:27:14,109] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Mmus_C57-6J_LVR_FLT_C_Rep3_M27
+[2022-09-14 23:27:14,109] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Mmus_C57-6J_LVR_FLT_C_Rep4_M28
+[2022-09-14 23:27:14,110] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Mmus_C57-6J_LVR_FLT_C_Rep5_M30
+[2022-09-14 23:27:14,110] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Mmus_C57-6J_LVR_FLT_I_Rep1_M21
+[2022-09-14 23:27:14,110] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Mmus_C57-6J_LVR_FLT_I_Rep2_M22
+[2022-09-14 23:27:14,110] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Mmus_C57-6J_LVR_GC_C_Rep1_M36
+[2022-09-14 23:27:14,110] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Mmus_C57-6J_LVR_GC_C_Rep2_M37
+[2022-09-14 23:27:14,110] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Mmus_C57-6J_LVR_GC_C_Rep3_M38
+[2022-09-14 23:27:14,110] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Mmus_C57-6J_LVR_GC_C_Rep4_M39
+[2022-09-14 23:27:14,110] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Mmus_C57-6J_LVR_GC_C_Rep5_M40
+[2022-09-14 23:27:14,110] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Mmus_C57-6J_LVR_GC_I_Rep1_M31
+[2022-09-14 23:27:14,110] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Mmus_C57-6J_LVR_GC_I_Rep2_M32
+[2022-09-14 23:27:14,110] multiqc                                            [DEBUG  ]  Found 0 sample renaming patterns
+[2022-09-14 23:27:14,111] multiqc                                            [DEBUG  ]  Command     : /usr/local/bin/multiqc --sample-names samples.txt --interactive -o read_dist_multiqc_report -n read_dist_multiqc mqc_in --config multiqc.config
+[2022-09-14 23:27:14,111] multiqc                                            [DEBUG  ]  Working dir : /tmp/test48,docker/work/47/5e4b2964585c915a79ac383b49b6c0
+[2022-09-14 23:27:14,111] multiqc                                            [DEBUG  ]  Template    : default
+[2022-09-14 23:27:14,111] multiqc                                            [DEBUG  ]  Running Python 3.10.2 | packaged by conda-forge | (main, Feb  1 2022, 19:28:35) [GCC 9.4.0]
+[2022-09-14 23:27:14,111] multiqc                                            [DEBUG  ]  Analysing modules: adapterRemoval, afterqc, bamtools, bbmap, bcftools, bcl2fastq, bclconvert, biobambam2, biobloomtools, biscuit, bismark, bowtie1, bowtie2, busco, bustools, ccs, checkqc, clipandmerge, clusterflow, conpair, custom_content, damageprofiler, dedup, deeptools, disambiguate, dragen, eigenstratdatabasetools, fastp, fastq_screen, featureCounts, fgbio, flash, flexbar, gatk, gffcompare, goleft_indexcov, happy, hicexplorer, hicpro, hicup, hisat2, homer, hops, htseq, interop, ivar, jcvi, jellyfish, kaiju, kallisto, kat, kraken, leehom, lima, longranger, macs2, malt, methylQA, minionqc, mirtop, mirtrace, mosdepth, mtnucratio, multivcfanalyzer, nanostat, ngsderive, odgi, optitype, pangolin, pbmarkdup, peddy, phantompeakqualtools, picard, preseq, prokka, purple, pychopper, pycoqc, qc3C, qorts, qualimap, quast, rna_seqc, rockhopper, salmon, sambamba, samblaster, samtools, sargasso, sentieon, seqyclean, sexdeterrmine, sickle, skewer, slamdunk, snippy, snpeff, snpsplit, somalier, sortmerna, stacks, supernova, theta2, tophat, trimmomatic, varscan2, vcftools, vep, verifybamid, whatshap, fastqc, cutadapt, star, rseqc, rsem
+[2022-09-14 23:27:14,112] multiqc                                            [DEBUG  ]  Using temporary directory for creating report: /tmp/tmpo7sc2dar
+[2022-09-14 23:27:14,611] multiqc                                            [INFO   ]  Search path : /tmp/test48,docker/work/47/5e4b2964585c915a79ac383b49b6c0/mqc_in
+[2022-09-14 23:27:14,705] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: Mmus_C57-6J_LVR_GC_C_Rep5_M40_read_dist.out
+[2022-09-14 23:27:14,707] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: Mmus_C57-6J_LVR_GC_C_Rep5_M40_read_dist.out
+[2022-09-14 23:27:14,717] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: Mmus_C57-6J_LVR_FLT_C_Rep4_M28_read_dist.out
+[2022-09-14 23:27:14,718] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: Mmus_C57-6J_LVR_FLT_C_Rep4_M28_read_dist.out
+[2022-09-14 23:27:14,724] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: Mmus_C57-6J_LVR_GC_I_Rep1_M31_read_dist.out
+[2022-09-14 23:27:14,725] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: Mmus_C57-6J_LVR_GC_I_Rep1_M31_read_dist.out
+[2022-09-14 23:27:14,731] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: Mmus_C57-6J_LVR_GC_C_Rep4_M39_read_dist.out
+[2022-09-14 23:27:14,732] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: Mmus_C57-6J_LVR_GC_C_Rep4_M39_read_dist.out
+[2022-09-14 23:27:14,738] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: Mmus_C57-6J_LVR_FLT_I_Rep2_M22_read_dist.out
+[2022-09-14 23:27:14,739] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: Mmus_C57-6J_LVR_FLT_I_Rep2_M22_read_dist.out
+[2022-09-14 23:27:14,806] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: Mmus_C57-6J_LVR_GC_I_Rep2_M32_read_dist.out
+[2022-09-14 23:27:14,808] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: Mmus_C57-6J_LVR_GC_I_Rep2_M32_read_dist.out
+[2022-09-14 23:27:14,813] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: Mmus_C57-6J_LVR_GC_C_Rep2_M37_read_dist.out
+[2022-09-14 23:27:14,814] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: Mmus_C57-6J_LVR_GC_C_Rep2_M37_read_dist.out
+[2022-09-14 23:27:14,819] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: Mmus_C57-6J_LVR_FLT_C_Rep3_M27_read_dist.out
+[2022-09-14 23:27:14,820] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: Mmus_C57-6J_LVR_FLT_C_Rep3_M27_read_dist.out
+[2022-09-14 23:27:14,825] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: Mmus_C57-6J_LVR_GC_C_Rep1_M36_read_dist.out
+[2022-09-14 23:27:14,826] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: Mmus_C57-6J_LVR_GC_C_Rep1_M36_read_dist.out
+[2022-09-14 23:27:14,830] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: Mmus_C57-6J_LVR_FLT_C_Rep1_M25_read_dist.out
+[2022-09-14 23:27:14,831] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: Mmus_C57-6J_LVR_FLT_C_Rep1_M25_read_dist.out
+[2022-09-14 23:27:14,835] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: Mmus_C57-6J_LVR_FLT_C_Rep5_M30_read_dist.out
+[2022-09-14 23:27:14,836] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: Mmus_C57-6J_LVR_FLT_C_Rep5_M30_read_dist.out
+[2022-09-14 23:27:14,841] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: Mmus_C57-6J_LVR_FLT_I_Rep1_M21_read_dist.out
+[2022-09-14 23:27:14,841] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: Mmus_C57-6J_LVR_FLT_I_Rep1_M21_read_dist.out
+[2022-09-14 23:27:14,904] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: Mmus_C57-6J_LVR_GC_C_Rep3_M38_read_dist.out
+[2022-09-14 23:27:14,905] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: Mmus_C57-6J_LVR_GC_C_Rep3_M38_read_dist.out
+[2022-09-14 23:27:14,911] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: Mmus_C57-6J_LVR_FLT_C_Rep2_M26_read_dist.out
+[2022-09-14 23:27:14,911] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: Mmus_C57-6J_LVR_FLT_C_Rep2_M26_read_dist.out
+[2022-09-14 23:27:17,021] multiqc.plots.bargraph                             [DEBUG  ]  Using matplotlib version 3.5.1
+[2022-09-14 23:27:17,038] multiqc.modules.rseqc.rseqc                        [INFO   ]  Found 14 read_distribution reports
+[2022-09-14 23:27:17,039] multiqc.plots.linegraph                            [DEBUG  ]  Using matplotlib version 3.5.1
+[2022-09-14 23:27:17,042] multiqc                                            [INFO   ]  Compressing plot data
+[2022-09-14 23:27:17,050] multiqc                                            [INFO   ]  Report      : read_dist_multiqc_report/read_dist_multiqc.html
+[2022-09-14 23:27:17,050] multiqc                                            [INFO   ]  Data        : read_dist_multiqc_report/read_dist_multiqc_data
+[2022-09-14 23:27:17,050] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmpo7sc2dar/multiqc_data' to 'read_dist_multiqc_report/read_dist_multiqc_data'
+[2022-09-14 23:27:17,244] multiqc                                            [INFO   ]  MultiQC complete

@@ -2,20 +2,20 @@
     "report_data_sources": {
         "RSeQC": {
             "infer_experiment": {
-                "Mmus_C57-6J_LVR_FLT_C_Rep3_M27_infer_expt": "/tmp/glds48/work/ce/1ba28f92cf9416f4e47786cf6104c7/mqc_in/Mmus_C57-6J_LVR_FLT_C_Rep3_M27_infer_expt.out",
-                "Mmus_C57-6J_LVR_FLT_C_Rep5_M30_infer_expt": "/tmp/glds48/work/ce/1ba28f92cf9416f4e47786cf6104c7/mqc_in/Mmus_C57-6J_LVR_FLT_C_Rep5_M30_infer_expt.out",
-                "Mmus_C57-6J_LVR_FLT_C_Rep1_M25_infer_expt": "/tmp/glds48/work/ce/1ba28f92cf9416f4e47786cf6104c7/mqc_in/Mmus_C57-6J_LVR_FLT_C_Rep1_M25_infer_expt.out",
-                "Mmus_C57-6J_LVR_FLT_C_Rep4_M28_infer_expt": "/tmp/glds48/work/ce/1ba28f92cf9416f4e47786cf6104c7/mqc_in/Mmus_C57-6J_LVR_FLT_C_Rep4_M28_infer_expt.out",
-                "Mmus_C57-6J_LVR_GC_C_Rep3_M38_infer_expt": "/tmp/glds48/work/ce/1ba28f92cf9416f4e47786cf6104c7/mqc_in/Mmus_C57-6J_LVR_GC_C_Rep3_M38_infer_expt.out",
-                "Mmus_C57-6J_LVR_FLT_I_Rep2_M22_infer_expt": "/tmp/glds48/work/ce/1ba28f92cf9416f4e47786cf6104c7/mqc_in/Mmus_C57-6J_LVR_FLT_I_Rep2_M22_infer_expt.out",
-                "Mmus_C57-6J_LVR_GC_I_Rep1_M31_infer_expt": "/tmp/glds48/work/ce/1ba28f92cf9416f4e47786cf6104c7/mqc_in/Mmus_C57-6J_LVR_GC_I_Rep1_M31_infer_expt.out",
-                "Mmus_C57-6J_LVR_GC_C_Rep2_M37_infer_expt": "/tmp/glds48/work/ce/1ba28f92cf9416f4e47786cf6104c7/mqc_in/Mmus_C57-6J_LVR_GC_C_Rep2_M37_infer_expt.out",
-                "Mmus_C57-6J_LVR_FLT_C_Rep2_M26_infer_expt": "/tmp/glds48/work/ce/1ba28f92cf9416f4e47786cf6104c7/mqc_in/Mmus_C57-6J_LVR_FLT_C_Rep2_M26_infer_expt.out",
-                "Mmus_C57-6J_LVR_GC_C_Rep4_M39_infer_expt": "/tmp/glds48/work/ce/1ba28f92cf9416f4e47786cf6104c7/mqc_in/Mmus_C57-6J_LVR_GC_C_Rep4_M39_infer_expt.out",
-                "Mmus_C57-6J_LVR_GC_C_Rep5_M40_infer_expt": "/tmp/glds48/work/ce/1ba28f92cf9416f4e47786cf6104c7/mqc_in/Mmus_C57-6J_LVR_GC_C_Rep5_M40_infer_expt.out",
-                "Mmus_C57-6J_LVR_GC_C_Rep1_M36_infer_expt": "/tmp/glds48/work/ce/1ba28f92cf9416f4e47786cf6104c7/mqc_in/Mmus_C57-6J_LVR_GC_C_Rep1_M36_infer_expt.out",
-                "Mmus_C57-6J_LVR_GC_I_Rep2_M32_infer_expt": "/tmp/glds48/work/ce/1ba28f92cf9416f4e47786cf6104c7/mqc_in/Mmus_C57-6J_LVR_GC_I_Rep2_M32_infer_expt.out",
-                "Mmus_C57-6J_LVR_FLT_I_Rep1_M21_infer_expt": "/tmp/glds48/work/ce/1ba28f92cf9416f4e47786cf6104c7/mqc_in/Mmus_C57-6J_LVR_FLT_I_Rep1_M21_infer_expt.out"
+                "Mmus_C57-6J_LVR_GC_C_Rep5_M40_infer_expt": "/tmp/test48,docker/work/6b/e9c1e82a307bd6d16d0b8409f1279a/mqc_in/Mmus_C57-6J_LVR_GC_C_Rep5_M40_infer_expt.out",
+                "Mmus_C57-6J_LVR_GC_C_Rep4_M39_infer_expt": "/tmp/test48,docker/work/6b/e9c1e82a307bd6d16d0b8409f1279a/mqc_in/Mmus_C57-6J_LVR_GC_C_Rep4_M39_infer_expt.out",
+                "Mmus_C57-6J_LVR_FLT_C_Rep4_M28_infer_expt": "/tmp/test48,docker/work/6b/e9c1e82a307bd6d16d0b8409f1279a/mqc_in/Mmus_C57-6J_LVR_FLT_C_Rep4_M28_infer_expt.out",
+                "Mmus_C57-6J_LVR_GC_I_Rep1_M31_infer_expt": "/tmp/test48,docker/work/6b/e9c1e82a307bd6d16d0b8409f1279a/mqc_in/Mmus_C57-6J_LVR_GC_I_Rep1_M31_infer_expt.out",
+                "Mmus_C57-6J_LVR_FLT_I_Rep2_M22_infer_expt": "/tmp/test48,docker/work/6b/e9c1e82a307bd6d16d0b8409f1279a/mqc_in/Mmus_C57-6J_LVR_FLT_I_Rep2_M22_infer_expt.out",
+                "Mmus_C57-6J_LVR_GC_I_Rep2_M32_infer_expt": "/tmp/test48,docker/work/6b/e9c1e82a307bd6d16d0b8409f1279a/mqc_in/Mmus_C57-6J_LVR_GC_I_Rep2_M32_infer_expt.out",
+                "Mmus_C57-6J_LVR_GC_C_Rep2_M37_infer_expt": "/tmp/test48,docker/work/6b/e9c1e82a307bd6d16d0b8409f1279a/mqc_in/Mmus_C57-6J_LVR_GC_C_Rep2_M37_infer_expt.out",
+                "Mmus_C57-6J_LVR_FLT_C_Rep3_M27_infer_expt": "/tmp/test48,docker/work/6b/e9c1e82a307bd6d16d0b8409f1279a/mqc_in/Mmus_C57-6J_LVR_FLT_C_Rep3_M27_infer_expt.out",
+                "Mmus_C57-6J_LVR_GC_C_Rep1_M36_infer_expt": "/tmp/test48,docker/work/6b/e9c1e82a307bd6d16d0b8409f1279a/mqc_in/Mmus_C57-6J_LVR_GC_C_Rep1_M36_infer_expt.out",
+                "Mmus_C57-6J_LVR_FLT_C_Rep1_M25_infer_expt": "/tmp/test48,docker/work/6b/e9c1e82a307bd6d16d0b8409f1279a/mqc_in/Mmus_C57-6J_LVR_FLT_C_Rep1_M25_infer_expt.out",
+                "Mmus_C57-6J_LVR_FLT_C_Rep2_M26_infer_expt": "/tmp/test48,docker/work/6b/e9c1e82a307bd6d16d0b8409f1279a/mqc_in/Mmus_C57-6J_LVR_FLT_C_Rep2_M26_infer_expt.out",
+                "Mmus_C57-6J_LVR_GC_C_Rep3_M38_infer_expt": "/tmp/test48,docker/work/6b/e9c1e82a307bd6d16d0b8409f1279a/mqc_in/Mmus_C57-6J_LVR_GC_C_Rep3_M38_infer_expt.out",
+                "Mmus_C57-6J_LVR_FLT_C_Rep5_M30_infer_expt": "/tmp/test48,docker/work/6b/e9c1e82a307bd6d16d0b8409f1279a/mqc_in/Mmus_C57-6J_LVR_FLT_C_Rep5_M30_infer_expt.out",
+                "Mmus_C57-6J_LVR_FLT_I_Rep1_M21_infer_expt": "/tmp/test48,docker/work/6b/e9c1e82a307bd6d16d0b8409f1279a/mqc_in/Mmus_C57-6J_LVR_FLT_I_Rep1_M21_infer_expt.out"
             }
         }
     },
@@ -48,58 +48,58 @@
                     {
                         "name": "Sense",
                         "data": [
-                            7.140000000000001,
-                            8.33,
-                            21.43,
-                            10.530000000000001,
-                            0.0,
-                            5.56,
-                            0.0,
                             7.6899999999999995,
+                            8.16,
+                            17.86,
+                            8.82,
+                            4.35,
+                            3.0300000000000002,
+                            7.41,
+                            6.9,
                             0.0,
-                            8.7,
-                            9.68,
-                            8.33,
-                            0.0,
+                            11.76,
+                            9.09,
+                            5.26,
+                            2.5,
                             0.0
                         ]
                     },
                     {
                         "name": "Antisense",
                         "data": [
-                            92.86,
-                            70.83,
-                            78.57,
-                            84.21,
-                            92.31,
-                            83.33,
-                            87.5,
-                            84.61999999999999,
-                            100.0,
-                            73.91,
-                            83.87,
-                            87.5,
-                            86.36,
-                            92.86
+                            88.46000000000001,
+                            81.63,
+                            82.14,
+                            82.35,
+                            86.96000000000001,
+                            90.91,
+                            88.89,
+                            79.31,
+                            96.55,
+                            73.53,
+                            84.09,
+                            92.11,
+                            82.5,
+                            93.33
                         ]
                     },
                     {
                         "name": "Undetermined",
                         "data": [
+                            3.85,
+                            10.2,
                             0.0,
-                            20.830000000000002,
-                            0.0,
-                            5.26,
-                            7.6899999999999995,
-                            11.110000000000001,
-                            12.5,
-                            7.6899999999999995,
-                            0.0,
-                            17.39,
-                            6.45,
-                            4.17,
-                            13.639999999999999,
-                            7.140000000000001
+                            8.82,
+                            8.7,
+                            6.0600000000000005,
+                            3.6999999999999997,
+                            13.79,
+                            3.45,
+                            14.71,
+                            6.819999999999999,
+                            2.63,
+                            15.0,
+                            6.67
                         ]
                     }
                 ]
@@ -118,85 +118,85 @@
     },
     "report_saved_raw_data": {
         "multiqc_rseqc_infer_experiment": {
-            "Mmus_C57-6J_LVR_FLT_C_Rep3_M27_infer_expt": {
-                "se_sense": 0.2143,
-                "se_antisense": 0.7857,
-                "failed": 0.0
-            },
-            "Mmus_C57-6J_LVR_FLT_C_Rep5_M30_infer_expt": {
-                "se_sense": 0.0,
-                "se_antisense": 0.9231,
-                "failed": 0.0769
-            },
-            "Mmus_C57-6J_LVR_FLT_C_Rep1_M25_infer_expt": {
-                "se_sense": 0.0714,
-                "se_antisense": 0.9286,
-                "failed": 0.0
-            },
-            "Mmus_C57-6J_LVR_FLT_C_Rep4_M28_infer_expt": {
-                "se_sense": 0.1053,
-                "se_antisense": 0.8421,
-                "failed": 0.0526
-            },
-            "Mmus_C57-6J_LVR_GC_C_Rep3_M38_infer_expt": {
-                "se_sense": 0.087,
-                "se_antisense": 0.7391,
-                "failed": 0.1739
-            },
-            "Mmus_C57-6J_LVR_FLT_I_Rep2_M22_infer_expt": {
-                "se_sense": 0.0,
-                "se_antisense": 0.875,
-                "failed": 0.125
-            },
-            "Mmus_C57-6J_LVR_GC_I_Rep1_M31_infer_expt": {
-                "se_sense": 0.0,
-                "se_antisense": 0.8636,
-                "failed": 0.1364
-            },
-            "Mmus_C57-6J_LVR_GC_C_Rep2_M37_infer_expt": {
-                "se_sense": 0.0,
-                "se_antisense": 1.0,
-                "failed": 0.0
-            },
-            "Mmus_C57-6J_LVR_FLT_C_Rep2_M26_infer_expt": {
-                "se_sense": 0.0833,
-                "se_antisense": 0.7083,
-                "failed": 0.2083
+            "Mmus_C57-6J_LVR_GC_C_Rep5_M40_infer_expt": {
+                "se_sense": 0.0526,
+                "se_antisense": 0.9211,
+                "failed": 0.0263
             },
             "Mmus_C57-6J_LVR_GC_C_Rep4_M39_infer_expt": {
-                "se_sense": 0.0968,
-                "se_antisense": 0.8387,
-                "failed": 0.0645
+                "se_sense": 0.0909,
+                "se_antisense": 0.8409,
+                "failed": 0.0682
             },
-            "Mmus_C57-6J_LVR_GC_C_Rep5_M40_infer_expt": {
-                "se_sense": 0.0833,
-                "se_antisense": 0.875,
-                "failed": 0.0417
+            "Mmus_C57-6J_LVR_FLT_C_Rep4_M28_infer_expt": {
+                "se_sense": 0.0882,
+                "se_antisense": 0.8235,
+                "failed": 0.0882
             },
-            "Mmus_C57-6J_LVR_GC_C_Rep1_M36_infer_expt": {
-                "se_sense": 0.0769,
-                "se_antisense": 0.8462,
-                "failed": 0.0769
+            "Mmus_C57-6J_LVR_GC_I_Rep1_M31_infer_expt": {
+                "se_sense": 0.025,
+                "se_antisense": 0.825,
+                "failed": 0.15
+            },
+            "Mmus_C57-6J_LVR_FLT_I_Rep2_M22_infer_expt": {
+                "se_sense": 0.0741,
+                "se_antisense": 0.8889,
+                "failed": 0.037
             },
             "Mmus_C57-6J_LVR_GC_I_Rep2_M32_infer_expt": {
                 "se_sense": 0.0,
-                "se_antisense": 0.9286,
-                "failed": 0.0714
+                "se_antisense": 0.9333,
+                "failed": 0.0667
+            },
+            "Mmus_C57-6J_LVR_GC_C_Rep2_M37_infer_expt": {
+                "se_sense": 0.0,
+                "se_antisense": 0.9655,
+                "failed": 0.0345
+            },
+            "Mmus_C57-6J_LVR_FLT_C_Rep3_M27_infer_expt": {
+                "se_sense": 0.1786,
+                "se_antisense": 0.8214,
+                "failed": 0.0
+            },
+            "Mmus_C57-6J_LVR_GC_C_Rep1_M36_infer_expt": {
+                "se_sense": 0.069,
+                "se_antisense": 0.7931,
+                "failed": 0.1379
+            },
+            "Mmus_C57-6J_LVR_FLT_C_Rep1_M25_infer_expt": {
+                "se_sense": 0.0769,
+                "se_antisense": 0.8846,
+                "failed": 0.0385
+            },
+            "Mmus_C57-6J_LVR_FLT_C_Rep2_M26_infer_expt": {
+                "se_sense": 0.0816,
+                "se_antisense": 0.8163,
+                "failed": 0.102
+            },
+            "Mmus_C57-6J_LVR_GC_C_Rep3_M38_infer_expt": {
+                "se_sense": 0.1176,
+                "se_antisense": 0.7353,
+                "failed": 0.1471
+            },
+            "Mmus_C57-6J_LVR_FLT_C_Rep5_M30_infer_expt": {
+                "se_sense": 0.0435,
+                "se_antisense": 0.8696,
+                "failed": 0.087
             },
             "Mmus_C57-6J_LVR_FLT_I_Rep1_M21_infer_expt": {
-                "se_sense": 0.0556,
-                "se_antisense": 0.8333,
-                "failed": 0.1111
+                "se_sense": 0.0303,
+                "se_antisense": 0.9091,
+                "failed": 0.0606
             }
         }
     },
     "config_analysis_dir_abs": [
-        "/tmp/glds48/work/ce/1ba28f92cf9416f4e47786cf6104c7/mqc_in"
+        "/tmp/test48,docker/work/6b/e9c1e82a307bd6d16d0b8409f1279a/mqc_in"
     ],
     "config_analysis_dir": [
         "mqc_in"
     ],
-    "config_creation_date": "2022-07-25, 16:20",
+    "config_creation_date": "2022-09-14, 23:27",
     "config_git_hash": null,
     "config_intro_text": null,
     "config_report_comment": null,

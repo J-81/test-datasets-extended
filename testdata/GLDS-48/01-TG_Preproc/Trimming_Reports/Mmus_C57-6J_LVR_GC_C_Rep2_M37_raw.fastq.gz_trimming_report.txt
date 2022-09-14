@@ -18,43 +18,43 @@ Output file will be GZIP compressed
 This is cutadapt 3.4 with Python 3.9.6
 Command line parameters: -j 1 -e 0.1 -q 20 -O 1 -a AGATCGGAAGAGC Mmus_C57-6J_LVR_GC_C_Rep2_M37_raw.fastq.gz
 Processing reads on 1 core in single-end mode ...
-Finished in 0.01 s (28 µs/read; 2.16 M reads/minute).
+Finished in 0.03 s (42 µs/read; 1.42 M reads/minute).
 
 === Summary ===
 
-Total reads processed:                     300
-Reads with adapters:                       100 (33.3%)
-Reads written (passing filters):           300 (100.0%)
+Total reads processed:                     600
+Reads with adapters:                       221 (36.8%)
+Reads written (passing filters):           600 (100.0%)
 
-Total basepairs processed:        15,000 bp
-Quality-trimmed:                       0 bp (0.0%)
-Total written (filtered):         14,752 bp (98.3%)
+Total basepairs processed:        30,000 bp
+Quality-trimmed:                       8 bp (0.0%)
+Total written (filtered):         29,336 bp (97.8%)
 
 === Adapter 1 ===
 
-Sequence: AGATCGGAAGAGC; Type: regular 3'; Length: 13; Trimmed: 100 times
+Sequence: AGATCGGAAGAGC; Type: regular 3'; Length: 13; Trimmed: 221 times
 
 No. of allowed errors:
 1-9 bp: 0; 10-13 bp: 1
 
 Bases preceding removed adapters:
-  A: 23.0%
-  C: 34.0%
-  G: 18.0%
-  T: 23.0%
-  none/other: 2.0%
+  A: 24.9%
+  C: 31.2%
+  G: 18.1%
+  T: 22.6%
+  none/other: 3.2%
 
 Overview of removed sequences
 length	count	expect	max.err	error counts
-1	65	75.0	0	65
-2	21	18.8	0	21
-3	8	4.7	0	8
-4	3	1.2	0	3
-5	1	0.3	0	1
-50	2	0.0	1	0 2
+1	151	150.0	0	151
+2	42	37.5	0	42
+3	14	9.4	0	14
+4	6	2.3	0	6
+5	1	0.6	0	1
+50	7	0.0	1	0 7
 
 RUN STATISTICS FOR INPUT FILE: Mmus_C57-6J_LVR_GC_C_Rep2_M37_raw.fastq.gz
 =============================================
-300 sequences processed in total
-Sequences removed because they became shorter than the length cutoff of 20 bp:	2 (0.7%)
+600 sequences processed in total
+Sequences removed because they became shorter than the length cutoff of 20 bp:	7 (1.2%)
 

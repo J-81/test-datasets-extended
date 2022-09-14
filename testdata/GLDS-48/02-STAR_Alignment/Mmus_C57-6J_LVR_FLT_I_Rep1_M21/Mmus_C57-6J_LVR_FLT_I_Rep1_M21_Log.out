@@ -2,15 +2,15 @@ STAR version=2.7.10a
 STAR compilation time,server,dir=2022-01-14T18:50:00-05:00 :/home/dobin/data/STAR/STARcode/STAR.master/source
 STAR git: On branch master ; commit ae26add7ea1724f3281ec8abedb71bcff6a4ae73 ; diff files: CHANGES.md README.md RELEASEnotes.md doc/STARmanual.pdf extras/doc-latex/STARmanual.tex extras/doc-latex/convertParDefToLatexTable.awk extras/doc-latex/parametersDefault.tex extras/docker/Dockerfile source/VERSION 
 ##### Command Line:
-STAR --twopassMode Basic --limitBAMsortRAM 8589934592 --outFilterType BySJout --outSAMunmapped Within --genomeDir Mus_musculus.GRCm38.dna.primary_assembly_sub_19_RL-50 --outSAMattributes NH HI AS NM MD MC --outFilterMismatchNoverReadLmax 0.04 --outFilterMismatchNmax 999 --outFilterMultimapNmax 20 --alignIntronMin 20 --alignSJoverhangMin 8 --alignMatesGapMax 1000000 --alignIntronMax 1000000 --alignSJDBoverhangMin 1 --sjdbScore 1 --outSAMtype BAM SortedByCoordinate --outSAMheaderHD @HD VN:1.4 SO:coordinate --runThreadN 2 --readFilesCommand zcat --quantMode TranscriptomeSAM GeneCounts --outFileNamePrefix Mmus_C57-6J_LVR_FLT_I_Rep1_M21/Mmus_C57-6J_LVR_FLT_I_Rep1_M21_ --readFilesIn Mmus_C57-6J_LVR_FLT_I_Rep1_M21_trimmed.fastq.gz
+STAR --twopassMode Basic --limitBAMsortRAM 4294967296 --outFilterType BySJout --outSAMunmapped Within --genomeDir Mus_musculus.GRCm39.dna.primary_assembly_sub_19_RL-50 --outSAMattributes NH HI AS NM MD MC --outFilterMismatchNoverReadLmax 0.04 --outFilterMismatchNmax 999 --outFilterMultimapNmax 20 --alignIntronMin 20 --alignSJoverhangMin 8 --alignMatesGapMax 1000000 --alignIntronMax 1000000 --alignSJDBoverhangMin 1 --sjdbScore 1 --outSAMtype BAM SortedByCoordinate --outSAMheaderHD @HD VN:1.4 SO:coordinate --runThreadN 2 --readFilesCommand zcat --quantMode TranscriptomeSAM GeneCounts --outFileNamePrefix Mmus_C57-6J_LVR_FLT_I_Rep1_M21/Mmus_C57-6J_LVR_FLT_I_Rep1_M21_ --readFilesIn Mmus_C57-6J_LVR_FLT_I_Rep1_M21_trimmed.fastq.gz
 ##### Initial USER parameters from Command Line:
 outFileNamePrefix                 Mmus_C57-6J_LVR_FLT_I_Rep1_M21/Mmus_C57-6J_LVR_FLT_I_Rep1_M21_
 ###### All USER parameters from Command Line:
 twopassMode                   Basic     ~RE-DEFINED
-limitBAMsortRAM               8589934592     ~RE-DEFINED
+limitBAMsortRAM               4294967296     ~RE-DEFINED
 outFilterType                 BySJout     ~RE-DEFINED
 outSAMunmapped                Within        ~RE-DEFINED
-genomeDir                     Mus_musculus.GRCm38.dna.primary_assembly_sub_19_RL-50     ~RE-DEFINED
+genomeDir                     Mus_musculus.GRCm39.dna.primary_assembly_sub_19_RL-50     ~RE-DEFINED
 outSAMattributes              NH   HI   AS   NM   MD   MC        ~RE-DEFINED
 outFilterMismatchNoverReadLmax0.04     ~RE-DEFINED
 outFilterMismatchNmax         999     ~RE-DEFINED
@@ -32,10 +32,10 @@ readFilesIn                   Mmus_C57-6J_LVR_FLT_I_Rep1_M21_trimmed.fastq.gz   
 
 ##### Final user re-defined parameters-----------------:
 runThreadN                        2
-genomeDir                         Mus_musculus.GRCm38.dna.primary_assembly_sub_19_RL-50
+genomeDir                         Mus_musculus.GRCm39.dna.primary_assembly_sub_19_RL-50
 readFilesIn                       Mmus_C57-6J_LVR_FLT_I_Rep1_M21_trimmed.fastq.gz   
 readFilesCommand                  zcat   
-limitBAMsortRAM                   8589934592
+limitBAMsortRAM                   4294967296
 outFileNamePrefix                 Mmus_C57-6J_LVR_FLT_I_Rep1_M21/Mmus_C57-6J_LVR_FLT_I_Rep1_M21_
 outSAMtype                        BAM   SortedByCoordinate   
 outSAMattributes                  NH   HI   AS   NM   MD   MC   
@@ -56,13 +56,13 @@ twopassMode                       Basic
 
 -------------------------------
 ##### Final effective command line:
-STAR   --runThreadN 2   --genomeDir Mus_musculus.GRCm38.dna.primary_assembly_sub_19_RL-50   --readFilesIn Mmus_C57-6J_LVR_FLT_I_Rep1_M21_trimmed.fastq.gz      --readFilesCommand zcat      --limitBAMsortRAM 8589934592   --outFileNamePrefix Mmus_C57-6J_LVR_FLT_I_Rep1_M21/Mmus_C57-6J_LVR_FLT_I_Rep1_M21_   --outSAMtype BAM   SortedByCoordinate      --outSAMattributes NH   HI   AS   NM   MD   MC      --outSAMunmapped Within      --outSAMheaderHD @HD   VN:1.4   SO:coordinate      --outFilterType BySJout   --outFilterMultimapNmax 20   --outFilterMismatchNmax 999   --outFilterMismatchNoverReadLmax 0.04   --alignIntronMin 20   --alignIntronMax 1000000   --alignMatesGapMax 1000000   --alignSJoverhangMin 8   --alignSJDBoverhangMin 1   --sjdbScore 1   --quantMode TranscriptomeSAM   GeneCounts      --twopassMode Basic
+STAR   --runThreadN 2   --genomeDir Mus_musculus.GRCm39.dna.primary_assembly_sub_19_RL-50   --readFilesIn Mmus_C57-6J_LVR_FLT_I_Rep1_M21_trimmed.fastq.gz      --readFilesCommand zcat      --limitBAMsortRAM 4294967296   --outFileNamePrefix Mmus_C57-6J_LVR_FLT_I_Rep1_M21/Mmus_C57-6J_LVR_FLT_I_Rep1_M21_   --outSAMtype BAM   SortedByCoordinate      --outSAMattributes NH   HI   AS   NM   MD   MC      --outSAMunmapped Within      --outSAMheaderHD @HD   VN:1.4   SO:coordinate      --outFilterType BySJout   --outFilterMultimapNmax 20   --outFilterMismatchNmax 999   --outFilterMismatchNoverReadLmax 0.04   --alignIntronMin 20   --alignIntronMax 1000000   --alignMatesGapMax 1000000   --alignSJoverhangMin 8   --alignSJDBoverhangMin 1   --sjdbScore 1   --quantMode TranscriptomeSAM   GeneCounts      --twopassMode Basic
 ----------------------------------------
 
 Number of fastq files for each mate = 1
 
    Input read files for mate 1 :
--rw-r--r--    2 33333    33333         8755 Jul 25 16:13 Mmus_C57-6J_LVR_FLT_I_Rep1_M21_trimmed.fastq.gz
+-rw-r--r--    1 gitpod   gitpod       16903 Sep 14 23:22 Mmus_C57-6J_LVR_FLT_I_Rep1_M21_trimmed.fastq.gz
 
    readsCommandsFile:
 exec > "Mmus_C57-6J_LVR_FLT_I_Rep1_M21/Mmus_C57-6J_LVR_FLT_I_Rep1_M21__STARtmp/tmp.fifo.read1"
@@ -72,11 +72,11 @@ zcat      "Mmus_C57-6J_LVR_FLT_I_Rep1_M21_trimmed.fastq.gz"
 ParametersSolo: --soloCellFilterType CellRanger2.2 filtering parameters:  3000 0.99 10
 Finished loading and checking parameters
 Reading genome generation parameters:
-### STAR   --runMode genomeGenerate      --runThreadN 2   --genomeDir Mus_musculus.GRCm38.dna.primary_assembly_sub_19_RL-50   --genomeFastaFiles Mus_musculus.GRCm38.dna.primary_assembly_sub_19.fa      --genomeSAindexNbases 11   --limitGenomeGenerateRAM 8589934592   --sjdbGTFfile Mus_musculus.GRCm38.96_sub_19.gtf   --sjdbOverhang 49
+### STAR   --runMode genomeGenerate      --runThreadN 2   --genomeDir Mus_musculus.GRCm39.dna.primary_assembly_sub_19_RL-50   --genomeFastaFiles Mus_musculus.GRCm39.dna.primary_assembly_sub_19.fa      --genomeSAindexNbases 11   --limitGenomeGenerateRAM 4294967296   --sjdbGTFfile Mus_musculus.GRCm39.107_sub_19.gtf   --sjdbOverhang 49
 ### GstrandBit=32
 versionGenome                 2.7.4a     ~RE-DEFINED
 genomeType                    Full     ~RE-DEFINED
-genomeFastaFiles              Mus_musculus.GRCm38.dna.primary_assembly_sub_19.fa        ~RE-DEFINED
+genomeFastaFiles              Mus_musculus.GRCm39.dna.primary_assembly_sub_19.fa        ~RE-DEFINED
 genomeSAindexNbases           11     ~RE-DEFINED
 genomeChrBinNbits             18     ~RE-DEFINED
 genomeSAsparseD               1     ~RE-DEFINED
@@ -84,34 +84,34 @@ genomeTransformType           None     ~RE-DEFINED
 genomeTransformVCF            -     ~RE-DEFINED
 sjdbOverhang                  49     ~RE-DEFINED
 sjdbFileChrStartEnd           -        ~RE-DEFINED
-sjdbGTFfile                   Mus_musculus.GRCm38.96_sub_19.gtf     ~RE-DEFINED
+sjdbGTFfile                   Mus_musculus.GRCm39.107_sub_19.gtf     ~RE-DEFINED
 sjdbGTFchrPrefix              -     ~RE-DEFINED
 sjdbGTFfeatureExon            exon     ~RE-DEFINED
 sjdbGTFtagExonParentTranscripttranscript_id     ~RE-DEFINED
 sjdbGTFtagExonParentGene      gene_id     ~RE-DEFINED
 sjdbInsertSave                Basic     ~RE-DEFINED
-genomeFileSizes               62516620   487652685        ~RE-DEFINED
+genomeFileSizes               62532955   487902809        ~RE-DEFINED
 Genome version is compatible with current STAR
 Number of real (reference) chromosomes= 1
-1	19	61431566	0
+1	19	61420004	0
 --sjdbOverhang = 49 taken from the generated genome
-Started loading the genome: Mon Jul 25 16:18:52 2022
+Started loading the genome: Wed Sep 14 23:25:08 2022
 
-Genome: size given as a parameter = 62516620
-SA: size given as a parameter = 487652685
+Genome: size given as a parameter = 62532955
+SA: size given as a parameter = 487902809
 SAindex: size given as a parameter = 1
 Read from SAindex: pGe.gSAindexNbases=11  nSAi=5592404
-nGenome=62516620;  nSAbyte=487652685
-GstrandBit=32   SA number of indices=118218832
+nGenome=62532955;  nSAbyte=487902809
+GstrandBit=32   SA number of indices=118279468
 Shared memory is not used for genomes. Allocated a private copy of the genome.
-Genome file size: 62516620 bytes; state: good=1 eof=0 fail=0 bad=0
-Loading Genome ... done! state: good=1 eof=0 fail=0 bad=0; loaded 62516620 bytes
-SA file size: 487652685 bytes; state: good=1 eof=0 fail=0 bad=0
-Loading SA ... done! state: good=1 eof=0 fail=0 bad=0; loaded 487652685 bytes
+Genome file size: 62532955 bytes; state: good=1 eof=0 fail=0 bad=0
+Loading Genome ... done! state: good=1 eof=0 fail=0 bad=0; loaded 62532955 bytes
+SA file size: 487902809 bytes; state: good=1 eof=0 fail=0 bad=0
+Loading SA ... done! state: good=1 eof=0 fail=0 bad=0; loaded 487902809 bytes
 Loading SAindex ... done: 24466875 bytes
-Finished loading the genome: Mon Jul 25 16:18:53 2022
+Finished loading the genome: Wed Sep 14 23:25:41 2022
 
-Processing splice junctions database sjdbN=9220,   pGe.sjdbOverhang=49 
+Processing splice junctions database sjdbN=9385,   pGe.sjdbOverhang=49 
 To accommodate alignIntronMax=1000000 redefined winBinNbits=18
 To accommodate alignIntronMax=1000000 and alignMatesGapMax=1000000, redefined winFlankNbins=4 and winAnchorDistNbins=8
 Opening the file: Mmus_C57-6J_LVR_FLT_I_Rep1_M21/Mmus_C57-6J_LVR_FLT_I_Rep1_M21__STARtmp//FilterBySJoutFiles.mate1.thread0 ... ok
@@ -123,30 +123,30 @@ Thread #0 end of input stream, nextChar=-1
 Completed: thread #1
 Completed: thread #0
 Joined thread # 1
-Jul 25 16:18:54   Loaded database junctions from the generated genome Mus_musculus.GRCm38.dna.primary_assembly_sub_19_RL-50//sjdbList.out.tab: 9220 total junctions
+Sep 14 23:26:06   Loaded database junctions from the generated genome Mus_musculus.GRCm39.dna.primary_assembly_sub_19_RL-50//sjdbList.out.tab: 9385 total junctions
 
-Jul 25 16:18:54   Loaded database junctions from the 1st pass file: Mmus_C57-6J_LVR_FLT_I_Rep1_M21/Mmus_C57-6J_LVR_FLT_I_Rep1_M21__STARpass1//SJ.out.tab: 9222 total junctions
+Sep 14 23:26:06   Loaded database junctions from the 1st pass file: Mmus_C57-6J_LVR_FLT_I_Rep1_M21/Mmus_C57-6J_LVR_FLT_I_Rep1_M21__STARpass1//SJ.out.tab: 9388 total junctions
 
-Jul 25 16:18:54   Finished preparing junctions
-Jul 25 16:18:54 ..... inserting junctions into the genome indices
-Jul 25 16:18:54   Finished SA search: number of new junctions=0, old junctions=9220
-Jul 25 16:18:54   Finished sorting SA indicesL nInd=0
-Genome size with junctions=62516620  61603840   912780
+Sep 14 23:26:06   Finished preparing junctions
+Sep 14 23:26:06 ..... inserting junctions into the genome indices
+Sep 14 23:26:06   Finished SA search: number of new junctions=0, old junctions=9385
+Sep 14 23:26:06   Finished sorting SA indicesL nInd=0
+Genome size with junctions=62532955  61603840   929115
 GstrandBit1=32   GstrandBit=32
-Jul 25 16:18:59   Finished inserting junction indices
-Jul 25 16:18:59   Finished SAi
-Jul 25 16:18:59 ..... finished inserting junctions into genome
+Sep 14 23:26:23   Finished inserting junction indices
+Sep 14 23:26:23   Finished SAi
+Sep 14 23:26:23 ..... finished inserting junctions into genome
 
    Input read files for mate 1 :
--rw-r--r--    2 33333    33333         8755 Jul 25 16:13 Mmus_C57-6J_LVR_FLT_I_Rep1_M21_trimmed.fastq.gz
+-rw-r--r--    1 gitpod   gitpod       16903 Sep 14 23:22 Mmus_C57-6J_LVR_FLT_I_Rep1_M21_trimmed.fastq.gz
 
    readsCommandsFile:
 exec > "Mmus_C57-6J_LVR_FLT_I_Rep1_M21/Mmus_C57-6J_LVR_FLT_I_Rep1_M21__STARtmp/tmp.fifo.read1"
 echo FILE 0
 zcat      "Mmus_C57-6J_LVR_FLT_I_Rep1_M21_trimmed.fastq.gz"
 
-Loaded transcript database, nTr=4327
-Loaded exon database, nEx=27942
+Loaded transcript database, nTr=4570
+Loaded exon database, nEx=28807
 Opening the file: Mmus_C57-6J_LVR_FLT_I_Rep1_M21/Mmus_C57-6J_LVR_FLT_I_Rep1_M21__STARtmp//FilterBySJoutFiles.mate1.thread0 ... ok
 Opening the file: Mmus_C57-6J_LVR_FLT_I_Rep1_M21/Mmus_C57-6J_LVR_FLT_I_Rep1_M21__STARtmp//FilterBySJoutFiles.mate1.thread1 ... ok
 Created thread # 1
@@ -159,59 +159,63 @@ Joined thread # 1
 Completed stage 1 mapping of outFilterBySJout mapping
 Detected 0 novel junctions that passed filtering, will proceed to filter reads that contained unannotated junctions
 Created thread # 1
-BAM sorting: 34 mapped reads
+BAM sorting: 59 mapped reads
 BAM sorting bins genomic start loci:
-1	0	4430896
-2	0	4430896
-3	0	4430896
-4	0	4430896
-5	0	4430896
-6	0	4430896
-7	0	4430896
-8	0	4430896
-9	0	4430896
-10	0	4430896
-11	0	4430896
-12	0	4430896
-13	0	4430896
-14	0	4430896
-15	0	4430896
-16	0	4430896
-17	0	4430896
-18	0	4430896
-19	0	4430896
-20	0	4430896
-21	0	4430896
-22	0	4430896
-23	0	4430896
-24	0	4430896
-25	0	4430896
-26	0	4430896
-27	0	4430896
-28	0	4430896
-29	0	4430896
-30	0	4430896
-31	0	4430896
-32	0	4430896
-3
-	0	4430896
-3434	0	4430896
-35	0	4430896
-36	0	4430896
-37	0	4430896
-38	0	4430896
-39	0	4430896
-40	0	4430896
-41	0	4430896
-42	0	4430896
-43	0	4430896
-44	0	4430896
-45	0	4430896
-46	0	4430896
-47	0	4430896
-48	0	4430896
+1Completed: thread #nt5174205
+2	0	5174205
+ 59 mapped reads
+BAM sorting bins genomic start loci:
+1Completed: thread #nt5174205
+1
+2	0	5174205
+3	0	7204446
+4	0	7404696
+5	0	7704517
+6	0	9961610
+7	0	9961610
+8	0	9961610
+9	0	9961610
+10	0	9961610
+11	0	9962155
+12	0	10837729
+13	0	13032345
+14	0	13032345
+15	0	13032345
+16	0	13032345
+17	0	14520768
+18	0	14520768
+19	0	16255626
+20	0	16255626
+21	0	17905314
+22	0	20595254
+23	0	22829421
+24	0	23143378
+25	0	24179345
+26	0	24318052
+27	0	24670212
+28	0	24670212
+29	0	25773719
+30	0	30080446
+31	0	31482671
+32	0	31482671
+33	0	31601906
+34	0	31601906
+35	0	36420687
+36	0	37247260
+37	0	39677547
+38	0	39677547
+39	0	39755784
+40	0	39755784
+41	0	40201233
+42	0	40201904
+43	0	43822345
+44	0	43956928
+45	0	44383160
+46	0	44385238
+47	0	44395149
+48	0	46114077
 Completed: thread #0
 Joined thread # 1
-Jul 25 16:19:00 ..... started sorting BAM
-Max memory needed for sorting = 7061
+Sep 14 23:26:31 ..... started sorting BAM
+Max memory needed for sorting = 2280
 ALL DONE!
