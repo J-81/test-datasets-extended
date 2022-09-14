@@ -18,7 +18,7 @@ Output file will be GZIP compressed
 This is cutadapt 3.4 with Python 3.9.6
 Command line parameters: -j 1 -e 0.1 -q 20 -O 1 -a AGATCGGAAGAGC Mmus_BAL-TAL_RRTN_BSL_Rep2_B8_R2_raw.fastq.gz
 Processing reads on 1 core in single-end mode ...
-Finished in 0.01 s (30 µs/read; 1.99 M reads/minute).
+Finished in 0.01 s (42 µs/read; 1.42 M reads/minute).
 
 === Summary ===
 

@@ -2,83 +2,33 @@
     "report_data_sources": {
         "Rsem": {
             "all_sections": {
-                "Mmus_BAL-TAL_LRTN_FLT_Rep3_F8": "/tmp/test194/work/2e/f5fa59fb1868037915a57346375533/mqc_in/Mmus_BAL-TAL_LRTN_FLT_Rep3_F8.stat/Mmus_BAL-TAL_LRTN_FLT_Rep3_F8.cnt",
-                "Mmus_BAL-TAL_RRTN_BSL_Rep2_B8": "/tmp/test194/work/2e/f5fa59fb1868037915a57346375533/mqc_in/Mmus_BAL-TAL_RRTN_BSL_Rep2_B8.stat/Mmus_BAL-TAL_RRTN_BSL_Rep2_B8.cnt",
-                "Mmus_BAL-TAL_RRTN_BSL_Rep3_B9": "/tmp/test194/work/2e/f5fa59fb1868037915a57346375533/mqc_in/Mmus_BAL-TAL_RRTN_BSL_Rep3_B9.stat/Mmus_BAL-TAL_RRTN_BSL_Rep3_B9.cnt",
-                "Mmus_BAL-TAL_LRTN_GC_Rep1_G6": "/tmp/test194/work/2e/f5fa59fb1868037915a57346375533/mqc_in/Mmus_BAL-TAL_LRTN_GC_Rep1_G6.stat/Mmus_BAL-TAL_LRTN_GC_Rep1_G6.cnt",
-                "Mmus_BAL-TAL_LRTN_FLT_Rep5_F10": "/tmp/test194/work/2e/f5fa59fb1868037915a57346375533/mqc_in/Mmus_BAL-TAL_LRTN_FLT_Rep5_F10.stat/Mmus_BAL-TAL_LRTN_FLT_Rep5_F10.cnt",
-                "Mmus_BAL-TAL_LRTN_FLT_Rep4_F9": "/tmp/test194/work/2e/f5fa59fb1868037915a57346375533/mqc_in/Mmus_BAL-TAL_LRTN_FLT_Rep4_F9.stat/Mmus_BAL-TAL_LRTN_FLT_Rep4_F9.cnt",
-                "Mmus_BAL-TAL_LRTN_BSL_Rep1_B7": "/tmp/test194/work/2e/f5fa59fb1868037915a57346375533/mqc_in/Mmus_BAL-TAL_LRTN_BSL_Rep1_B7.stat/Mmus_BAL-TAL_LRTN_BSL_Rep1_B7.cnt",
-                "Mmus_BAL-TAL_RRTN_GC_Rep4_G10": "/tmp/test194/work/2e/f5fa59fb1868037915a57346375533/mqc_in/Mmus_BAL-TAL_RRTN_GC_Rep4_G10.stat/Mmus_BAL-TAL_RRTN_GC_Rep4_G10.cnt",
-                "Mmus_BAL-TAL_LRTN_FLT_Rep2_F7": "/tmp/test194/work/2e/f5fa59fb1868037915a57346375533/mqc_in/Mmus_BAL-TAL_LRTN_FLT_Rep2_F7.stat/Mmus_BAL-TAL_LRTN_FLT_Rep2_F7.cnt",
-                "Mmus_BAL-TAL_LRTN_GC_Rep3_G9": "/tmp/test194/work/2e/f5fa59fb1868037915a57346375533/mqc_in/Mmus_BAL-TAL_LRTN_GC_Rep3_G9.stat/Mmus_BAL-TAL_LRTN_GC_Rep3_G9.cnt",
-                "Mmus_BAL-TAL_RRTN_BSL_Rep4_B10": "/tmp/test194/work/2e/f5fa59fb1868037915a57346375533/mqc_in/Mmus_BAL-TAL_RRTN_BSL_Rep4_B10.stat/Mmus_BAL-TAL_RRTN_BSL_Rep4_B10.cnt",
-                "Mmus_BAL-TAL_LRTN_GC_Rep2_G8": "/tmp/test194/work/2e/f5fa59fb1868037915a57346375533/mqc_in/Mmus_BAL-TAL_LRTN_GC_Rep2_G8.stat/Mmus_BAL-TAL_LRTN_GC_Rep2_G8.cnt",
-                "Mmus_BAL-TAL_LRTN_FLT_Rep1_F6": "/tmp/test194/work/2e/f5fa59fb1868037915a57346375533/mqc_in/Mmus_BAL-TAL_LRTN_FLT_Rep1_F6.stat/Mmus_BAL-TAL_LRTN_FLT_Rep1_F6.cnt"
+                "Mmus_BAL-TAL_RRTN_GC_Rep4_G10": "/tmp/test194,docker/work/a9/eeeb12935732727b62b5c227cce3fe/mqc_in/Mmus_BAL-TAL_RRTN_GC_Rep4_G10.stat/Mmus_BAL-TAL_RRTN_GC_Rep4_G10.cnt",
+                "Mmus_BAL-TAL_LRTN_BSL_Rep1_B7": "/tmp/test194,docker/work/a9/eeeb12935732727b62b5c227cce3fe/mqc_in/Mmus_BAL-TAL_LRTN_BSL_Rep1_B7.stat/Mmus_BAL-TAL_LRTN_BSL_Rep1_B7.cnt",
+                "Mmus_BAL-TAL_RRTN_BSL_Rep2_B8": "/tmp/test194,docker/work/a9/eeeb12935732727b62b5c227cce3fe/mqc_in/Mmus_BAL-TAL_RRTN_BSL_Rep2_B8.stat/Mmus_BAL-TAL_RRTN_BSL_Rep2_B8.cnt",
+                "Mmus_BAL-TAL_LRTN_FLT_Rep4_F9": "/tmp/test194,docker/work/a9/eeeb12935732727b62b5c227cce3fe/mqc_in/Mmus_BAL-TAL_LRTN_FLT_Rep4_F9.stat/Mmus_BAL-TAL_LRTN_FLT_Rep4_F9.cnt",
+                "Mmus_BAL-TAL_LRTN_GC_Rep1_G6": "/tmp/test194,docker/work/a9/eeeb12935732727b62b5c227cce3fe/mqc_in/Mmus_BAL-TAL_LRTN_GC_Rep1_G6.stat/Mmus_BAL-TAL_LRTN_GC_Rep1_G6.cnt",
+                "Mmus_BAL-TAL_LRTN_GC_Rep3_G9": "/tmp/test194,docker/work/a9/eeeb12935732727b62b5c227cce3fe/mqc_in/Mmus_BAL-TAL_LRTN_GC_Rep3_G9.stat/Mmus_BAL-TAL_LRTN_GC_Rep3_G9.cnt",
+                "Mmus_BAL-TAL_RRTN_BSL_Rep3_B9": "/tmp/test194,docker/work/a9/eeeb12935732727b62b5c227cce3fe/mqc_in/Mmus_BAL-TAL_RRTN_BSL_Rep3_B9.stat/Mmus_BAL-TAL_RRTN_BSL_Rep3_B9.cnt",
+                "Mmus_BAL-TAL_LRTN_FLT_Rep5_F10": "/tmp/test194,docker/work/a9/eeeb12935732727b62b5c227cce3fe/mqc_in/Mmus_BAL-TAL_LRTN_FLT_Rep5_F10.stat/Mmus_BAL-TAL_LRTN_FLT_Rep5_F10.cnt",
+                "Mmus_BAL-TAL_LRTN_FLT_Rep3_F8": "/tmp/test194,docker/work/a9/eeeb12935732727b62b5c227cce3fe/mqc_in/Mmus_BAL-TAL_LRTN_FLT_Rep3_F8.stat/Mmus_BAL-TAL_LRTN_FLT_Rep3_F8.cnt",
+                "Mmus_BAL-TAL_LRTN_FLT_Rep1_F6": "/tmp/test194,docker/work/a9/eeeb12935732727b62b5c227cce3fe/mqc_in/Mmus_BAL-TAL_LRTN_FLT_Rep1_F6.stat/Mmus_BAL-TAL_LRTN_FLT_Rep1_F6.cnt",
+                "Mmus_BAL-TAL_LRTN_FLT_Rep2_F7": "/tmp/test194,docker/work/a9/eeeb12935732727b62b5c227cce3fe/mqc_in/Mmus_BAL-TAL_LRTN_FLT_Rep2_F7.stat/Mmus_BAL-TAL_LRTN_FLT_Rep2_F7.cnt",
+                "Mmus_BAL-TAL_RRTN_BSL_Rep4_B10": "/tmp/test194,docker/work/a9/eeeb12935732727b62b5c227cce3fe/mqc_in/Mmus_BAL-TAL_RRTN_BSL_Rep4_B10.stat/Mmus_BAL-TAL_RRTN_BSL_Rep4_B10.cnt",
+                "Mmus_BAL-TAL_LRTN_GC_Rep2_G8": "/tmp/test194,docker/work/a9/eeeb12935732727b62b5c227cce3fe/mqc_in/Mmus_BAL-TAL_LRTN_GC_Rep2_G8.stat/Mmus_BAL-TAL_LRTN_GC_Rep2_G8.cnt"
             }
         }
     },
     "report_general_stats_data": [
         {
-            "Mmus_BAL-TAL_LRTN_FLT_Rep3_F8": {
-                "Unalignable": 282,
-                "Alignable": 10,
-                "Filtered": 0,
-                "Total": 292,
-                "alignable_percent": 3.4246575342465753,
-                "Unique": 10,
-                "Multi": 0,
-                "Uncertain": 3
-            },
-            "Mmus_BAL-TAL_RRTN_BSL_Rep2_B8": {
+            "Mmus_BAL-TAL_RRTN_GC_Rep4_G10": {
                 "Unalignable": 281,
-                "Alignable": 13,
-                "Filtered": 0,
-                "Total": 294,
-                "alignable_percent": 4.421768707482993,
-                "Unique": 13,
-                "Multi": 0,
-                "Uncertain": 3
-            },
-            "Mmus_BAL-TAL_RRTN_BSL_Rep3_B9": {
-                "Unalignable": 277,
-                "Alignable": 4,
-                "Filtered": 0,
-                "Total": 281,
-                "alignable_percent": 1.4234875444839856,
-                "Unique": 4,
-                "Multi": 0,
-                "Uncertain": 0
-            },
-            "Mmus_BAL-TAL_LRTN_GC_Rep1_G6": {
-                "Unalignable": 283,
                 "Alignable": 8,
                 "Filtered": 0,
-                "Total": 291,
-                "alignable_percent": 2.7491408934707904,
+                "Total": 289,
+                "alignable_percent": 2.768166089965398,
                 "Unique": 8,
                 "Multi": 0,
-                "Uncertain": 0
-            },
-            "Mmus_BAL-TAL_LRTN_FLT_Rep5_F10": {
-                "Unalignable": 286,
-                "Alignable": 5,
-                "Filtered": 0,
-                "Total": 291,
-                "alignable_percent": 1.718213058419244,
-                "Unique": 5,
-                "Multi": 0,
-                "Uncertain": 0
-            },
-            "Mmus_BAL-TAL_LRTN_FLT_Rep4_F9": {
-                "Unalignable": 278,
-                "Alignable": 9,
-                "Filtered": 0,
-                "Total": 287,
-                "alignable_percent": 3.1358885017421603,
-                "Unique": 8,
-                "Multi": 1,
-                "Uncertain": 4
+                "Uncertain": 2
             },
             "Mmus_BAL-TAL_LRTN_BSL_Rep1_B7": {
                 "Unalignable": 282,
@@ -90,23 +40,33 @@
                 "Multi": 0,
                 "Uncertain": 5
             },
-            "Mmus_BAL-TAL_RRTN_GC_Rep4_G10": {
+            "Mmus_BAL-TAL_RRTN_BSL_Rep2_B8": {
                 "Unalignable": 281,
+                "Alignable": 13,
+                "Filtered": 0,
+                "Total": 294,
+                "alignable_percent": 4.421768707482993,
+                "Unique": 13,
+                "Multi": 0,
+                "Uncertain": 3
+            },
+            "Mmus_BAL-TAL_LRTN_FLT_Rep4_F9": {
+                "Unalignable": 278,
+                "Alignable": 9,
+                "Filtered": 0,
+                "Total": 287,
+                "alignable_percent": 3.1358885017421603,
+                "Unique": 8,
+                "Multi": 1,
+                "Uncertain": 4
+            },
+            "Mmus_BAL-TAL_LRTN_GC_Rep1_G6": {
+                "Unalignable": 283,
                 "Alignable": 8,
                 "Filtered": 0,
-                "Total": 289,
-                "alignable_percent": 2.768166089965398,
+                "Total": 291,
+                "alignable_percent": 2.7491408934707904,
                 "Unique": 8,
-                "Multi": 0,
-                "Uncertain": 2
-            },
-            "Mmus_BAL-TAL_LRTN_FLT_Rep2_F7": {
-                "Unalignable": 274,
-                "Alignable": 12,
-                "Filtered": 0,
-                "Total": 286,
-                "alignable_percent": 4.195804195804196,
-                "Unique": 12,
                 "Multi": 0,
                 "Uncertain": 2
             },
@@ -119,6 +79,56 @@
                 "Unique": 6,
                 "Multi": 0,
                 "Uncertain": 1
+            },
+            "Mmus_BAL-TAL_RRTN_BSL_Rep3_B9": {
+                "Unalignable": 277,
+                "Alignable": 4,
+                "Filtered": 0,
+                "Total": 281,
+                "alignable_percent": 1.4234875444839856,
+                "Unique": 4,
+                "Multi": 0,
+                "Uncertain": 1
+            },
+            "Mmus_BAL-TAL_LRTN_FLT_Rep5_F10": {
+                "Unalignable": 286,
+                "Alignable": 5,
+                "Filtered": 0,
+                "Total": 291,
+                "alignable_percent": 1.718213058419244,
+                "Unique": 5,
+                "Multi": 0,
+                "Uncertain": 0
+            },
+            "Mmus_BAL-TAL_LRTN_FLT_Rep3_F8": {
+                "Unalignable": 282,
+                "Alignable": 10,
+                "Filtered": 0,
+                "Total": 292,
+                "alignable_percent": 3.4246575342465753,
+                "Unique": 10,
+                "Multi": 0,
+                "Uncertain": 3
+            },
+            "Mmus_BAL-TAL_LRTN_FLT_Rep1_F6": {
+                "Unalignable": 285,
+                "Alignable": 6,
+                "Filtered": 0,
+                "Total": 291,
+                "alignable_percent": 2.0618556701030926,
+                "Unique": 6,
+                "Multi": 0,
+                "Uncertain": 4
+            },
+            "Mmus_BAL-TAL_LRTN_FLT_Rep2_F7": {
+                "Unalignable": 274,
+                "Alignable": 12,
+                "Filtered": 0,
+                "Total": 286,
+                "alignable_percent": 4.195804195804196,
+                "Unique": 12,
+                "Multi": 0,
+                "Uncertain": 2
             },
             "Mmus_BAL-TAL_RRTN_BSL_Rep4_B10": {
                 "Unalignable": 279,
@@ -139,16 +149,6 @@
                 "Unique": 9,
                 "Multi": 0,
                 "Uncertain": 1
-            },
-            "Mmus_BAL-TAL_LRTN_FLT_Rep1_F6": {
-                "Unalignable": 285,
-                "Alignable": 6,
-                "Filtered": 0,
-                "Total": 291,
-                "alignable_percent": 2.0618556701030926,
-                "Unique": 6,
-                "Multi": 0,
-                "Uncertain": 4
             }
         }
     ],
@@ -425,7 +425,15 @@
                             ],
                             [
                                 1,
-                                8
+                                6
+                            ],
+                            [
+                                2,
+                                1
+                            ],
+                            [
+                                3,
+                                1
                             ]
                         ]
                     },
@@ -489,7 +497,11 @@
                             ],
                             [
                                 1,
-                                4
+                                3
+                            ],
+                            [
+                                2,
+                                1
                             ]
                         ]
                     },
@@ -550,65 +562,15 @@
     },
     "report_saved_raw_data": {
         "multiqc_rsem": {
-            "Mmus_BAL-TAL_LRTN_FLT_Rep3_F8": {
-                "Unalignable": 282,
-                "Alignable": 10,
-                "Filtered": 0,
-                "Total": 292,
-                "alignable_percent": 3.4246575342465753,
-                "Unique": 10,
-                "Multi": 0,
-                "Uncertain": 3
-            },
-            "Mmus_BAL-TAL_RRTN_BSL_Rep2_B8": {
+            "Mmus_BAL-TAL_RRTN_GC_Rep4_G10": {
                 "Unalignable": 281,
-                "Alignable": 13,
-                "Filtered": 0,
-                "Total": 294,
-                "alignable_percent": 4.421768707482993,
-                "Unique": 13,
-                "Multi": 0,
-                "Uncertain": 3
-            },
-            "Mmus_BAL-TAL_RRTN_BSL_Rep3_B9": {
-                "Unalignable": 277,
-                "Alignable": 4,
-                "Filtered": 0,
-                "Total": 281,
-                "alignable_percent": 1.4234875444839856,
-                "Unique": 4,
-                "Multi": 0,
-                "Uncertain": 0
-            },
-            "Mmus_BAL-TAL_LRTN_GC_Rep1_G6": {
-                "Unalignable": 283,
                 "Alignable": 8,
                 "Filtered": 0,
-                "Total": 291,
-                "alignable_percent": 2.7491408934707904,
+                "Total": 289,
+                "alignable_percent": 2.768166089965398,
                 "Unique": 8,
                 "Multi": 0,
-                "Uncertain": 0
-            },
-            "Mmus_BAL-TAL_LRTN_FLT_Rep5_F10": {
-                "Unalignable": 286,
-                "Alignable": 5,
-                "Filtered": 0,
-                "Total": 291,
-                "alignable_percent": 1.718213058419244,
-                "Unique": 5,
-                "Multi": 0,
-                "Uncertain": 0
-            },
-            "Mmus_BAL-TAL_LRTN_FLT_Rep4_F9": {
-                "Unalignable": 278,
-                "Alignable": 9,
-                "Filtered": 0,
-                "Total": 287,
-                "alignable_percent": 3.1358885017421603,
-                "Unique": 8,
-                "Multi": 1,
-                "Uncertain": 4
+                "Uncertain": 2
             },
             "Mmus_BAL-TAL_LRTN_BSL_Rep1_B7": {
                 "Unalignable": 282,
@@ -620,23 +582,33 @@
                 "Multi": 0,
                 "Uncertain": 5
             },
-            "Mmus_BAL-TAL_RRTN_GC_Rep4_G10": {
+            "Mmus_BAL-TAL_RRTN_BSL_Rep2_B8": {
                 "Unalignable": 281,
+                "Alignable": 13,
+                "Filtered": 0,
+                "Total": 294,
+                "alignable_percent": 4.421768707482993,
+                "Unique": 13,
+                "Multi": 0,
+                "Uncertain": 3
+            },
+            "Mmus_BAL-TAL_LRTN_FLT_Rep4_F9": {
+                "Unalignable": 278,
+                "Alignable": 9,
+                "Filtered": 0,
+                "Total": 287,
+                "alignable_percent": 3.1358885017421603,
+                "Unique": 8,
+                "Multi": 1,
+                "Uncertain": 4
+            },
+            "Mmus_BAL-TAL_LRTN_GC_Rep1_G6": {
+                "Unalignable": 283,
                 "Alignable": 8,
                 "Filtered": 0,
-                "Total": 289,
-                "alignable_percent": 2.768166089965398,
+                "Total": 291,
+                "alignable_percent": 2.7491408934707904,
                 "Unique": 8,
-                "Multi": 0,
-                "Uncertain": 2
-            },
-            "Mmus_BAL-TAL_LRTN_FLT_Rep2_F7": {
-                "Unalignable": 274,
-                "Alignable": 12,
-                "Filtered": 0,
-                "Total": 286,
-                "alignable_percent": 4.195804195804196,
-                "Unique": 12,
                 "Multi": 0,
                 "Uncertain": 2
             },
@@ -650,6 +622,56 @@
                 "Multi": 0,
                 "Uncertain": 1
             },
+            "Mmus_BAL-TAL_RRTN_BSL_Rep3_B9": {
+                "Unalignable": 277,
+                "Alignable": 4,
+                "Filtered": 0,
+                "Total": 281,
+                "alignable_percent": 1.4234875444839856,
+                "Unique": 4,
+                "Multi": 0,
+                "Uncertain": 1
+            },
+            "Mmus_BAL-TAL_LRTN_FLT_Rep5_F10": {
+                "Unalignable": 286,
+                "Alignable": 5,
+                "Filtered": 0,
+                "Total": 291,
+                "alignable_percent": 1.718213058419244,
+                "Unique": 5,
+                "Multi": 0,
+                "Uncertain": 0
+            },
+            "Mmus_BAL-TAL_LRTN_FLT_Rep3_F8": {
+                "Unalignable": 282,
+                "Alignable": 10,
+                "Filtered": 0,
+                "Total": 292,
+                "alignable_percent": 3.4246575342465753,
+                "Unique": 10,
+                "Multi": 0,
+                "Uncertain": 3
+            },
+            "Mmus_BAL-TAL_LRTN_FLT_Rep1_F6": {
+                "Unalignable": 285,
+                "Alignable": 6,
+                "Filtered": 0,
+                "Total": 291,
+                "alignable_percent": 2.0618556701030926,
+                "Unique": 6,
+                "Multi": 0,
+                "Uncertain": 4
+            },
+            "Mmus_BAL-TAL_LRTN_FLT_Rep2_F7": {
+                "Unalignable": 274,
+                "Alignable": 12,
+                "Filtered": 0,
+                "Total": 286,
+                "alignable_percent": 4.195804195804196,
+                "Unique": 12,
+                "Multi": 0,
+                "Uncertain": 2
+            },
             "Mmus_BAL-TAL_RRTN_BSL_Rep4_B10": {
                 "Unalignable": 279,
                 "Alignable": 9,
@@ -669,67 +691,57 @@
                 "Unique": 9,
                 "Multi": 0,
                 "Uncertain": 1
-            },
-            "Mmus_BAL-TAL_LRTN_FLT_Rep1_F6": {
-                "Unalignable": 285,
-                "Alignable": 6,
-                "Filtered": 0,
-                "Total": 291,
-                "alignable_percent": 2.0618556701030926,
-                "Unique": 6,
-                "Multi": 0,
-                "Uncertain": 4
             }
         },
         "multiqc_general_stats": {
-            "Mmus_BAL-TAL_LRTN_FLT_Rep3_F8": {
+            "Mmus_BAL-TAL_RRTN_GC_Rep4_G10": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 2.768166089965398
+            },
+            "Mmus_BAL-TAL_LRTN_BSL_Rep1_B7": {
                 "Rsem_mqc-generalstats-rsem-alignable_percent": 3.4246575342465753
             },
             "Mmus_BAL-TAL_RRTN_BSL_Rep2_B8": {
                 "Rsem_mqc-generalstats-rsem-alignable_percent": 4.421768707482993
             },
-            "Mmus_BAL-TAL_RRTN_BSL_Rep3_B9": {
-                "Rsem_mqc-generalstats-rsem-alignable_percent": 1.4234875444839856
+            "Mmus_BAL-TAL_LRTN_FLT_Rep4_F9": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 3.1358885017421603
             },
             "Mmus_BAL-TAL_LRTN_GC_Rep1_G6": {
                 "Rsem_mqc-generalstats-rsem-alignable_percent": 2.7491408934707904
             },
+            "Mmus_BAL-TAL_LRTN_GC_Rep3_G9": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 2.0905923344947737
+            },
+            "Mmus_BAL-TAL_RRTN_BSL_Rep3_B9": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 1.4234875444839856
+            },
             "Mmus_BAL-TAL_LRTN_FLT_Rep5_F10": {
                 "Rsem_mqc-generalstats-rsem-alignable_percent": 1.718213058419244
             },
-            "Mmus_BAL-TAL_LRTN_FLT_Rep4_F9": {
-                "Rsem_mqc-generalstats-rsem-alignable_percent": 3.1358885017421603
-            },
-            "Mmus_BAL-TAL_LRTN_BSL_Rep1_B7": {
+            "Mmus_BAL-TAL_LRTN_FLT_Rep3_F8": {
                 "Rsem_mqc-generalstats-rsem-alignable_percent": 3.4246575342465753
             },
-            "Mmus_BAL-TAL_RRTN_GC_Rep4_G10": {
-                "Rsem_mqc-generalstats-rsem-alignable_percent": 2.768166089965398
+            "Mmus_BAL-TAL_LRTN_FLT_Rep1_F6": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 2.0618556701030926
             },
             "Mmus_BAL-TAL_LRTN_FLT_Rep2_F7": {
                 "Rsem_mqc-generalstats-rsem-alignable_percent": 4.195804195804196
-            },
-            "Mmus_BAL-TAL_LRTN_GC_Rep3_G9": {
-                "Rsem_mqc-generalstats-rsem-alignable_percent": 2.0905923344947737
             },
             "Mmus_BAL-TAL_RRTN_BSL_Rep4_B10": {
                 "Rsem_mqc-generalstats-rsem-alignable_percent": 3.125
             },
             "Mmus_BAL-TAL_LRTN_GC_Rep2_G8": {
                 "Rsem_mqc-generalstats-rsem-alignable_percent": 3.125
-            },
-            "Mmus_BAL-TAL_LRTN_FLT_Rep1_F6": {
-                "Rsem_mqc-generalstats-rsem-alignable_percent": 2.0618556701030926
             }
         }
     },
     "config_analysis_dir_abs": [
-        "/tmp/test194/work/2e/f5fa59fb1868037915a57346375533/mqc_in"
+        "/tmp/test194,docker/work/a9/eeeb12935732727b62b5c227cce3fe/mqc_in"
     ],
     "config_analysis_dir": [
         "mqc_in"
     ],
-    "config_creation_date": "2022-07-25, 19:15",
+    "config_creation_date": "2022-09-14, 18:54",
     "config_git_hash": null,
     "config_intro_text": null,
     "config_report_comment": null,

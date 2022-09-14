@@ -3,14 +3,14 @@ Total Tags                    53
 Total Assigned Tags           49
 =====================================================================
 Group               Total_bases         Tag_count           Tags/Kb             
-CDS_Exons           1165257             11                  0.01              
-5'UTR_Exons         1001181             6                   0.01              
-3'UTR_Exons         1620350             9                   0.01              
-Introns             28603176            19                  0.00              
-TSS_up_1kb          863962              0                   0.00              
-TSS_up_5kb          3780144             2                   0.00              
-TSS_up_10kb         6485408             2                   0.00              
-TES_down_1kb        973642              0                   0.00              
-TES_down_5kb        4129485             0                   0.00              
-TES_down_10kb       7268496             2                   0.00              
+CDS_Exons           1169802             11                  0.01              
+5'UTR_Exons         1045414             6                   0.01              
+3'UTR_Exons         1658717             9                   0.01              
+Introns             28945478            19                  0.00              
+TSS_up_1kb          854805              0                   0.00              
+TSS_up_5kb          3764141             2                   0.00              
+TSS_up_10kb         6431897             2                   0.00              
+TES_down_1kb        989960              0                   0.00              
+TES_down_5kb        4190691             0                   0.00              
+TES_down_10kb       7334154             2                   0.00              
 =====================================================================

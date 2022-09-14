@@ -4,7 +4,7 @@ Mmus_BAL-TAL_LRTN_FLT_Rep1_F6_infer_expt	0.0769	0.8462	0.0769
 Mmus_BAL-TAL_LRTN_FLT_Rep2_F7_infer_expt	0.15	0.75	0.1
 Mmus_BAL-TAL_LRTN_FLT_Rep3_F8_infer_expt	0.1667	0.8333	0.0
 Mmus_BAL-TAL_LRTN_FLT_Rep4_F9_infer_expt	0.2353	0.7059	0.0588
-Mmus_BAL-TAL_LRTN_FLT_Rep5_F10_infer_expt	0.0	0.8571	0.1429
+Mmus_BAL-TAL_LRTN_FLT_Rep5_F10_infer_expt	0.125	0.75	0.125
 Mmus_BAL-TAL_LRTN_GC_Rep1_G6_infer_expt	0.0909	0.5455	0.3636
 Mmus_BAL-TAL_LRTN_GC_Rep2_G8_infer_expt	0.1875	0.7188	0.0938
 Mmus_BAL-TAL_LRTN_GC_Rep3_G9_infer_expt	0.1333	0.6667	0.2
