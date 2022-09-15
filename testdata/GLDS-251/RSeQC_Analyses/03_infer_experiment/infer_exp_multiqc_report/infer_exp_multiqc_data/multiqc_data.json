@@ -1,0 +1,269 @@
+{
+    "report_data_sources": {
+        "RSeQC": {
+            "infer_experiment": {
+                "Atha_Ler-0_sl_FLT_0.57G_Rep1_infer_expt": "/tmp/test251,docker/work/5d/e99b6f38c4370b8850b645f790d94e/mqc_in/Atha_Ler-0_sl_FLT_0.57G_Rep1_infer_expt.out",
+                "Atha_Ler-0_sl_FLT_1G_Rep3_infer_expt": "/tmp/test251,docker/work/5d/e99b6f38c4370b8850b645f790d94e/mqc_in/Atha_Ler-0_sl_FLT_1G_Rep3_infer_expt.out",
+                "Atha_Ler-0_sl_FLT_1G_Rep2_infer_expt": "/tmp/test251,docker/work/5d/e99b6f38c4370b8850b645f790d94e/mqc_in/Atha_Ler-0_sl_FLT_1G_Rep2_infer_expt.out",
+                "Atha_Ler-0_sl_FLT_0.57G_Rep4_infer_expt": "/tmp/test251,docker/work/5d/e99b6f38c4370b8850b645f790d94e/mqc_in/Atha_Ler-0_sl_FLT_0.57G_Rep4_infer_expt.out",
+                "Atha_Ler-0_sl_FLT_0.18G_Rep3_infer_expt": "/tmp/test251,docker/work/5d/e99b6f38c4370b8850b645f790d94e/mqc_in/Atha_Ler-0_sl_FLT_0.18G_Rep3_infer_expt.out",
+                "Atha_Ler-0_sl_FLT_uG_Rep2_infer_expt": "/tmp/test251,docker/work/5d/e99b6f38c4370b8850b645f790d94e/mqc_in/Atha_Ler-0_sl_FLT_uG_Rep2_infer_expt.out",
+                "Atha_Ler-0_sl_FLT_0.36G_Rep2_infer_expt": "/tmp/test251,docker/work/5d/e99b6f38c4370b8850b645f790d94e/mqc_in/Atha_Ler-0_sl_FLT_0.36G_Rep2_infer_expt.out",
+                "Atha_Ler-0_sl_FLT_0.36G_Rep1_infer_expt": "/tmp/test251,docker/work/5d/e99b6f38c4370b8850b645f790d94e/mqc_in/Atha_Ler-0_sl_FLT_0.36G_Rep1_infer_expt.out",
+                "Atha_Ler-0_sl_FLT_0.09G_Rep3_infer_expt": "/tmp/test251,docker/work/5d/e99b6f38c4370b8850b645f790d94e/mqc_in/Atha_Ler-0_sl_FLT_0.09G_Rep3_infer_expt.out",
+                "Atha_Ler-0_sl_FLT_0.36G_Rep3_infer_expt": "/tmp/test251,docker/work/5d/e99b6f38c4370b8850b645f790d94e/mqc_in/Atha_Ler-0_sl_FLT_0.36G_Rep3_infer_expt.out",
+                "Atha_Ler-0_sl_FLT_0.18G_Rep2_infer_expt": "/tmp/test251,docker/work/5d/e99b6f38c4370b8850b645f790d94e/mqc_in/Atha_Ler-0_sl_FLT_0.18G_Rep2_infer_expt.out",
+                "Atha_Ler-0_sl_FLT_uG_Rep4_infer_expt": "/tmp/test251,docker/work/5d/e99b6f38c4370b8850b645f790d94e/mqc_in/Atha_Ler-0_sl_FLT_uG_Rep4_infer_expt.out",
+                "Atha_Ler-0_sl_FLT_0.09G_Rep2_infer_expt": "/tmp/test251,docker/work/5d/e99b6f38c4370b8850b645f790d94e/mqc_in/Atha_Ler-0_sl_FLT_0.09G_Rep2_infer_expt.out",
+                "Atha_Ler-0_sl_FLT_uG_Rep3_infer_expt": "/tmp/test251,docker/work/5d/e99b6f38c4370b8850b645f790d94e/mqc_in/Atha_Ler-0_sl_FLT_uG_Rep3_infer_expt.out",
+                "Atha_Ler-0_sl_FLT_0.57G_Rep2_infer_expt": "/tmp/test251,docker/work/5d/e99b6f38c4370b8850b645f790d94e/mqc_in/Atha_Ler-0_sl_FLT_0.57G_Rep2_infer_expt.out",
+                "Atha_Ler-0_sl_FLT_1G_Rep1_infer_expt": "/tmp/test251,docker/work/5d/e99b6f38c4370b8850b645f790d94e/mqc_in/Atha_Ler-0_sl_FLT_1G_Rep1_infer_expt.out",
+                "Atha_Ler-0_sl_FLT_0.57G_Rep3_infer_expt": "/tmp/test251,docker/work/5d/e99b6f38c4370b8850b645f790d94e/mqc_in/Atha_Ler-0_sl_FLT_0.57G_Rep3_infer_expt.out",
+                "Atha_Ler-0_sl_FLT_0.18G_Rep1_infer_expt": "/tmp/test251,docker/work/5d/e99b6f38c4370b8850b645f790d94e/mqc_in/Atha_Ler-0_sl_FLT_0.18G_Rep1_infer_expt.out",
+                "Atha_Ler-0_sl_FLT_0.09G_Rep1_infer_expt": "/tmp/test251,docker/work/5d/e99b6f38c4370b8850b645f790d94e/mqc_in/Atha_Ler-0_sl_FLT_0.09G_Rep1_infer_expt.out",
+                "Atha_Ler-0_sl_FLT_uG_Rep1_infer_expt": "/tmp/test251,docker/work/5d/e99b6f38c4370b8850b645f790d94e/mqc_in/Atha_Ler-0_sl_FLT_uG_Rep1_infer_expt.out"
+            }
+        }
+    },
+    "report_general_stats_data": [],
+    "report_general_stats_headers": [],
+    "report_multiqc_command": "/usr/local/bin/multiqc --sample-names samples.txt --interactive -o infer_exp_multiqc_report -n infer_exp_multiqc mqc_in --config multiqc.config",
+    "report_plot_data": {
+        "rseqc_infer_experiment_plot": {
+            "plot_type": "bar_graph",
+            "samples": [
+                [
+                    "Atha_Ler-0_sl_FLT_0.09G_Rep1_infer_expt",
+                    "Atha_Ler-0_sl_FLT_0.09G_Rep2_infer_expt",
+                    "Atha_Ler-0_sl_FLT_0.09G_Rep3_infer_expt",
+                    "Atha_Ler-0_sl_FLT_0.18G_Rep1_infer_expt",
+                    "Atha_Ler-0_sl_FLT_0.18G_Rep2_infer_expt",
+                    "Atha_Ler-0_sl_FLT_0.18G_Rep3_infer_expt",
+                    "Atha_Ler-0_sl_FLT_0.36G_Rep1_infer_expt",
+                    "Atha_Ler-0_sl_FLT_0.36G_Rep2_infer_expt",
+                    "Atha_Ler-0_sl_FLT_0.36G_Rep3_infer_expt",
+                    "Atha_Ler-0_sl_FLT_0.57G_Rep1_infer_expt",
+                    "Atha_Ler-0_sl_FLT_0.57G_Rep2_infer_expt",
+                    "Atha_Ler-0_sl_FLT_0.57G_Rep3_infer_expt",
+                    "Atha_Ler-0_sl_FLT_0.57G_Rep4_infer_expt",
+                    "Atha_Ler-0_sl_FLT_1G_Rep1_infer_expt",
+                    "Atha_Ler-0_sl_FLT_1G_Rep2_infer_expt",
+                    "Atha_Ler-0_sl_FLT_1G_Rep3_infer_expt",
+                    "Atha_Ler-0_sl_FLT_uG_Rep1_infer_expt",
+                    "Atha_Ler-0_sl_FLT_uG_Rep2_infer_expt",
+                    "Atha_Ler-0_sl_FLT_uG_Rep3_infer_expt",
+                    "Atha_Ler-0_sl_FLT_uG_Rep4_infer_expt"
+                ]
+            ],
+            "datasets": [
+                [
+                    {
+                        "name": "Sense",
+                        "data": [
+                            39.739999999999995,
+                            52.5,
+                            40.0,
+                            45.28,
+                            47.370000000000005,
+                            56.67,
+                            61.7,
+                            70.83,
+                            44.74,
+                            43.4,
+                            39.82,
+                            47.92,
+                            55.879999999999995,
+                            45.0,
+                            40.57,
+                            50.0,
+                            46.43,
+                            39.739999999999995,
+                            40.0,
+                            35.709999999999994
+                        ]
+                    },
+                    {
+                        "name": "Antisense",
+                        "data": [
+                            55.13,
+                            47.5,
+                            58.18,
+                            50.94,
+                            52.629999999999995,
+                            43.33,
+                            32.98,
+                            29.17,
+                            51.32,
+                            56.599999999999994,
+                            53.98,
+                            52.080000000000005,
+                            41.18,
+                            53.75,
+                            56.599999999999994,
+                            46.300000000000004,
+                            52.38,
+                            51.28,
+                            57.14,
+                            64.29
+                        ]
+                    },
+                    {
+                        "name": "Undetermined",
+                        "data": [
+                            5.13,
+                            0.0,
+                            1.82,
+                            3.7699999999999996,
+                            0.0,
+                            0.0,
+                            5.319999999999999,
+                            0.0,
+                            3.95,
+                            0.0,
+                            6.1899999999999995,
+                            0.0,
+                            2.94,
+                            1.25,
+                            2.83,
+                            3.6999999999999997,
+                            1.1900000000000002,
+                            8.97,
+                            2.86,
+                            0.0
+                        ]
+                    }
+                ]
+            ],
+            "config": {
+                "id": "rseqc_infer_experiment_plot",
+                "title": "RSeQC: Infer experiment",
+                "ylab": "% Tags",
+                "ymin": 0,
+                "ymax": 100,
+                "tt_percentages": false,
+                "ylab_format": "{value}%",
+                "cpswitch": false
+            }
+        }
+    },
+    "report_saved_raw_data": {
+        "multiqc_rseqc_infer_experiment": {
+            "Atha_Ler-0_sl_FLT_0.57G_Rep1_infer_expt": {
+                "pe_sense": 0.434,
+                "pe_antisense": 0.566,
+                "failed": 0.0
+            },
+            "Atha_Ler-0_sl_FLT_1G_Rep3_infer_expt": {
+                "pe_sense": 0.5,
+                "pe_antisense": 0.463,
+                "failed": 0.037
+            },
+            "Atha_Ler-0_sl_FLT_1G_Rep2_infer_expt": {
+                "pe_sense": 0.4057,
+                "pe_antisense": 0.566,
+                "failed": 0.0283
+            },
+            "Atha_Ler-0_sl_FLT_0.57G_Rep4_infer_expt": {
+                "pe_sense": 0.5588,
+                "pe_antisense": 0.4118,
+                "failed": 0.0294
+            },
+            "Atha_Ler-0_sl_FLT_0.18G_Rep3_infer_expt": {
+                "pe_sense": 0.5667,
+                "pe_antisense": 0.4333,
+                "failed": 0.0
+            },
+            "Atha_Ler-0_sl_FLT_uG_Rep2_infer_expt": {
+                "pe_sense": 0.3974,
+                "pe_antisense": 0.5128,
+                "failed": 0.0897
+            },
+            "Atha_Ler-0_sl_FLT_0.36G_Rep2_infer_expt": {
+                "pe_sense": 0.7083,
+                "pe_antisense": 0.2917,
+                "failed": 0.0
+            },
+            "Atha_Ler-0_sl_FLT_0.36G_Rep1_infer_expt": {
+                "pe_sense": 0.617,
+                "pe_antisense": 0.3298,
+                "failed": 0.0532
+            },
+            "Atha_Ler-0_sl_FLT_0.09G_Rep3_infer_expt": {
+                "pe_sense": 0.4,
+                "pe_antisense": 0.5818,
+                "failed": 0.0182
+            },
+            "Atha_Ler-0_sl_FLT_0.36G_Rep3_infer_expt": {
+                "pe_sense": 0.4474,
+                "pe_antisense": 0.5132,
+                "failed": 0.0395
+            },
+            "Atha_Ler-0_sl_FLT_0.18G_Rep2_infer_expt": {
+                "pe_sense": 0.4737,
+                "pe_antisense": 0.5263,
+                "failed": 0.0
+            },
+            "Atha_Ler-0_sl_FLT_uG_Rep4_infer_expt": {
+                "pe_sense": 0.3571,
+                "pe_antisense": 0.6429,
+                "failed": 0.0
+            },
+            "Atha_Ler-0_sl_FLT_0.09G_Rep2_infer_expt": {
+                "pe_sense": 0.525,
+                "pe_antisense": 0.475,
+                "failed": 0.0
+            },
+            "Atha_Ler-0_sl_FLT_uG_Rep3_infer_expt": {
+                "pe_sense": 0.4,
+                "pe_antisense": 0.5714,
+                "failed": 0.0286
+            },
+            "Atha_Ler-0_sl_FLT_0.57G_Rep2_infer_expt": {
+                "pe_sense": 0.3982,
+                "pe_antisense": 0.5398,
+                "failed": 0.0619
+            },
+            "Atha_Ler-0_sl_FLT_1G_Rep1_infer_expt": {
+                "pe_sense": 0.45,
+                "pe_antisense": 0.5375,
+                "failed": 0.0125
+            },
+            "Atha_Ler-0_sl_FLT_0.57G_Rep3_infer_expt": {
+                "pe_sense": 0.4792,
+                "pe_antisense": 0.5208,
+                "failed": 0.0
+            },
+            "Atha_Ler-0_sl_FLT_0.18G_Rep1_infer_expt": {
+                "pe_sense": 0.4528,
+                "pe_antisense": 0.5094,
+                "failed": 0.0377
+            },
+            "Atha_Ler-0_sl_FLT_0.09G_Rep1_infer_expt": {
+                "pe_sense": 0.3974,
+                "pe_antisense": 0.5513,
+                "failed": 0.0513
+            },
+            "Atha_Ler-0_sl_FLT_uG_Rep1_infer_expt": {
+                "pe_sense": 0.4643,
+                "pe_antisense": 0.5238,
+                "failed": 0.0119
+            }
+        }
+    },
+    "config_analysis_dir_abs": [
+        "/tmp/test251,docker/work/5d/e99b6f38c4370b8850b645f790d94e/mqc_in"
+    ],
+    "config_analysis_dir": [
+        "mqc_in"
+    ],
+    "config_creation_date": "2022-09-15, 02:36",
+    "config_git_hash": null,
+    "config_intro_text": null,
+    "config_report_comment": null,
+    "config_report_header_info": null,
+    "config_script_path": "/usr/local/lib/python3.10/site-packages/multiqc/utils",
+    "config_short_version": "1.12",
+    "config_subtitle": null,
+    "config_title": null,
+    "config_version": "1.12"
+}

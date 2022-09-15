@@ -1,0 +1,1316 @@
+{
+    "report_data_sources": {
+        "Rsem": {
+            "all_sections": {
+                "Atha_Ler-0_sl_FLT_0.09G_Rep1": "/tmp/test251,docker/work/a1/c87db389a289e3ea2c15c48d18a846/mqc_in/Atha_Ler-0_sl_FLT_0.09G_Rep1.stat/Atha_Ler-0_sl_FLT_0.09G_Rep1.cnt",
+                "Atha_Ler-0_sl_FLT_0.18G_Rep3": "/tmp/test251,docker/work/a1/c87db389a289e3ea2c15c48d18a846/mqc_in/Atha_Ler-0_sl_FLT_0.18G_Rep3.stat/Atha_Ler-0_sl_FLT_0.18G_Rep3.cnt",
+                "Atha_Ler-0_sl_FLT_uG_Rep1": "/tmp/test251,docker/work/a1/c87db389a289e3ea2c15c48d18a846/mqc_in/Atha_Ler-0_sl_FLT_uG_Rep1.stat/Atha_Ler-0_sl_FLT_uG_Rep1.cnt",
+                "Atha_Ler-0_sl_FLT_0.57G_Rep1": "/tmp/test251,docker/work/a1/c87db389a289e3ea2c15c48d18a846/mqc_in/Atha_Ler-0_sl_FLT_0.57G_Rep1.stat/Atha_Ler-0_sl_FLT_0.57G_Rep1.cnt",
+                "Atha_Ler-0_sl_FLT_1G_Rep3": "/tmp/test251,docker/work/a1/c87db389a289e3ea2c15c48d18a846/mqc_in/Atha_Ler-0_sl_FLT_1G_Rep3.stat/Atha_Ler-0_sl_FLT_1G_Rep3.cnt",
+                "Atha_Ler-0_sl_FLT_0.18G_Rep2": "/tmp/test251,docker/work/a1/c87db389a289e3ea2c15c48d18a846/mqc_in/Atha_Ler-0_sl_FLT_0.18G_Rep2.stat/Atha_Ler-0_sl_FLT_0.18G_Rep2.cnt",
+                "Atha_Ler-0_sl_FLT_uG_Rep2": "/tmp/test251,docker/work/a1/c87db389a289e3ea2c15c48d18a846/mqc_in/Atha_Ler-0_sl_FLT_uG_Rep2.stat/Atha_Ler-0_sl_FLT_uG_Rep2.cnt",
+                "Atha_Ler-0_sl_FLT_0.36G_Rep3": "/tmp/test251,docker/work/a1/c87db389a289e3ea2c15c48d18a846/mqc_in/Atha_Ler-0_sl_FLT_0.36G_Rep3.stat/Atha_Ler-0_sl_FLT_0.36G_Rep3.cnt",
+                "Atha_Ler-0_sl_FLT_1G_Rep1": "/tmp/test251,docker/work/a1/c87db389a289e3ea2c15c48d18a846/mqc_in/Atha_Ler-0_sl_FLT_1G_Rep1.stat/Atha_Ler-0_sl_FLT_1G_Rep1.cnt",
+                "Atha_Ler-0_sl_FLT_0.36G_Rep1": "/tmp/test251,docker/work/a1/c87db389a289e3ea2c15c48d18a846/mqc_in/Atha_Ler-0_sl_FLT_0.36G_Rep1.stat/Atha_Ler-0_sl_FLT_0.36G_Rep1.cnt",
+                "Atha_Ler-0_sl_FLT_0.57G_Rep4": "/tmp/test251,docker/work/a1/c87db389a289e3ea2c15c48d18a846/mqc_in/Atha_Ler-0_sl_FLT_0.57G_Rep4.stat/Atha_Ler-0_sl_FLT_0.57G_Rep4.cnt",
+                "Atha_Ler-0_sl_FLT_0.18G_Rep1": "/tmp/test251,docker/work/a1/c87db389a289e3ea2c15c48d18a846/mqc_in/Atha_Ler-0_sl_FLT_0.18G_Rep1.stat/Atha_Ler-0_sl_FLT_0.18G_Rep1.cnt",
+                "Atha_Ler-0_sl_FLT_0.09G_Rep2": "/tmp/test251,docker/work/a1/c87db389a289e3ea2c15c48d18a846/mqc_in/Atha_Ler-0_sl_FLT_0.09G_Rep2.stat/Atha_Ler-0_sl_FLT_0.09G_Rep2.cnt",
+                "Atha_Ler-0_sl_FLT_0.57G_Rep3": "/tmp/test251,docker/work/a1/c87db389a289e3ea2c15c48d18a846/mqc_in/Atha_Ler-0_sl_FLT_0.57G_Rep3.stat/Atha_Ler-0_sl_FLT_0.57G_Rep3.cnt",
+                "Atha_Ler-0_sl_FLT_0.57G_Rep2": "/tmp/test251,docker/work/a1/c87db389a289e3ea2c15c48d18a846/mqc_in/Atha_Ler-0_sl_FLT_0.57G_Rep2.stat/Atha_Ler-0_sl_FLT_0.57G_Rep2.cnt",
+                "Atha_Ler-0_sl_FLT_0.09G_Rep3": "/tmp/test251,docker/work/a1/c87db389a289e3ea2c15c48d18a846/mqc_in/Atha_Ler-0_sl_FLT_0.09G_Rep3.stat/Atha_Ler-0_sl_FLT_0.09G_Rep3.cnt",
+                "Atha_Ler-0_sl_FLT_uG_Rep4": "/tmp/test251,docker/work/a1/c87db389a289e3ea2c15c48d18a846/mqc_in/Atha_Ler-0_sl_FLT_uG_Rep4.stat/Atha_Ler-0_sl_FLT_uG_Rep4.cnt",
+                "Atha_Ler-0_sl_FLT_1G_Rep2": "/tmp/test251,docker/work/a1/c87db389a289e3ea2c15c48d18a846/mqc_in/Atha_Ler-0_sl_FLT_1G_Rep2.stat/Atha_Ler-0_sl_FLT_1G_Rep2.cnt",
+                "Atha_Ler-0_sl_FLT_0.36G_Rep2": "/tmp/test251,docker/work/a1/c87db389a289e3ea2c15c48d18a846/mqc_in/Atha_Ler-0_sl_FLT_0.36G_Rep2.stat/Atha_Ler-0_sl_FLT_0.36G_Rep2.cnt",
+                "Atha_Ler-0_sl_FLT_uG_Rep3": "/tmp/test251,docker/work/a1/c87db389a289e3ea2c15c48d18a846/mqc_in/Atha_Ler-0_sl_FLT_uG_Rep3.stat/Atha_Ler-0_sl_FLT_uG_Rep3.cnt"
+            }
+        }
+    },
+    "report_general_stats_data": [
+        {
+            "Atha_Ler-0_sl_FLT_0.09G_Rep1": {
+                "Unalignable": 219,
+                "Alignable": 63,
+                "Filtered": 0,
+                "Total": 282,
+                "alignable_percent": 22.340425531914892,
+                "Unique": 61,
+                "Multi": 2,
+                "Uncertain": 29
+            },
+            "Atha_Ler-0_sl_FLT_0.18G_Rep3": {
+                "Unalignable": 239,
+                "Alignable": 55,
+                "Filtered": 0,
+                "Total": 294,
+                "alignable_percent": 18.70748299319728,
+                "Unique": 55,
+                "Multi": 0,
+                "Uncertain": 32
+            },
+            "Atha_Ler-0_sl_FLT_uG_Rep1": {
+                "Unalignable": 253,
+                "Alignable": 39,
+                "Filtered": 0,
+                "Total": 292,
+                "alignable_percent": 13.356164383561644,
+                "Unique": 39,
+                "Multi": 0,
+                "Uncertain": 17
+            },
+            "Atha_Ler-0_sl_FLT_0.57G_Rep1": {
+                "Unalignable": 245,
+                "Alignable": 45,
+                "Filtered": 0,
+                "Total": 290,
+                "alignable_percent": 15.517241379310345,
+                "Unique": 45,
+                "Multi": 0,
+                "Uncertain": 23
+            },
+            "Atha_Ler-0_sl_FLT_1G_Rep3": {
+                "Unalignable": 240,
+                "Alignable": 55,
+                "Filtered": 0,
+                "Total": 295,
+                "alignable_percent": 18.64406779661017,
+                "Unique": 50,
+                "Multi": 5,
+                "Uncertain": 26
+            },
+            "Atha_Ler-0_sl_FLT_0.18G_Rep2": {
+                "Unalignable": 260,
+                "Alignable": 32,
+                "Filtered": 0,
+                "Total": 292,
+                "alignable_percent": 10.95890410958904,
+                "Unique": 32,
+                "Multi": 0,
+                "Uncertain": 14
+            },
+            "Atha_Ler-0_sl_FLT_uG_Rep2": {
+                "Unalignable": 257,
+                "Alignable": 37,
+                "Filtered": 0,
+                "Total": 294,
+                "alignable_percent": 12.585034013605442,
+                "Unique": 36,
+                "Multi": 1,
+                "Uncertain": 13
+            },
+            "Atha_Ler-0_sl_FLT_0.36G_Rep3": {
+                "Unalignable": 258,
+                "Alignable": 34,
+                "Filtered": 0,
+                "Total": 292,
+                "alignable_percent": 11.643835616438356,
+                "Unique": 32,
+                "Multi": 2,
+                "Uncertain": 15
+            },
+            "Atha_Ler-0_sl_FLT_1G_Rep1": {
+                "Unalignable": 257,
+                "Alignable": 39,
+                "Filtered": 0,
+                "Total": 296,
+                "alignable_percent": 13.175675675675674,
+                "Unique": 38,
+                "Multi": 1,
+                "Uncertain": 22
+            },
+            "Atha_Ler-0_sl_FLT_0.36G_Rep1": {
+                "Unalignable": 252,
+                "Alignable": 43,
+                "Filtered": 0,
+                "Total": 295,
+                "alignable_percent": 14.576271186440678,
+                "Unique": 43,
+                "Multi": 0,
+                "Uncertain": 23
+            },
+            "Atha_Ler-0_sl_FLT_0.57G_Rep4": {
+                "Unalignable": 265,
+                "Alignable": 34,
+                "Filtered": 0,
+                "Total": 299,
+                "alignable_percent": 11.37123745819398,
+                "Unique": 34,
+                "Multi": 0,
+                "Uncertain": 14
+            },
+            "Atha_Ler-0_sl_FLT_0.18G_Rep1": {
+                "Unalignable": 244,
+                "Alignable": 51,
+                "Filtered": 0,
+                "Total": 295,
+                "alignable_percent": 17.28813559322034,
+                "Unique": 50,
+                "Multi": 1,
+                "Uncertain": 24
+            },
+            "Atha_Ler-0_sl_FLT_0.09G_Rep2": {
+                "Unalignable": 254,
+                "Alignable": 32,
+                "Filtered": 0,
+                "Total": 286,
+                "alignable_percent": 11.188811188811188,
+                "Unique": 32,
+                "Multi": 0,
+                "Uncertain": 14
+            },
+            "Atha_Ler-0_sl_FLT_0.57G_Rep3": {
+                "Unalignable": 250,
+                "Alignable": 43,
+                "Filtered": 0,
+                "Total": 293,
+                "alignable_percent": 14.675767918088736,
+                "Unique": 43,
+                "Multi": 0,
+                "Uncertain": 21
+            },
+            "Atha_Ler-0_sl_FLT_0.57G_Rep2": {
+                "Unalignable": 241,
+                "Alignable": 44,
+                "Filtered": 0,
+                "Total": 285,
+                "alignable_percent": 15.43859649122807,
+                "Unique": 44,
+                "Multi": 0,
+                "Uncertain": 24
+            },
+            "Atha_Ler-0_sl_FLT_0.09G_Rep3": {
+                "Unalignable": 243,
+                "Alignable": 52,
+                "Filtered": 0,
+                "Total": 295,
+                "alignable_percent": 17.627118644067796,
+                "Unique": 51,
+                "Multi": 1,
+                "Uncertain": 25
+            },
+            "Atha_Ler-0_sl_FLT_uG_Rep4": {
+                "Unalignable": 271,
+                "Alignable": 26,
+                "Filtered": 0,
+                "Total": 297,
+                "alignable_percent": 8.754208754208754,
+                "Unique": 26,
+                "Multi": 0,
+                "Uncertain": 14
+            },
+            "Atha_Ler-0_sl_FLT_1G_Rep2": {
+                "Unalignable": 244,
+                "Alignable": 41,
+                "Filtered": 0,
+                "Total": 285,
+                "alignable_percent": 14.385964912280702,
+                "Unique": 41,
+                "Multi": 0,
+                "Uncertain": 23
+            },
+            "Atha_Ler-0_sl_FLT_0.36G_Rep2": {
+                "Unalignable": 276,
+                "Alignable": 20,
+                "Filtered": 0,
+                "Total": 296,
+                "alignable_percent": 6.756756756756757,
+                "Unique": 20,
+                "Multi": 0,
+                "Uncertain": 11
+            },
+            "Atha_Ler-0_sl_FLT_uG_Rep3": {
+                "Unalignable": 263,
+                "Alignable": 32,
+                "Filtered": 0,
+                "Total": 295,
+                "alignable_percent": 10.847457627118644,
+                "Unique": 30,
+                "Multi": 2,
+                "Uncertain": 15
+            }
+        }
+    ],
+    "report_general_stats_headers": [
+        {
+            "alignable_percent": {
+                "title": "% Alignable",
+                "description": "% Alignable reads",
+                "max": 100,
+                "min": 0,
+                "suffix": "%",
+                "scale": "YlGn",
+                "namespace": "Rsem",
+                "rid": "mqc-generalstats-rsem-alignable_percent",
+                "format": "{:,.1f}",
+                "colour": "55,126,184",
+                "hidden": null,
+                "ceiling": null,
+                "floor": null,
+                "minRange": null,
+                "shared_key": null,
+                "modify": null,
+                "placement": 1000.0,
+                "dmax": 100.0,
+                "dmin": 0.0
+            }
+        }
+    ],
+    "report_multiqc_command": "/usr/local/bin/multiqc --sample-names samples.txt --interactive -o RSEM_count_multiqc_report -n RSEM_count_multiqc mqc_in --config multiqc.config",
+    "report_plot_data": {
+        "rsem_assignment_plot": {
+            "plot_type": "bar_graph",
+            "samples": [
+                [
+                    "Atha_Ler-0_sl_FLT_0.09G_Rep1",
+                    "Atha_Ler-0_sl_FLT_0.09G_Rep2",
+                    "Atha_Ler-0_sl_FLT_0.09G_Rep3",
+                    "Atha_Ler-0_sl_FLT_0.18G_Rep1",
+                    "Atha_Ler-0_sl_FLT_0.18G_Rep2",
+                    "Atha_Ler-0_sl_FLT_0.18G_Rep3",
+                    "Atha_Ler-0_sl_FLT_0.36G_Rep1",
+                    "Atha_Ler-0_sl_FLT_0.36G_Rep2",
+                    "Atha_Ler-0_sl_FLT_0.36G_Rep3",
+                    "Atha_Ler-0_sl_FLT_0.57G_Rep1",
+                    "Atha_Ler-0_sl_FLT_0.57G_Rep2",
+                    "Atha_Ler-0_sl_FLT_0.57G_Rep3",
+                    "Atha_Ler-0_sl_FLT_0.57G_Rep4",
+                    "Atha_Ler-0_sl_FLT_1G_Rep1",
+                    "Atha_Ler-0_sl_FLT_1G_Rep2",
+                    "Atha_Ler-0_sl_FLT_1G_Rep3",
+                    "Atha_Ler-0_sl_FLT_uG_Rep1",
+                    "Atha_Ler-0_sl_FLT_uG_Rep2",
+                    "Atha_Ler-0_sl_FLT_uG_Rep3",
+                    "Atha_Ler-0_sl_FLT_uG_Rep4"
+                ]
+            ],
+            "datasets": [
+                [
+                    {
+                        "name": "Aligned uniquely to a gene",
+                        "data": [
+                            61.0,
+                            32.0,
+                            51.0,
+                            50.0,
+                            32.0,
+                            55.0,
+                            43.0,
+                            20.0,
+                            32.0,
+                            45.0,
+                            44.0,
+                            43.0,
+                            34.0,
+                            38.0,
+                            41.0,
+                            50.0,
+                            39.0,
+                            36.0,
+                            30.0,
+                            26.0
+                        ],
+                        "color": "#437bb1"
+                    },
+                    {
+                        "name": "Aligned to multiple genes",
+                        "data": [
+                            2.0,
+                            0.0,
+                            1.0,
+                            1.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            2.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            1.0,
+                            0.0,
+                            5.0,
+                            0.0,
+                            1.0,
+                            2.0,
+                            0.0
+                        ],
+                        "color": "#e63491"
+                    },
+                    {
+                        "name": "Filtered due to too many alignments",
+                        "data": [
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0
+                        ],
+                        "color": "#b1084c"
+                    },
+                    {
+                        "name": "Unalignable reads",
+                        "data": [
+                            219.0,
+                            254.0,
+                            243.0,
+                            244.0,
+                            260.0,
+                            239.0,
+                            252.0,
+                            276.0,
+                            258.0,
+                            245.0,
+                            241.0,
+                            250.0,
+                            265.0,
+                            257.0,
+                            244.0,
+                            240.0,
+                            253.0,
+                            257.0,
+                            263.0,
+                            271.0
+                        ],
+                        "color": "#7f0000"
+                    }
+                ]
+            ],
+            "config": {
+                "id": "rsem_assignment_plot",
+                "title": "RSEM: Mapped reads",
+                "ylab": "# Reads",
+                "cpswitch_counts_label": "Number of Reads",
+                "hide_zero_cats": false
+            }
+        },
+        "rsem_multimapping_rates": {
+            "plot_type": "xy_line",
+            "datasets": [
+                [
+                    {
+                        "name": "Atha_Ler-0_sl_FLT_0.09G_Rep1",
+                        "data": [
+                            [
+                                0,
+                                219
+                            ],
+                            [
+                                1,
+                                34
+                            ],
+                            [
+                                2,
+                                12
+                            ],
+                            [
+                                3,
+                                10
+                            ],
+                            [
+                                4,
+                                2
+                            ],
+                            [
+                                5,
+                                2
+                            ],
+                            [
+                                6,
+                                1
+                            ],
+                            [
+                                9,
+                                1
+                            ],
+                            [
+                                10,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "Atha_Ler-0_sl_FLT_0.09G_Rep2",
+                        "data": [
+                            [
+                                0,
+                                254
+                            ],
+                            [
+                                1,
+                                18
+                            ],
+                            [
+                                2,
+                                10
+                            ],
+                            [
+                                3,
+                                1
+                            ],
+                            [
+                                4,
+                                3
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "Atha_Ler-0_sl_FLT_0.09G_Rep3",
+                        "data": [
+                            [
+                                0,
+                                243
+                            ],
+                            [
+                                1,
+                                27
+                            ],
+                            [
+                                2,
+                                9
+                            ],
+                            [
+                                3,
+                                9
+                            ],
+                            [
+                                4,
+                                3
+                            ],
+                            [
+                                5,
+                                1
+                            ],
+                            [
+                                6,
+                                2
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "Atha_Ler-0_sl_FLT_0.18G_Rep1",
+                        "data": [
+                            [
+                                0,
+                                244
+                            ],
+                            [
+                                1,
+                                27
+                            ],
+                            [
+                                2,
+                                17
+                            ],
+                            [
+                                3,
+                                3
+                            ],
+                            [
+                                4,
+                                3
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "Atha_Ler-0_sl_FLT_0.18G_Rep2",
+                        "data": [
+                            [
+                                0,
+                                260
+                            ],
+                            [
+                                1,
+                                18
+                            ],
+                            [
+                                2,
+                                12
+                            ],
+                            [
+                                3,
+                                2
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "Atha_Ler-0_sl_FLT_0.18G_Rep3",
+                        "data": [
+                            [
+                                0,
+                                239
+                            ],
+                            [
+                                1,
+                                23
+                            ],
+                            [
+                                2,
+                                17
+                            ],
+                            [
+                                3,
+                                9
+                            ],
+                            [
+                                4,
+                                3
+                            ],
+                            [
+                                5,
+                                2
+                            ],
+                            [
+                                7,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "Atha_Ler-0_sl_FLT_0.36G_Rep1",
+                        "data": [
+                            [
+                                0,
+                                252
+                            ],
+                            [
+                                1,
+                                20
+                            ],
+                            [
+                                2,
+                                9
+                            ],
+                            [
+                                3,
+                                7
+                            ],
+                            [
+                                4,
+                                3
+                            ],
+                            [
+                                5,
+                                2
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "Atha_Ler-0_sl_FLT_0.36G_Rep2",
+                        "data": [
+                            [
+                                0,
+                                276
+                            ],
+                            [
+                                1,
+                                9
+                            ],
+                            [
+                                2,
+                                6
+                            ],
+                            [
+                                3,
+                                4
+                            ],
+                            [
+                                4,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "Atha_Ler-0_sl_FLT_0.36G_Rep3",
+                        "data": [
+                            [
+                                0,
+                                258
+                            ],
+                            [
+                                1,
+                                19
+                            ],
+                            [
+                                2,
+                                9
+                            ],
+                            [
+                                3,
+                                4
+                            ],
+                            [
+                                5,
+                                1
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "Atha_Ler-0_sl_FLT_0.57G_Rep1",
+                        "data": [
+                            [
+                                0,
+                                245
+                            ],
+                            [
+                                1,
+                                22
+                            ],
+                            [
+                                2,
+                                15
+                            ],
+                            [
+                                3,
+                                3
+                            ],
+                            [
+                                4,
+                                1
+                            ],
+                            [
+                                5,
+                                1
+                            ],
+                            [
+                                6,
+                                2
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "Atha_Ler-0_sl_FLT_0.57G_Rep2",
+                        "data": [
+                            [
+                                0,
+                                241
+                            ],
+                            [
+                                1,
+                                20
+                            ],
+                            [
+                                2,
+                                14
+                            ],
+                            [
+                                3,
+                                6
+                            ],
+                            [
+                                4,
+                                1
+                            ],
+                            [
+                                5,
+                                2
+                            ],
+                            [
+                                11,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "Atha_Ler-0_sl_FLT_0.57G_Rep3",
+                        "data": [
+                            [
+                                0,
+                                250
+                            ],
+                            [
+                                1,
+                                22
+                            ],
+                            [
+                                2,
+                                14
+                            ],
+                            [
+                                3,
+                                6
+                            ],
+                            [
+                                6,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "Atha_Ler-0_sl_FLT_0.57G_Rep4",
+                        "data": [
+                            [
+                                0,
+                                265
+                            ],
+                            [
+                                1,
+                                20
+                            ],
+                            [
+                                2,
+                                6
+                            ],
+                            [
+                                3,
+                                3
+                            ],
+                            [
+                                4,
+                                3
+                            ],
+                            [
+                                6,
+                                1
+                            ],
+                            [
+                                7,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "Atha_Ler-0_sl_FLT_1G_Rep1",
+                        "data": [
+                            [
+                                0,
+                                257
+                            ],
+                            [
+                                1,
+                                17
+                            ],
+                            [
+                                2,
+                                11
+                            ],
+                            [
+                                3,
+                                6
+                            ],
+                            [
+                                4,
+                                1
+                            ],
+                            [
+                                5,
+                                2
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                8,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "Atha_Ler-0_sl_FLT_1G_Rep2",
+                        "data": [
+                            [
+                                0,
+                                244
+                            ],
+                            [
+                                1,
+                                18
+                            ],
+                            [
+                                2,
+                                13
+                            ],
+                            [
+                                3,
+                                7
+                            ],
+                            [
+                                4,
+                                3
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "Atha_Ler-0_sl_FLT_1G_Rep3",
+                        "data": [
+                            [
+                                0,
+                                240
+                            ],
+                            [
+                                1,
+                                29
+                            ],
+                            [
+                                2,
+                                18
+                            ],
+                            [
+                                3,
+                                6
+                            ],
+                            [
+                                5,
+                                2
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "Atha_Ler-0_sl_FLT_uG_Rep1",
+                        "data": [
+                            [
+                                0,
+                                253
+                            ],
+                            [
+                                1,
+                                22
+                            ],
+                            [
+                                2,
+                                10
+                            ],
+                            [
+                                3,
+                                6
+                            ],
+                            [
+                                4,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "Atha_Ler-0_sl_FLT_uG_Rep2",
+                        "data": [
+                            [
+                                0,
+                                257
+                            ],
+                            [
+                                1,
+                                24
+                            ],
+                            [
+                                2,
+                                4
+                            ],
+                            [
+                                3,
+                                4
+                            ],
+                            [
+                                4,
+                                2
+                            ],
+                            [
+                                5,
+                                1
+                            ],
+                            [
+                                6,
+                                1
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "Atha_Ler-0_sl_FLT_uG_Rep3",
+                        "data": [
+                            [
+                                0,
+                                263
+                            ],
+                            [
+                                1,
+                                17
+                            ],
+                            [
+                                2,
+                                6
+                            ],
+                            [
+                                3,
+                                6
+                            ],
+                            [
+                                4,
+                                1
+                            ],
+                            [
+                                5,
+                                1
+                            ],
+                            [
+                                6,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "Atha_Ler-0_sl_FLT_uG_Rep4",
+                        "data": [
+                            [
+                                0,
+                                271
+                            ],
+                            [
+                                1,
+                                12
+                            ],
+                            [
+                                2,
+                                7
+                            ],
+                            [
+                                3,
+                                5
+                            ],
+                            [
+                                6,
+                                1
+                            ],
+                            [
+                                8,
+                                1
+                            ]
+                        ]
+                    }
+                ]
+            ],
+            "config": {
+                "id": "rsem_multimapping_rates",
+                "title": "RSEM: Multimapping Rates",
+                "ylab": "Counts",
+                "xlab": "Number of alignments",
+                "xDecimals": false,
+                "ymin": 0,
+                "tt_label": "<b>{point.x} alignments</b>: {point.y:.0f}"
+            }
+        }
+    },
+    "report_saved_raw_data": {
+        "multiqc_rsem": {
+            "Atha_Ler-0_sl_FLT_0.09G_Rep1": {
+                "Unalignable": 219,
+                "Alignable": 63,
+                "Filtered": 0,
+                "Total": 282,
+                "alignable_percent": 22.340425531914892,
+                "Unique": 61,
+                "Multi": 2,
+                "Uncertain": 29
+            },
+            "Atha_Ler-0_sl_FLT_0.18G_Rep3": {
+                "Unalignable": 239,
+                "Alignable": 55,
+                "Filtered": 0,
+                "Total": 294,
+                "alignable_percent": 18.70748299319728,
+                "Unique": 55,
+                "Multi": 0,
+                "Uncertain": 32
+            },
+            "Atha_Ler-0_sl_FLT_uG_Rep1": {
+                "Unalignable": 253,
+                "Alignable": 39,
+                "Filtered": 0,
+                "Total": 292,
+                "alignable_percent": 13.356164383561644,
+                "Unique": 39,
+                "Multi": 0,
+                "Uncertain": 17
+            },
+            "Atha_Ler-0_sl_FLT_0.57G_Rep1": {
+                "Unalignable": 245,
+                "Alignable": 45,
+                "Filtered": 0,
+                "Total": 290,
+                "alignable_percent": 15.517241379310345,
+                "Unique": 45,
+                "Multi": 0,
+                "Uncertain": 23
+            },
+            "Atha_Ler-0_sl_FLT_1G_Rep3": {
+                "Unalignable": 240,
+                "Alignable": 55,
+                "Filtered": 0,
+                "Total": 295,
+                "alignable_percent": 18.64406779661017,
+                "Unique": 50,
+                "Multi": 5,
+                "Uncertain": 26
+            },
+            "Atha_Ler-0_sl_FLT_0.18G_Rep2": {
+                "Unalignable": 260,
+                "Alignable": 32,
+                "Filtered": 0,
+                "Total": 292,
+                "alignable_percent": 10.95890410958904,
+                "Unique": 32,
+                "Multi": 0,
+                "Uncertain": 14
+            },
+            "Atha_Ler-0_sl_FLT_uG_Rep2": {
+                "Unalignable": 257,
+                "Alignable": 37,
+                "Filtered": 0,
+                "Total": 294,
+                "alignable_percent": 12.585034013605442,
+                "Unique": 36,
+                "Multi": 1,
+                "Uncertain": 13
+            },
+            "Atha_Ler-0_sl_FLT_0.36G_Rep3": {
+                "Unalignable": 258,
+                "Alignable": 34,
+                "Filtered": 0,
+                "Total": 292,
+                "alignable_percent": 11.643835616438356,
+                "Unique": 32,
+                "Multi": 2,
+                "Uncertain": 15
+            },
+            "Atha_Ler-0_sl_FLT_1G_Rep1": {
+                "Unalignable": 257,
+                "Alignable": 39,
+                "Filtered": 0,
+                "Total": 296,
+                "alignable_percent": 13.175675675675674,
+                "Unique": 38,
+                "Multi": 1,
+                "Uncertain": 22
+            },
+            "Atha_Ler-0_sl_FLT_0.36G_Rep1": {
+                "Unalignable": 252,
+                "Alignable": 43,
+                "Filtered": 0,
+                "Total": 295,
+                "alignable_percent": 14.576271186440678,
+                "Unique": 43,
+                "Multi": 0,
+                "Uncertain": 23
+            },
+            "Atha_Ler-0_sl_FLT_0.57G_Rep4": {
+                "Unalignable": 265,
+                "Alignable": 34,
+                "Filtered": 0,
+                "Total": 299,
+                "alignable_percent": 11.37123745819398,
+                "Unique": 34,
+                "Multi": 0,
+                "Uncertain": 14
+            },
+            "Atha_Ler-0_sl_FLT_0.18G_Rep1": {
+                "Unalignable": 244,
+                "Alignable": 51,
+                "Filtered": 0,
+                "Total": 295,
+                "alignable_percent": 17.28813559322034,
+                "Unique": 50,
+                "Multi": 1,
+                "Uncertain": 24
+            },
+            "Atha_Ler-0_sl_FLT_0.09G_Rep2": {
+                "Unalignable": 254,
+                "Alignable": 32,
+                "Filtered": 0,
+                "Total": 286,
+                "alignable_percent": 11.188811188811188,
+                "Unique": 32,
+                "Multi": 0,
+                "Uncertain": 14
+            },
+            "Atha_Ler-0_sl_FLT_0.57G_Rep3": {
+                "Unalignable": 250,
+                "Alignable": 43,
+                "Filtered": 0,
+                "Total": 293,
+                "alignable_percent": 14.675767918088736,
+                "Unique": 43,
+                "Multi": 0,
+                "Uncertain": 21
+            },
+            "Atha_Ler-0_sl_FLT_0.57G_Rep2": {
+                "Unalignable": 241,
+                "Alignable": 44,
+                "Filtered": 0,
+                "Total": 285,
+                "alignable_percent": 15.43859649122807,
+                "Unique": 44,
+                "Multi": 0,
+                "Uncertain": 24
+            },
+            "Atha_Ler-0_sl_FLT_0.09G_Rep3": {
+                "Unalignable": 243,
+                "Alignable": 52,
+                "Filtered": 0,
+                "Total": 295,
+                "alignable_percent": 17.627118644067796,
+                "Unique": 51,
+                "Multi": 1,
+                "Uncertain": 25
+            },
+            "Atha_Ler-0_sl_FLT_uG_Rep4": {
+                "Unalignable": 271,
+                "Alignable": 26,
+                "Filtered": 0,
+                "Total": 297,
+                "alignable_percent": 8.754208754208754,
+                "Unique": 26,
+                "Multi": 0,
+                "Uncertain": 14
+            },
+            "Atha_Ler-0_sl_FLT_1G_Rep2": {
+                "Unalignable": 244,
+                "Alignable": 41,
+                "Filtered": 0,
+                "Total": 285,
+                "alignable_percent": 14.385964912280702,
+                "Unique": 41,
+                "Multi": 0,
+                "Uncertain": 23
+            },
+            "Atha_Ler-0_sl_FLT_0.36G_Rep2": {
+                "Unalignable": 276,
+                "Alignable": 20,
+                "Filtered": 0,
+                "Total": 296,
+                "alignable_percent": 6.756756756756757,
+                "Unique": 20,
+                "Multi": 0,
+                "Uncertain": 11
+            },
+            "Atha_Ler-0_sl_FLT_uG_Rep3": {
+                "Unalignable": 263,
+                "Alignable": 32,
+                "Filtered": 0,
+                "Total": 295,
+                "alignable_percent": 10.847457627118644,
+                "Unique": 30,
+                "Multi": 2,
+                "Uncertain": 15
+            }
+        },
+        "multiqc_general_stats": {
+            "Atha_Ler-0_sl_FLT_0.09G_Rep1": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 22.340425531914892
+            },
+            "Atha_Ler-0_sl_FLT_0.18G_Rep3": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 18.70748299319728
+            },
+            "Atha_Ler-0_sl_FLT_uG_Rep1": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 13.356164383561644
+            },
+            "Atha_Ler-0_sl_FLT_0.57G_Rep1": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 15.517241379310345
+            },
+            "Atha_Ler-0_sl_FLT_1G_Rep3": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 18.64406779661017
+            },
+            "Atha_Ler-0_sl_FLT_0.18G_Rep2": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 10.95890410958904
+            },
+            "Atha_Ler-0_sl_FLT_uG_Rep2": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 12.585034013605442
+            },
+            "Atha_Ler-0_sl_FLT_0.36G_Rep3": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 11.643835616438356
+            },
+            "Atha_Ler-0_sl_FLT_1G_Rep1": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 13.175675675675674
+            },
+            "Atha_Ler-0_sl_FLT_0.36G_Rep1": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 14.576271186440678
+            },
+            "Atha_Ler-0_sl_FLT_0.57G_Rep4": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 11.37123745819398
+            },
+            "Atha_Ler-0_sl_FLT_0.18G_Rep1": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 17.28813559322034
+            },
+            "Atha_Ler-0_sl_FLT_0.09G_Rep2": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 11.188811188811188
+            },
+            "Atha_Ler-0_sl_FLT_0.57G_Rep3": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 14.675767918088736
+            },
+            "Atha_Ler-0_sl_FLT_0.57G_Rep2": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 15.43859649122807
+            },
+            "Atha_Ler-0_sl_FLT_0.09G_Rep3": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 17.627118644067796
+            },
+            "Atha_Ler-0_sl_FLT_uG_Rep4": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 8.754208754208754
+            },
+            "Atha_Ler-0_sl_FLT_1G_Rep2": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 14.385964912280702
+            },
+            "Atha_Ler-0_sl_FLT_0.36G_Rep2": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 6.756756756756757
+            },
+            "Atha_Ler-0_sl_FLT_uG_Rep3": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 10.847457627118644
+            }
+        }
+    },
+    "config_analysis_dir_abs": [
+        "/tmp/test251,docker/work/a1/c87db389a289e3ea2c15c48d18a846/mqc_in"
+    ],
+    "config_analysis_dir": [
+        "mqc_in"
+    ],
+    "config_creation_date": "2022-09-15, 02:36",
+    "config_git_hash": null,
+    "config_intro_text": null,
+    "config_report_comment": null,
+    "config_report_header_info": null,
+    "config_script_path": "/usr/local/lib/python3.10/site-packages/multiqc/utils",
+    "config_short_version": "1.12",
+    "config_subtitle": null,
+    "config_title": null,
+    "config_version": "1.12"
+}

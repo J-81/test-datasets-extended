@@ -1,0 +1,89 @@
+[2022-09-15 02:36:17,496] multiqc                                            [DEBUG  ]  This is MultiQC v1.12
+[2022-09-15 02:36:17,496] multiqc                                            [DEBUG  ]  No MultiQC config found: /usr/local/lib/python3.10/site-packages/multiqc_config.yaml
+[2022-09-15 02:36:17,496] multiqc                                            [DEBUG  ]  No MultiQC config found: /home/gitpod/.multiqc_config.yaml
+[2022-09-15 02:36:17,496] multiqc                                            [DEBUG  ]  No MultiQC config found: multiqc_config.yaml
+[2022-09-15 02:36:17,499] multiqc                                            [DEBUG  ]  Loading config settings from: multiqc.config
+[2022-09-15 02:36:17,499] multiqc                                            [DEBUG  ]  New config 'module_order': [{'fastqc': None}, 'cutadapt', 'star', 'rseqc', 'rsem']
+[2022-09-15 02:36:17,499] multiqc                                            [DEBUG  ]  Added to filename clean extensions: ['.read_distribution_out', '.infer_experiment_out', '.geneBodyCoverage.txt']
+[2022-09-15 02:36:17,499] multiqc                                            [DEBUG  ]  New config 'use_filename_as_sample_name': ['rseqc/gene_body_coverage']
+[2022-09-15 02:36:17,499] multiqc                                            [DEBUG  ]  New config 'show_analysis_paths': False
+[2022-09-15 02:36:17,499] multiqc                                            [DEBUG  ]  New config 'show_analysis_time': False
+[2022-09-15 02:36:17,499] multiqc                                            [DEBUG  ]  Command used: /usr/local/bin/multiqc --sample-names samples.txt --interactive -o read_dist_multiqc_report -n read_dist_multiqc mqc_in --config multiqc.config
+[2022-09-15 02:36:18,302] multiqc                                            [WARNING]  MultiQC Version v1.13 now available!
+[2022-09-15 02:36:18,302] multiqc                                            [DEBUG  ]  Loading sample renaming config settings from: samples.txt
+[2022-09-15 02:36:18,302] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Atha_Ler-0_sl_FLT_0.09G_Rep1
+[2022-09-15 02:36:18,302] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Atha_Ler-0_sl_FLT_0.09G_Rep2
+[2022-09-15 02:36:18,302] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Atha_Ler-0_sl_FLT_0.09G_Rep3
+[2022-09-15 02:36:18,302] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Atha_Ler-0_sl_FLT_0.18G_Rep1
+[2022-09-15 02:36:18,302] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Atha_Ler-0_sl_FLT_0.18G_Rep2
+[2022-09-15 02:36:18,302] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Atha_Ler-0_sl_FLT_0.18G_Rep3
+[2022-09-15 02:36:18,302] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Atha_Ler-0_sl_FLT_0.36G_Rep1
+[2022-09-15 02:36:18,302] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Atha_Ler-0_sl_FLT_0.36G_Rep2
+[2022-09-15 02:36:18,302] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Atha_Ler-0_sl_FLT_0.36G_Rep3
+[2022-09-15 02:36:18,302] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Atha_Ler-0_sl_FLT_0.57G_Rep1
+[2022-09-15 02:36:18,302] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Atha_Ler-0_sl_FLT_0.57G_Rep2
+[2022-09-15 02:36:18,303] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Atha_Ler-0_sl_FLT_0.57G_Rep3
+[2022-09-15 02:36:18,303] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Atha_Ler-0_sl_FLT_0.57G_Rep4
+[2022-09-15 02:36:18,303] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Atha_Ler-0_sl_FLT_1G_Rep1
+[2022-09-15 02:36:18,303] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Atha_Ler-0_sl_FLT_1G_Rep2
+[2022-09-15 02:36:18,303] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Atha_Ler-0_sl_FLT_1G_Rep3
+[2022-09-15 02:36:18,303] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Atha_Ler-0_sl_FLT_uG_Rep1
+[2022-09-15 02:36:18,303] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Atha_Ler-0_sl_FLT_uG_Rep2
+[2022-09-15 02:36:18,303] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Atha_Ler-0_sl_FLT_uG_Rep3
+[2022-09-15 02:36:18,303] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Atha_Ler-0_sl_FLT_uG_Rep4
+[2022-09-15 02:36:18,303] multiqc                                            [DEBUG  ]  Found 0 sample renaming patterns
+[2022-09-15 02:36:18,303] multiqc                                            [DEBUG  ]  Command     : /usr/local/bin/multiqc --sample-names samples.txt --interactive -o read_dist_multiqc_report -n read_dist_multiqc mqc_in --config multiqc.config
+[2022-09-15 02:36:18,303] multiqc                                            [DEBUG  ]  Working dir : /tmp/test251,docker/work/d7/559f395e7dac75bf9a37f9d4fbfd6a
+[2022-09-15 02:36:18,303] multiqc                                            [DEBUG  ]  Template    : default
+[2022-09-15 02:36:18,303] multiqc                                            [DEBUG  ]  Running Python 3.10.2 | packaged by conda-forge | (main, Feb  1 2022, 19:28:35) [GCC 9.4.0]
+[2022-09-15 02:36:18,304] multiqc                                            [DEBUG  ]  Analysing modules: adapterRemoval, afterqc, bamtools, bbmap, bcftools, bcl2fastq, bclconvert, biobambam2, biobloomtools, biscuit, bismark, bowtie1, bowtie2, busco, bustools, ccs, checkqc, clipandmerge, clusterflow, conpair, custom_content, damageprofiler, dedup, deeptools, disambiguate, dragen, eigenstratdatabasetools, fastp, fastq_screen, featureCounts, fgbio, flash, flexbar, gatk, gffcompare, goleft_indexcov, happy, hicexplorer, hicpro, hicup, hisat2, homer, hops, htseq, interop, ivar, jcvi, jellyfish, kaiju, kallisto, kat, kraken, leehom, lima, longranger, macs2, malt, methylQA, minionqc, mirtop, mirtrace, mosdepth, mtnucratio, multivcfanalyzer, nanostat, ngsderive, odgi, optitype, pangolin, pbmarkdup, peddy, phantompeakqualtools, picard, preseq, prokka, purple, pychopper, pycoqc, qc3C, qorts, qualimap, quast, rna_seqc, rockhopper, salmon, sambamba, samblaster, samtools, sargasso, sentieon, seqyclean, sexdeterrmine, sickle, skewer, slamdunk, snippy, snpeff, snpsplit, somalier, sortmerna, stacks, supernova, theta2, tophat, trimmomatic, varscan2, vcftools, vep, verifybamid, whatshap, fastqc, cutadapt, star, rseqc, rsem
+[2022-09-15 02:36:18,304] multiqc                                            [DEBUG  ]  Using temporary directory for creating report: /tmp/tmpi9ks07g0
+[2022-09-15 02:36:18,605] multiqc                                            [INFO   ]  Search path : /tmp/test251,docker/work/d7/559f395e7dac75bf9a37f9d4fbfd6a/mqc_in
+[2022-09-15 02:36:18,688] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: Atha_Ler-0_sl_FLT_0.57G_Rep1_read_dist.out
+[2022-09-15 02:36:18,689] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: Atha_Ler-0_sl_FLT_0.57G_Rep1_read_dist.out
+[2022-09-15 02:36:18,696] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: Atha_Ler-0_sl_FLT_1G_Rep2_read_dist.out
+[2022-09-15 02:36:18,697] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: Atha_Ler-0_sl_FLT_1G_Rep2_read_dist.out
+[2022-09-15 02:36:18,702] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: Atha_Ler-0_sl_FLT_1G_Rep3_read_dist.out
+[2022-09-15 02:36:18,703] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: Atha_Ler-0_sl_FLT_1G_Rep3_read_dist.out
+[2022-09-15 02:36:18,706] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: Atha_Ler-0_sl_FLT_0.57G_Rep4_read_dist.out
+[2022-09-15 02:36:18,707] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: Atha_Ler-0_sl_FLT_0.57G_Rep4_read_dist.out
+[2022-09-15 02:36:18,764] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: Atha_Ler-0_sl_FLT_uG_Rep2_read_dist.out
+[2022-09-15 02:36:18,765] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: Atha_Ler-0_sl_FLT_uG_Rep2_read_dist.out
+[2022-09-15 02:36:18,770] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: Atha_Ler-0_sl_FLT_0.36G_Rep2_read_dist.out
+[2022-09-15 02:36:18,771] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: Atha_Ler-0_sl_FLT_0.36G_Rep2_read_dist.out
+[2022-09-15 02:36:18,776] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: Atha_Ler-0_sl_FLT_0.36G_Rep1_read_dist.out
+[2022-09-15 02:36:18,777] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: Atha_Ler-0_sl_FLT_0.36G_Rep1_read_dist.out
+[2022-09-15 02:36:18,781] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: Atha_Ler-0_sl_FLT_0.09G_Rep3_read_dist.out
+[2022-09-15 02:36:18,782] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: Atha_Ler-0_sl_FLT_0.09G_Rep3_read_dist.out
+[2022-09-15 02:36:18,787] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: Atha_Ler-0_sl_FLT_0.18G_Rep3_read_dist.out
+[2022-09-15 02:36:18,789] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: Atha_Ler-0_sl_FLT_0.18G_Rep3_read_dist.out
+[2022-09-15 02:36:18,793] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: Atha_Ler-0_sl_FLT_0.36G_Rep3_read_dist.out
+[2022-09-15 02:36:18,794] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: Atha_Ler-0_sl_FLT_0.36G_Rep3_read_dist.out
+[2022-09-15 02:36:18,799] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: Atha_Ler-0_sl_FLT_0.18G_Rep2_read_dist.out
+[2022-09-15 02:36:18,800] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: Atha_Ler-0_sl_FLT_0.18G_Rep2_read_dist.out
+[2022-09-15 02:36:18,804] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: Atha_Ler-0_sl_FLT_uG_Rep4_read_dist.out
+[2022-09-15 02:36:18,805] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: Atha_Ler-0_sl_FLT_uG_Rep4_read_dist.out
+[2022-09-15 02:36:18,810] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: Atha_Ler-0_sl_FLT_0.09G_Rep2_read_dist.out
+[2022-09-15 02:36:18,811] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: Atha_Ler-0_sl_FLT_0.09G_Rep2_read_dist.out
+[2022-09-15 02:36:18,815] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: Atha_Ler-0_sl_FLT_uG_Rep3_read_dist.out
+[2022-09-15 02:36:18,815] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: Atha_Ler-0_sl_FLT_uG_Rep3_read_dist.out
+[2022-09-15 02:36:18,865] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: Atha_Ler-0_sl_FLT_0.57G_Rep2_read_dist.out
+[2022-09-15 02:36:18,867] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: Atha_Ler-0_sl_FLT_0.57G_Rep2_read_dist.out
+[2022-09-15 02:36:18,873] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: Atha_Ler-0_sl_FLT_1G_Rep1_read_dist.out
+[2022-09-15 02:36:18,874] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: Atha_Ler-0_sl_FLT_1G_Rep1_read_dist.out
+[2022-09-15 02:36:18,880] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: Atha_Ler-0_sl_FLT_0.18G_Rep1_read_dist.out
+[2022-09-15 02:36:18,881] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: Atha_Ler-0_sl_FLT_0.18G_Rep1_read_dist.out
+[2022-09-15 02:36:18,886] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: Atha_Ler-0_sl_FLT_0.57G_Rep3_read_dist.out
+[2022-09-15 02:36:18,887] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: Atha_Ler-0_sl_FLT_0.57G_Rep3_read_dist.out
+[2022-09-15 02:36:18,893] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: Atha_Ler-0_sl_FLT_0.09G_Rep1_read_dist.out
+[2022-09-15 02:36:18,894] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: Atha_Ler-0_sl_FLT_0.09G_Rep1_read_dist.out
+[2022-09-15 02:36:18,899] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: Atha_Ler-0_sl_FLT_uG_Rep1_read_dist.out
+[2022-09-15 02:36:18,900] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: Atha_Ler-0_sl_FLT_uG_Rep1_read_dist.out
+[2022-09-15 02:36:20,242] multiqc.plots.bargraph                             [DEBUG  ]  Using matplotlib version 3.5.1
+[2022-09-15 02:36:20,272] multiqc.modules.rseqc.rseqc                        [INFO   ]  Found 20 read_distribution reports
+[2022-09-15 02:36:20,273] multiqc.plots.linegraph                            [DEBUG  ]  Using matplotlib version 3.5.1
+[2022-09-15 02:36:20,275] multiqc                                            [INFO   ]  Compressing plot data
+[2022-09-15 02:36:20,280] multiqc                                            [INFO   ]  Report      : read_dist_multiqc_report/read_dist_multiqc.html
+[2022-09-15 02:36:20,281] multiqc                                            [INFO   ]  Data        : read_dist_multiqc_report/read_dist_multiqc_data
+[2022-09-15 02:36:20,281] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmpi9ks07g0/multiqc_data' to 'read_dist_multiqc_report/read_dist_multiqc_data'
+[2022-09-15 02:36:20,377] multiqc                                            [INFO   ]  MultiQC complete

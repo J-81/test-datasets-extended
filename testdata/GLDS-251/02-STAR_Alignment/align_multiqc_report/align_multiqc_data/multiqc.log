@@ -1,0 +1,48 @@
+[2022-09-15 02:35:10,274] multiqc                                            [DEBUG  ]  This is MultiQC v1.12
+[2022-09-15 02:35:10,274] multiqc                                            [DEBUG  ]  No MultiQC config found: /usr/local/lib/python3.10/site-packages/multiqc_config.yaml
+[2022-09-15 02:35:10,274] multiqc                                            [DEBUG  ]  No MultiQC config found: /home/gitpod/.multiqc_config.yaml
+[2022-09-15 02:35:10,274] multiqc                                            [DEBUG  ]  No MultiQC config found: multiqc_config.yaml
+[2022-09-15 02:35:10,277] multiqc                                            [DEBUG  ]  Loading config settings from: multiqc.config
+[2022-09-15 02:35:10,277] multiqc                                            [DEBUG  ]  New config 'module_order': [{'fastqc': None}, 'cutadapt', 'star', 'rseqc', 'rsem']
+[2022-09-15 02:35:10,277] multiqc                                            [DEBUG  ]  Added to filename clean extensions: ['.read_distribution_out', '.infer_experiment_out', '.geneBodyCoverage.txt']
+[2022-09-15 02:35:10,277] multiqc                                            [DEBUG  ]  New config 'use_filename_as_sample_name': ['rseqc/gene_body_coverage']
+[2022-09-15 02:35:10,277] multiqc                                            [DEBUG  ]  New config 'show_analysis_paths': False
+[2022-09-15 02:35:10,277] multiqc                                            [DEBUG  ]  New config 'show_analysis_time': False
+[2022-09-15 02:35:10,277] multiqc                                            [DEBUG  ]  Command used: /usr/local/bin/multiqc --sample-names samples.txt --interactive -o align_multiqc_report -n align_multiqc mqc_in --config multiqc.config
+[2022-09-15 02:35:11,161] multiqc                                            [WARNING]  MultiQC Version v1.13 now available!
+[2022-09-15 02:35:11,162] multiqc                                            [DEBUG  ]  Loading sample renaming config settings from: samples.txt
+[2022-09-15 02:35:11,162] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Atha_Ler-0_sl_FLT_0.09G_Rep1
+[2022-09-15 02:35:11,162] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Atha_Ler-0_sl_FLT_0.09G_Rep2
+[2022-09-15 02:35:11,162] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Atha_Ler-0_sl_FLT_0.09G_Rep3
+[2022-09-15 02:35:11,162] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Atha_Ler-0_sl_FLT_0.18G_Rep1
+[2022-09-15 02:35:11,162] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Atha_Ler-0_sl_FLT_0.18G_Rep2
+[2022-09-15 02:35:11,162] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Atha_Ler-0_sl_FLT_0.18G_Rep3
+[2022-09-15 02:35:11,162] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Atha_Ler-0_sl_FLT_0.36G_Rep1
+[2022-09-15 02:35:11,162] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Atha_Ler-0_sl_FLT_0.36G_Rep2
+[2022-09-15 02:35:11,162] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Atha_Ler-0_sl_FLT_0.36G_Rep3
+[2022-09-15 02:35:11,162] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Atha_Ler-0_sl_FLT_0.57G_Rep1
+[2022-09-15 02:35:11,162] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Atha_Ler-0_sl_FLT_0.57G_Rep2
+[2022-09-15 02:35:11,162] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Atha_Ler-0_sl_FLT_0.57G_Rep3
+[2022-09-15 02:35:11,162] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Atha_Ler-0_sl_FLT_0.57G_Rep4
+[2022-09-15 02:35:11,162] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Atha_Ler-0_sl_FLT_1G_Rep1
+[2022-09-15 02:35:11,163] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Atha_Ler-0_sl_FLT_1G_Rep2
+[2022-09-15 02:35:11,163] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Atha_Ler-0_sl_FLT_1G_Rep3
+[2022-09-15 02:35:11,163] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Atha_Ler-0_sl_FLT_uG_Rep1
+[2022-09-15 02:35:11,163] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Atha_Ler-0_sl_FLT_uG_Rep2
+[2022-09-15 02:35:11,163] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Atha_Ler-0_sl_FLT_uG_Rep3
+[2022-09-15 02:35:11,163] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): Atha_Ler-0_sl_FLT_uG_Rep4
+[2022-09-15 02:35:11,163] multiqc                                            [DEBUG  ]  Found 0 sample renaming patterns
+[2022-09-15 02:35:11,163] multiqc                                            [DEBUG  ]  Command     : /usr/local/bin/multiqc --sample-names samples.txt --interactive -o align_multiqc_report -n align_multiqc mqc_in --config multiqc.config
+[2022-09-15 02:35:11,163] multiqc                                            [DEBUG  ]  Working dir : /tmp/test251,docker/work/51/854dc8382db81c0a93bc181d5bd103
+[2022-09-15 02:35:11,163] multiqc                                            [DEBUG  ]  Template    : default
+[2022-09-15 02:35:11,163] multiqc                                            [DEBUG  ]  Running Python 3.10.2 | packaged by conda-forge | (main, Feb  1 2022, 19:28:35) [GCC 9.4.0]
+[2022-09-15 02:35:11,164] multiqc                                            [DEBUG  ]  Analysing modules: adapterRemoval, afterqc, bamtools, bbmap, bcftools, bcl2fastq, bclconvert, biobambam2, biobloomtools, biscuit, bismark, bowtie1, bowtie2, busco, bustools, ccs, checkqc, clipandmerge, clusterflow, conpair, custom_content, damageprofiler, dedup, deeptools, disambiguate, dragen, eigenstratdatabasetools, fastp, fastq_screen, featureCounts, fgbio, flash, flexbar, gatk, gffcompare, goleft_indexcov, happy, hicexplorer, hicpro, hicup, hisat2, homer, hops, htseq, interop, ivar, jcvi, jellyfish, kaiju, kallisto, kat, kraken, leehom, lima, longranger, macs2, malt, methylQA, minionqc, mirtop, mirtrace, mosdepth, mtnucratio, multivcfanalyzer, nanostat, ngsderive, odgi, optitype, pangolin, pbmarkdup, peddy, phantompeakqualtools, picard, preseq, prokka, purple, pychopper, pycoqc, qc3C, qorts, qualimap, quast, rna_seqc, rockhopper, salmon, sambamba, samblaster, samtools, sargasso, sentieon, seqyclean, sexdeterrmine, sickle, skewer, slamdunk, snippy, snpeff, snpsplit, somalier, sortmerna, stacks, supernova, theta2, tophat, trimmomatic, varscan2, vcftools, vep, verifybamid, whatshap, fastqc, cutadapt, star, rseqc, rsem
+[2022-09-15 02:35:11,164] multiqc                                            [DEBUG  ]  Using temporary directory for creating report: /tmp/tmpsakbh3t9
+[2022-09-15 02:35:11,687] multiqc                                            [INFO   ]  Search path : /tmp/test251,docker/work/51/854dc8382db81c0a93bc181d5bd103/mqc_in
+[2022-09-15 02:35:14,573] multiqc.plots.bargraph                             [DEBUG  ]  Using matplotlib version 3.5.1
+[2022-09-15 02:35:14,663] multiqc.modules.star.star                          [INFO   ]  Found 20 reports
+[2022-09-15 02:35:14,680] multiqc                                            [INFO   ]  Compressing plot data
+[2022-09-15 02:35:14,689] multiqc                                            [INFO   ]  Report      : align_multiqc_report/align_multiqc.html
+[2022-09-15 02:35:14,689] multiqc                                            [INFO   ]  Data        : align_multiqc_report/align_multiqc_data
+[2022-09-15 02:35:14,689] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmpsakbh3t9/multiqc_data' to 'align_multiqc_report/align_multiqc_data'
+[2022-09-15 02:35:15,092] multiqc                                            [INFO   ]  MultiQC complete
