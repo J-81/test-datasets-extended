@@ -1,0 +1,3196 @@
+{
+    "report_data_sources": {
+        "Rsem": {
+            "all_sections": {
+                "GSM4486057": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/35/eb476acade148800ad1b0820bb2a1d/mqc_in/GSM4486057.stat/GSM4486057.cnt",
+                "GSM4486064": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/35/eb476acade148800ad1b0820bb2a1d/mqc_in/GSM4486064.stat/GSM4486064.cnt",
+                "GSM4486049": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/35/eb476acade148800ad1b0820bb2a1d/mqc_in/GSM4486049.stat/GSM4486049.cnt",
+                "GSM4486069": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/35/eb476acade148800ad1b0820bb2a1d/mqc_in/GSM4486069.stat/GSM4486069.cnt",
+                "GSM4486046": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/35/eb476acade148800ad1b0820bb2a1d/mqc_in/GSM4486046.stat/GSM4486046.cnt",
+                "GSM4486043": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/35/eb476acade148800ad1b0820bb2a1d/mqc_in/GSM4486043.stat/GSM4486043.cnt",
+                "GSM4486073": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/35/eb476acade148800ad1b0820bb2a1d/mqc_in/GSM4486073.stat/GSM4486073.cnt",
+                "GSM4486070": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/35/eb476acade148800ad1b0820bb2a1d/mqc_in/GSM4486070.stat/GSM4486070.cnt",
+                "GSM4486065": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/35/eb476acade148800ad1b0820bb2a1d/mqc_in/GSM4486065.stat/GSM4486065.cnt",
+                "GSM4486059": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/35/eb476acade148800ad1b0820bb2a1d/mqc_in/GSM4486059.stat/GSM4486059.cnt",
+                "GSM4486048": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/35/eb476acade148800ad1b0820bb2a1d/mqc_in/GSM4486048.stat/GSM4486048.cnt",
+                "GSM4486068": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/35/eb476acade148800ad1b0820bb2a1d/mqc_in/GSM4486068.stat/GSM4486068.cnt",
+                "GSM4486051": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/35/eb476acade148800ad1b0820bb2a1d/mqc_in/GSM4486051.stat/GSM4486051.cnt",
+                "GSM4486067": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/35/eb476acade148800ad1b0820bb2a1d/mqc_in/GSM4486067.stat/GSM4486067.cnt",
+                "GSM4486052": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/35/eb476acade148800ad1b0820bb2a1d/mqc_in/GSM4486052.stat/GSM4486052.cnt",
+                "GSM4486047": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/35/eb476acade148800ad1b0820bb2a1d/mqc_in/GSM4486047.stat/GSM4486047.cnt",
+                "GSM4486044": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/35/eb476acade148800ad1b0820bb2a1d/mqc_in/GSM4486044.stat/GSM4486044.cnt",
+                "GSM4486066": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/35/eb476acade148800ad1b0820bb2a1d/mqc_in/GSM4486066.stat/GSM4486066.cnt",
+                "GSM4486058": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/35/eb476acade148800ad1b0820bb2a1d/mqc_in/GSM4486058.stat/GSM4486058.cnt",
+                "GSM4486056": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/35/eb476acade148800ad1b0820bb2a1d/mqc_in/GSM4486056.stat/GSM4486056.cnt",
+                "GSM4486072": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/35/eb476acade148800ad1b0820bb2a1d/mqc_in/GSM4486072.stat/GSM4486072.cnt",
+                "GSM4486054": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/35/eb476acade148800ad1b0820bb2a1d/mqc_in/GSM4486054.stat/GSM4486054.cnt",
+                "GSM4486074": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/35/eb476acade148800ad1b0820bb2a1d/mqc_in/GSM4486074.stat/GSM4486074.cnt",
+                "GSM4486040": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/35/eb476acade148800ad1b0820bb2a1d/mqc_in/GSM4486040.stat/GSM4486040.cnt",
+                "GSM4486061": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/35/eb476acade148800ad1b0820bb2a1d/mqc_in/GSM4486061.stat/GSM4486061.cnt",
+                "GSM4486062": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/35/eb476acade148800ad1b0820bb2a1d/mqc_in/GSM4486062.stat/GSM4486062.cnt",
+                "GSM4486063": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/35/eb476acade148800ad1b0820bb2a1d/mqc_in/GSM4486063.stat/GSM4486063.cnt",
+                "GSM4486060": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/35/eb476acade148800ad1b0820bb2a1d/mqc_in/GSM4486060.stat/GSM4486060.cnt",
+                "GSM4486050": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/35/eb476acade148800ad1b0820bb2a1d/mqc_in/GSM4486050.stat/GSM4486050.cnt",
+                "GSM4486041": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/35/eb476acade148800ad1b0820bb2a1d/mqc_in/GSM4486041.stat/GSM4486041.cnt",
+                "GSM4486071": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/35/eb476acade148800ad1b0820bb2a1d/mqc_in/GSM4486071.stat/GSM4486071.cnt",
+                "GSM4486053": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/35/eb476acade148800ad1b0820bb2a1d/mqc_in/GSM4486053.stat/GSM4486053.cnt",
+                "GSM4486055": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/35/eb476acade148800ad1b0820bb2a1d/mqc_in/GSM4486055.stat/GSM4486055.cnt",
+                "GSM4486034": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/35/eb476acade148800ad1b0820bb2a1d/mqc_in/GSM4486034.stat/GSM4486034.cnt",
+                "GSM4486033": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/35/eb476acade148800ad1b0820bb2a1d/mqc_in/GSM4486033.stat/GSM4486033.cnt",
+                "GSM4486039": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/35/eb476acade148800ad1b0820bb2a1d/mqc_in/GSM4486039.stat/GSM4486039.cnt",
+                "GSM4486038": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/35/eb476acade148800ad1b0820bb2a1d/mqc_in/GSM4486038.stat/GSM4486038.cnt",
+                "GSM4486045": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/35/eb476acade148800ad1b0820bb2a1d/mqc_in/GSM4486045.stat/GSM4486045.cnt",
+                "GSM4486031": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/35/eb476acade148800ad1b0820bb2a1d/mqc_in/GSM4486031.stat/GSM4486031.cnt",
+                "GSM4486042": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/35/eb476acade148800ad1b0820bb2a1d/mqc_in/GSM4486042.stat/GSM4486042.cnt",
+                "GSM4486032": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/35/eb476acade148800ad1b0820bb2a1d/mqc_in/GSM4486032.stat/GSM4486032.cnt",
+                "GSM4486037": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/35/eb476acade148800ad1b0820bb2a1d/mqc_in/GSM4486037.stat/GSM4486037.cnt",
+                "GSM4486036": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/35/eb476acade148800ad1b0820bb2a1d/mqc_in/GSM4486036.stat/GSM4486036.cnt",
+                "GSM4486035": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/35/eb476acade148800ad1b0820bb2a1d/mqc_in/GSM4486035.stat/GSM4486035.cnt"
+            }
+        }
+    },
+    "report_general_stats_data": [
+        {
+            "GSM4486057": {
+                "Unalignable": 23,
+                "Alignable": 186,
+                "Filtered": 0,
+                "Total": 209,
+                "alignable_percent": 88.99521531100478,
+                "Unique": 172,
+                "Multi": 14,
+                "Uncertain": 94
+            },
+            "GSM4486064": {
+                "Unalignable": 53,
+                "Alignable": 136,
+                "Filtered": 0,
+                "Total": 189,
+                "alignable_percent": 71.95767195767195,
+                "Unique": 84,
+                "Multi": 52,
+                "Uncertain": 83
+            },
+            "GSM4486049": {
+                "Unalignable": 34,
+                "Alignable": 192,
+                "Filtered": 0,
+                "Total": 226,
+                "alignable_percent": 84.95575221238938,
+                "Unique": 181,
+                "Multi": 11,
+                "Uncertain": 91
+            },
+            "GSM4486069": {
+                "Unalignable": 22,
+                "Alignable": 180,
+                "Filtered": 0,
+                "Total": 202,
+                "alignable_percent": 89.10891089108911,
+                "Unique": 126,
+                "Multi": 54,
+                "Uncertain": 111
+            },
+            "GSM4486046": {
+                "Unalignable": 65,
+                "Alignable": 138,
+                "Filtered": 0,
+                "Total": 203,
+                "alignable_percent": 67.98029556650246,
+                "Unique": 98,
+                "Multi": 40,
+                "Uncertain": 96
+            },
+            "GSM4486043": {
+                "Unalignable": 17,
+                "Alignable": 213,
+                "Filtered": 0,
+                "Total": 230,
+                "alignable_percent": 92.6086956521739,
+                "Unique": 175,
+                "Multi": 38,
+                "Uncertain": 133
+            },
+            "GSM4486073": {
+                "Unalignable": 23,
+                "Alignable": 140,
+                "Filtered": 0,
+                "Total": 163,
+                "alignable_percent": 85.88957055214725,
+                "Unique": 71,
+                "Multi": 69,
+                "Uncertain": 110
+            },
+            "GSM4486070": {
+                "Unalignable": 17,
+                "Alignable": 163,
+                "Filtered": 0,
+                "Total": 180,
+                "alignable_percent": 90.55555555555556,
+                "Unique": 91,
+                "Multi": 72,
+                "Uncertain": 122
+            },
+            "GSM4486065": {
+                "Unalignable": 20,
+                "Alignable": 199,
+                "Filtered": 0,
+                "Total": 219,
+                "alignable_percent": 90.8675799086758,
+                "Unique": 179,
+                "Multi": 20,
+                "Uncertain": 102
+            },
+            "GSM4486059": {
+                "Unalignable": 24,
+                "Alignable": 181,
+                "Filtered": 0,
+                "Total": 205,
+                "alignable_percent": 88.29268292682927,
+                "Unique": 149,
+                "Multi": 32,
+                "Uncertain": 110
+            },
+            "GSM4486048": {
+                "Unalignable": 21,
+                "Alignable": 203,
+                "Filtered": 0,
+                "Total": 224,
+                "alignable_percent": 90.625,
+                "Unique": 188,
+                "Multi": 15,
+                "Uncertain": 115
+            },
+            "GSM4486068": {
+                "Unalignable": 29,
+                "Alignable": 178,
+                "Filtered": 0,
+                "Total": 207,
+                "alignable_percent": 85.99033816425121,
+                "Unique": 165,
+                "Multi": 13,
+                "Uncertain": 104
+            },
+            "GSM4486051": {
+                "Unalignable": 20,
+                "Alignable": 219,
+                "Filtered": 0,
+                "Total": 239,
+                "alignable_percent": 91.63179916317992,
+                "Unique": 188,
+                "Multi": 31,
+                "Uncertain": 123
+            },
+            "GSM4486067": {
+                "Unalignable": 17,
+                "Alignable": 177,
+                "Filtered": 0,
+                "Total": 194,
+                "alignable_percent": 91.23711340206185,
+                "Unique": 144,
+                "Multi": 33,
+                "Uncertain": 104
+            },
+            "GSM4486052": {
+                "Unalignable": 21,
+                "Alignable": 149,
+                "Filtered": 0,
+                "Total": 170,
+                "alignable_percent": 87.6470588235294,
+                "Unique": 85,
+                "Multi": 64,
+                "Uncertain": 107
+            },
+            "GSM4486047": {
+                "Unalignable": 17,
+                "Alignable": 189,
+                "Filtered": 0,
+                "Total": 206,
+                "alignable_percent": 91.74757281553399,
+                "Unique": 157,
+                "Multi": 32,
+                "Uncertain": 117
+            },
+            "GSM4486044": {
+                "Unalignable": 8,
+                "Alignable": 205,
+                "Filtered": 0,
+                "Total": 213,
+                "alignable_percent": 96.24413145539906,
+                "Unique": 163,
+                "Multi": 42,
+                "Uncertain": 130
+            },
+            "GSM4486066": {
+                "Unalignable": 25,
+                "Alignable": 206,
+                "Filtered": 0,
+                "Total": 231,
+                "alignable_percent": 89.17748917748918,
+                "Unique": 185,
+                "Multi": 21,
+                "Uncertain": 103
+            },
+            "GSM4486058": {
+                "Unalignable": 18,
+                "Alignable": 213,
+                "Filtered": 0,
+                "Total": 231,
+                "alignable_percent": 92.20779220779221,
+                "Unique": 183,
+                "Multi": 30,
+                "Uncertain": 119
+            },
+            "GSM4486056": {
+                "Unalignable": 42,
+                "Alignable": 164,
+                "Filtered": 0,
+                "Total": 206,
+                "alignable_percent": 79.6116504854369,
+                "Unique": 136,
+                "Multi": 28,
+                "Uncertain": 106
+            },
+            "GSM4486072": {
+                "Unalignable": 38,
+                "Alignable": 161,
+                "Filtered": 0,
+                "Total": 199,
+                "alignable_percent": 80.90452261306532,
+                "Unique": 96,
+                "Multi": 65,
+                "Uncertain": 113
+            },
+            "GSM4486054": {
+                "Unalignable": 59,
+                "Alignable": 126,
+                "Filtered": 0,
+                "Total": 185,
+                "alignable_percent": 68.10810810810811,
+                "Unique": 63,
+                "Multi": 63,
+                "Uncertain": 93
+            },
+            "GSM4486074": {
+                "Unalignable": 47,
+                "Alignable": 132,
+                "Filtered": 0,
+                "Total": 179,
+                "alignable_percent": 73.74301675977654,
+                "Unique": 69,
+                "Multi": 63,
+                "Uncertain": 100
+            },
+            "GSM4486040": {
+                "Unalignable": 24,
+                "Alignable": 174,
+                "Filtered": 0,
+                "Total": 198,
+                "alignable_percent": 87.87878787878788,
+                "Unique": 160,
+                "Multi": 14,
+                "Uncertain": 104
+            },
+            "GSM4486061": {
+                "Unalignable": 33,
+                "Alignable": 114,
+                "Filtered": 0,
+                "Total": 147,
+                "alignable_percent": 77.55102040816327,
+                "Unique": 55,
+                "Multi": 59,
+                "Uncertain": 80
+            },
+            "GSM4486062": {
+                "Unalignable": 47,
+                "Alignable": 146,
+                "Filtered": 0,
+                "Total": 193,
+                "alignable_percent": 75.64766839378238,
+                "Unique": 82,
+                "Multi": 64,
+                "Uncertain": 107
+            },
+            "GSM4486063": {
+                "Unalignable": 32,
+                "Alignable": 122,
+                "Filtered": 0,
+                "Total": 154,
+                "alignable_percent": 79.22077922077922,
+                "Unique": 59,
+                "Multi": 63,
+                "Uncertain": 95
+            },
+            "GSM4486060": {
+                "Unalignable": 16,
+                "Alignable": 199,
+                "Filtered": 0,
+                "Total": 215,
+                "alignable_percent": 92.55813953488372,
+                "Unique": 161,
+                "Multi": 38,
+                "Uncertain": 117
+            },
+            "GSM4486050": {
+                "Unalignable": 20,
+                "Alignable": 184,
+                "Filtered": 0,
+                "Total": 204,
+                "alignable_percent": 90.19607843137256,
+                "Unique": 150,
+                "Multi": 34,
+                "Uncertain": 114
+            },
+            "GSM4486041": {
+                "Unalignable": 10,
+                "Alignable": 195,
+                "Filtered": 0,
+                "Total": 205,
+                "alignable_percent": 95.1219512195122,
+                "Unique": 166,
+                "Multi": 29,
+                "Uncertain": 109
+            },
+            "GSM4486071": {
+                "Unalignable": 14,
+                "Alignable": 171,
+                "Filtered": 0,
+                "Total": 185,
+                "alignable_percent": 92.43243243243244,
+                "Unique": 76,
+                "Multi": 95,
+                "Uncertain": 136
+            },
+            "GSM4486053": {
+                "Unalignable": 19,
+                "Alignable": 161,
+                "Filtered": 0,
+                "Total": 180,
+                "alignable_percent": 89.44444444444444,
+                "Unique": 108,
+                "Multi": 53,
+                "Uncertain": 100
+            },
+            "GSM4486055": {
+                "Unalignable": 56,
+                "Alignable": 114,
+                "Filtered": 0,
+                "Total": 170,
+                "alignable_percent": 67.05882352941175,
+                "Unique": 53,
+                "Multi": 61,
+                "Uncertain": 81
+            },
+            "GSM4486034": {
+                "Unalignable": 14,
+                "Alignable": 210,
+                "Filtered": 0,
+                "Total": 224,
+                "alignable_percent": 93.75,
+                "Unique": 181,
+                "Multi": 29,
+                "Uncertain": 115
+            },
+            "GSM4486033": {
+                "Unalignable": 19,
+                "Alignable": 195,
+                "Filtered": 0,
+                "Total": 214,
+                "alignable_percent": 91.1214953271028,
+                "Unique": 159,
+                "Multi": 36,
+                "Uncertain": 113
+            },
+            "GSM4486039": {
+                "Unalignable": 36,
+                "Alignable": 193,
+                "Filtered": 0,
+                "Total": 229,
+                "alignable_percent": 84.27947598253274,
+                "Unique": 177,
+                "Multi": 16,
+                "Uncertain": 101
+            },
+            "GSM4486038": {
+                "Unalignable": 55,
+                "Alignable": 143,
+                "Filtered": 0,
+                "Total": 198,
+                "alignable_percent": 72.22222222222221,
+                "Unique": 98,
+                "Multi": 45,
+                "Uncertain": 94
+            },
+            "GSM4486045": {
+                "Unalignable": 34,
+                "Alignable": 187,
+                "Filtered": 0,
+                "Total": 221,
+                "alignable_percent": 84.61538461538461,
+                "Unique": 139,
+                "Multi": 48,
+                "Uncertain": 116
+            },
+            "GSM4486031": {
+                "Unalignable": 24,
+                "Alignable": 173,
+                "Filtered": 0,
+                "Total": 197,
+                "alignable_percent": 87.81725888324873,
+                "Unique": 147,
+                "Multi": 26,
+                "Uncertain": 92
+            },
+            "GSM4486042": {
+                "Unalignable": 21,
+                "Alignable": 202,
+                "Filtered": 0,
+                "Total": 223,
+                "alignable_percent": 90.5829596412556,
+                "Unique": 169,
+                "Multi": 33,
+                "Uncertain": 120
+            },
+            "GSM4486032": {
+                "Unalignable": 30,
+                "Alignable": 173,
+                "Filtered": 0,
+                "Total": 203,
+                "alignable_percent": 85.22167487684729,
+                "Unique": 129,
+                "Multi": 44,
+                "Uncertain": 113
+            },
+            "GSM4486037": {
+                "Unalignable": 32,
+                "Alignable": 144,
+                "Filtered": 0,
+                "Total": 176,
+                "alignable_percent": 81.81818181818183,
+                "Unique": 91,
+                "Multi": 53,
+                "Uncertain": 88
+            },
+            "GSM4486036": {
+                "Unalignable": 19,
+                "Alignable": 119,
+                "Filtered": 0,
+                "Total": 138,
+                "alignable_percent": 86.23188405797102,
+                "Unique": 50,
+                "Multi": 69,
+                "Uncertain": 95
+            },
+            "GSM4486035": {
+                "Unalignable": 24,
+                "Alignable": 132,
+                "Filtered": 0,
+                "Total": 156,
+                "alignable_percent": 84.61538461538461,
+                "Unique": 51,
+                "Multi": 81,
+                "Uncertain": 106
+            }
+        }
+    ],
+    "report_general_stats_headers": [
+        {
+            "alignable_percent": {
+                "title": "% Alignable",
+                "description": "% Alignable reads",
+                "max": 100,
+                "min": 0,
+                "suffix": "%",
+                "scale": "YlGn",
+                "namespace": "Rsem",
+                "rid": "mqc-generalstats-rsem-alignable_percent",
+                "format": "{:,.1f}",
+                "colour": "55,126,184",
+                "hidden": null,
+                "ceiling": null,
+                "floor": null,
+                "minRange": null,
+                "shared_key": null,
+                "modify": null,
+                "placement": 1000.0,
+                "dmax": 100.0,
+                "dmin": 0.0
+            }
+        }
+    ],
+    "report_multiqc_command": "/usr/local/bin/multiqc --sample-names samples.txt --interactive -o RSEM_count_multiqc_report -n RSEM_count_multiqc mqc_in --config multiqc.config",
+    "report_plot_data": {
+        "rsem_assignment_plot": {
+            "plot_type": "bar_graph",
+            "samples": [
+                [
+                    "GSM4486031",
+                    "GSM4486032",
+                    "GSM4486033",
+                    "GSM4486034",
+                    "GSM4486035",
+                    "GSM4486036",
+                    "GSM4486037",
+                    "GSM4486038",
+                    "GSM4486039",
+                    "GSM4486040",
+                    "GSM4486041",
+                    "GSM4486042",
+                    "GSM4486043",
+                    "GSM4486044",
+                    "GSM4486045",
+                    "GSM4486046",
+                    "GSM4486047",
+                    "GSM4486048",
+                    "GSM4486049",
+                    "GSM4486050",
+                    "GSM4486051",
+                    "GSM4486052",
+                    "GSM4486053",
+                    "GSM4486054",
+                    "GSM4486055",
+                    "GSM4486056",
+                    "GSM4486057",
+                    "GSM4486058",
+                    "GSM4486059",
+                    "GSM4486060",
+                    "GSM4486061",
+                    "GSM4486062",
+                    "GSM4486063",
+                    "GSM4486064",
+                    "GSM4486065",
+                    "GSM4486066",
+                    "GSM4486067",
+                    "GSM4486068",
+                    "GSM4486069",
+                    "GSM4486070",
+                    "GSM4486071",
+                    "GSM4486072",
+                    "GSM4486073",
+                    "GSM4486074"
+                ]
+            ],
+            "datasets": [
+                [
+                    {
+                        "name": "Aligned uniquely to a gene",
+                        "data": [
+                            147.0,
+                            129.0,
+                            159.0,
+                            181.0,
+                            51.0,
+                            50.0,
+                            91.0,
+                            98.0,
+                            177.0,
+                            160.0,
+                            166.0,
+                            169.0,
+                            175.0,
+                            163.0,
+                            139.0,
+                            98.0,
+                            157.0,
+                            188.0,
+                            181.0,
+                            150.0,
+                            188.0,
+                            85.0,
+                            108.0,
+                            63.0,
+                            53.0,
+                            136.0,
+                            172.0,
+                            183.0,
+                            149.0,
+                            161.0,
+                            55.0,
+                            82.0,
+                            59.0,
+                            84.0,
+                            179.0,
+                            185.0,
+                            144.0,
+                            165.0,
+                            126.0,
+                            91.0,
+                            76.0,
+                            96.0,
+                            71.0,
+                            69.0
+                        ],
+                        "color": "#437bb1"
+                    },
+                    {
+                        "name": "Aligned to multiple genes",
+                        "data": [
+                            26.0,
+                            44.0,
+                            36.0,
+                            29.0,
+                            81.0,
+                            69.0,
+                            53.0,
+                            45.0,
+                            16.0,
+                            14.0,
+                            29.0,
+                            33.0,
+                            38.0,
+                            42.0,
+                            48.0,
+                            40.0,
+                            32.0,
+                            15.0,
+                            11.0,
+                            34.0,
+                            31.0,
+                            64.0,
+                            53.0,
+                            63.0,
+                            61.0,
+                            28.0,
+                            14.0,
+                            30.0,
+                            32.0,
+                            38.0,
+                            59.0,
+                            64.0,
+                            63.0,
+                            52.0,
+                            20.0,
+                            21.0,
+                            33.0,
+                            13.0,
+                            54.0,
+                            72.0,
+                            95.0,
+                            65.0,
+                            69.0,
+                            63.0
+                        ],
+                        "color": "#e63491"
+                    },
+                    {
+                        "name": "Filtered due to too many alignments",
+                        "data": [
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0
+                        ],
+                        "color": "#b1084c"
+                    },
+                    {
+                        "name": "Unalignable reads",
+                        "data": [
+                            24.0,
+                            30.0,
+                            19.0,
+                            14.0,
+                            24.0,
+                            19.0,
+                            32.0,
+                            55.0,
+                            36.0,
+                            24.0,
+                            10.0,
+                            21.0,
+                            17.0,
+                            8.0,
+                            34.0,
+                            65.0,
+                            17.0,
+                            21.0,
+                            34.0,
+                            20.0,
+                            20.0,
+                            21.0,
+                            19.0,
+                            59.0,
+                            56.0,
+                            42.0,
+                            23.0,
+                            18.0,
+                            24.0,
+                            16.0,
+                            33.0,
+                            47.0,
+                            32.0,
+                            53.0,
+                            20.0,
+                            25.0,
+                            17.0,
+                            29.0,
+                            22.0,
+                            17.0,
+                            14.0,
+                            38.0,
+                            23.0,
+                            47.0
+                        ],
+                        "color": "#7f0000"
+                    }
+                ]
+            ],
+            "config": {
+                "id": "rsem_assignment_plot",
+                "title": "RSEM: Mapped reads",
+                "ylab": "# Reads",
+                "cpswitch_counts_label": "Number of Reads",
+                "hide_zero_cats": false
+            }
+        },
+        "rsem_multimapping_rates": {
+            "plot_type": "xy_line",
+            "datasets": [
+                [
+                    {
+                        "name": "GSM4486031",
+                        "data": [
+                            [
+                                0,
+                                24
+                            ],
+                            [
+                                1,
+                                81
+                            ],
+                            [
+                                2,
+                                60
+                            ],
+                            [
+                                3,
+                                16
+                            ],
+                            [
+                                4,
+                                6
+                            ],
+                            [
+                                5,
+                                2
+                            ],
+                            [
+                                6,
+                                3
+                            ],
+                            [
+                                7,
+                                3
+                            ],
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                12,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486032",
+                        "data": [
+                            [
+                                0,
+                                30
+                            ],
+                            [
+                                1,
+                                60
+                            ],
+                            [
+                                2,
+                                71
+                            ],
+                            [
+                                3,
+                                25
+                            ],
+                            [
+                                4,
+                                13
+                            ],
+                            [
+                                5,
+                                2
+                            ],
+                            [
+                                6,
+                                1
+                            ],
+                            [
+                                7,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486033",
+                        "data": [
+                            [
+                                0,
+                                19
+                            ],
+                            [
+                                1,
+                                82
+                            ],
+                            [
+                                2,
+                                68
+                            ],
+                            [
+                                3,
+                                25
+                            ],
+                            [
+                                4,
+                                9
+                            ],
+                            [
+                                5,
+                                4
+                            ],
+                            [
+                                6,
+                                2
+                            ],
+                            [
+                                7,
+                                4
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486034",
+                        "data": [
+                            [
+                                0,
+                                14
+                            ],
+                            [
+                                1,
+                                95
+                            ],
+                            [
+                                2,
+                                86
+                            ],
+                            [
+                                3,
+                                19
+                            ],
+                            [
+                                4,
+                                3
+                            ],
+                            [
+                                5,
+                                3
+                            ],
+                            [
+                                6,
+                                2
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                17,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486035",
+                        "data": [
+                            [
+                                0,
+                                24
+                            ],
+                            [
+                                1,
+                                26
+                            ],
+                            [
+                                2,
+                                94
+                            ],
+                            [
+                                3,
+                                8
+                            ],
+                            [
+                                5,
+                                2
+                            ],
+                            [
+                                11,
+                                2
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486036",
+                        "data": [
+                            [
+                                0,
+                                19
+                            ],
+                            [
+                                1,
+                                24
+                            ],
+                            [
+                                2,
+                                80
+                            ],
+                            [
+                                3,
+                                6
+                            ],
+                            [
+                                4,
+                                2
+                            ],
+                            [
+                                5,
+                                4
+                            ],
+                            [
+                                6,
+                                2
+                            ],
+                            [
+                                12,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486037",
+                        "data": [
+                            [
+                                0,
+                                32
+                            ],
+                            [
+                                1,
+                                56
+                            ],
+                            [
+                                2,
+                                68
+                            ],
+                            [
+                                3,
+                                6
+                            ],
+                            [
+                                4,
+                                6
+                            ],
+                            [
+                                5,
+                                1
+                            ],
+                            [
+                                6,
+                                5
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                12,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486038",
+                        "data": [
+                            [
+                                0,
+                                55
+                            ],
+                            [
+                                1,
+                                49
+                            ],
+                            [
+                                2,
+                                59
+                            ],
+                            [
+                                3,
+                                19
+                            ],
+                            [
+                                4,
+                                10
+                            ],
+                            [
+                                5,
+                                2
+                            ],
+                            [
+                                6,
+                                2
+                            ],
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                11,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486039",
+                        "data": [
+                            [
+                                0,
+                                36
+                            ],
+                            [
+                                1,
+                                92
+                            ],
+                            [
+                                2,
+                                51
+                            ],
+                            [
+                                3,
+                                32
+                            ],
+                            [
+                                4,
+                                6
+                            ],
+                            [
+                                5,
+                                2
+                            ],
+                            [
+                                6,
+                                7
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                8,
+                                2
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486040",
+                        "data": [
+                            [
+                                0,
+                                24
+                            ],
+                            [
+                                1,
+                                70
+                            ],
+                            [
+                                2,
+                                61
+                            ],
+                            [
+                                3,
+                                23
+                            ],
+                            [
+                                4,
+                                8
+                            ],
+                            [
+                                5,
+                                2
+                            ],
+                            [
+                                6,
+                                5
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                8,
+                                1
+                            ],
+                            [
+                                9,
+                                2
+                            ],
+                            [
+                                10,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486041",
+                        "data": [
+                            [
+                                0,
+                                10
+                            ],
+                            [
+                                1,
+                                86
+                            ],
+                            [
+                                2,
+                                55
+                            ],
+                            [
+                                3,
+                                34
+                            ],
+                            [
+                                4,
+                                11
+                            ],
+                            [
+                                5,
+                                1
+                            ],
+                            [
+                                6,
+                                4
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                9,
+                                2
+                            ],
+                            [
+                                10,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486042",
+                        "data": [
+                            [
+                                0,
+                                21
+                            ],
+                            [
+                                1,
+                                82
+                            ],
+                            [
+                                2,
+                                81
+                            ],
+                            [
+                                3,
+                                24
+                            ],
+                            [
+                                4,
+                                4
+                            ],
+                            [
+                                5,
+                                3
+                            ],
+                            [
+                                6,
+                                4
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                8,
+                                1
+                            ],
+                            [
+                                9,
+                                1
+                            ],
+                            [
+                                11,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486043",
+                        "data": [
+                            [
+                                0,
+                                17
+                            ],
+                            [
+                                1,
+                                80
+                            ],
+                            [
+                                2,
+                                78
+                            ],
+                            [
+                                3,
+                                25
+                            ],
+                            [
+                                4,
+                                9
+                            ],
+                            [
+                                5,
+                                4
+                            ],
+                            [
+                                6,
+                                6
+                            ],
+                            [
+                                7,
+                                7
+                            ],
+                            [
+                                8,
+                                2
+                            ],
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                12,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486044",
+                        "data": [
+                            [
+                                0,
+                                8
+                            ],
+                            [
+                                1,
+                                75
+                            ],
+                            [
+                                2,
+                                81
+                            ],
+                            [
+                                3,
+                                26
+                            ],
+                            [
+                                4,
+                                10
+                            ],
+                            [
+                                6,
+                                7
+                            ],
+                            [
+                                7,
+                                2
+                            ],
+                            [
+                                11,
+                                3
+                            ],
+                            [
+                                12,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486045",
+                        "data": [
+                            [
+                                0,
+                                34
+                            ],
+                            [
+                                1,
+                                71
+                            ],
+                            [
+                                2,
+                                75
+                            ],
+                            [
+                                3,
+                                21
+                            ],
+                            [
+                                4,
+                                12
+                            ],
+                            [
+                                5,
+                                4
+                            ],
+                            [
+                                6,
+                                2
+                            ],
+                            [
+                                9,
+                                1
+                            ],
+                            [
+                                10,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486046",
+                        "data": [
+                            [
+                                0,
+                                65
+                            ],
+                            [
+                                1,
+                                42
+                            ],
+                            [
+                                2,
+                                66
+                            ],
+                            [
+                                3,
+                                11
+                            ],
+                            [
+                                4,
+                                10
+                            ],
+                            [
+                                5,
+                                3
+                            ],
+                            [
+                                6,
+                                2
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                8,
+                                2
+                            ],
+                            [
+                                11,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486047",
+                        "data": [
+                            [
+                                0,
+                                17
+                            ],
+                            [
+                                1,
+                                72
+                            ],
+                            [
+                                2,
+                                70
+                            ],
+                            [
+                                3,
+                                25
+                            ],
+                            [
+                                4,
+                                12
+                            ],
+                            [
+                                5,
+                                6
+                            ],
+                            [
+                                6,
+                                2
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486048",
+                        "data": [
+                            [
+                                0,
+                                21
+                            ],
+                            [
+                                1,
+                                88
+                            ],
+                            [
+                                2,
+                                57
+                            ],
+                            [
+                                3,
+                                40
+                            ],
+                            [
+                                4,
+                                10
+                            ],
+                            [
+                                5,
+                                3
+                            ],
+                            [
+                                6,
+                                4
+                            ],
+                            [
+                                7,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486049",
+                        "data": [
+                            [
+                                0,
+                                34
+                            ],
+                            [
+                                1,
+                                101
+                            ],
+                            [
+                                2,
+                                50
+                            ],
+                            [
+                                3,
+                                18
+                            ],
+                            [
+                                4,
+                                12
+                            ],
+                            [
+                                5,
+                                3
+                            ],
+                            [
+                                6,
+                                2
+                            ],
+                            [
+                                7,
+                                2
+                            ],
+                            [
+                                8,
+                                3
+                            ],
+                            [
+                                10,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486050",
+                        "data": [
+                            [
+                                0,
+                                20
+                            ],
+                            [
+                                1,
+                                70
+                            ],
+                            [
+                                2,
+                                76
+                            ],
+                            [
+                                3,
+                                14
+                            ],
+                            [
+                                4,
+                                9
+                            ],
+                            [
+                                5,
+                                6
+                            ],
+                            [
+                                6,
+                                5
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                8,
+                                1
+                            ],
+                            [
+                                9,
+                                1
+                            ],
+                            [
+                                12,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486051",
+                        "data": [
+                            [
+                                0,
+                                20
+                            ],
+                            [
+                                1,
+                                96
+                            ],
+                            [
+                                2,
+                                75
+                            ],
+                            [
+                                3,
+                                22
+                            ],
+                            [
+                                4,
+                                8
+                            ],
+                            [
+                                5,
+                                5
+                            ],
+                            [
+                                6,
+                                8
+                            ],
+                            [
+                                7,
+                                3
+                            ],
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                13,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486052",
+                        "data": [
+                            [
+                                0,
+                                21
+                            ],
+                            [
+                                1,
+                                42
+                            ],
+                            [
+                                2,
+                                83
+                            ],
+                            [
+                                3,
+                                12
+                            ],
+                            [
+                                4,
+                                4
+                            ],
+                            [
+                                5,
+                                2
+                            ],
+                            [
+                                6,
+                                4
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                10,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486053",
+                        "data": [
+                            [
+                                0,
+                                19
+                            ],
+                            [
+                                1,
+                                61
+                            ],
+                            [
+                                2,
+                                80
+                            ],
+                            [
+                                3,
+                                12
+                            ],
+                            [
+                                4,
+                                3
+                            ],
+                            [
+                                5,
+                                2
+                            ],
+                            [
+                                6,
+                                1
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486054",
+                        "data": [
+                            [
+                                0,
+                                59
+                            ],
+                            [
+                                1,
+                                33
+                            ],
+                            [
+                                2,
+                                68
+                            ],
+                            [
+                                3,
+                                8
+                            ],
+                            [
+                                4,
+                                5
+                            ],
+                            [
+                                5,
+                                4
+                            ],
+                            [
+                                6,
+                                2
+                            ],
+                            [
+                                7,
+                                3
+                            ],
+                            [
+                                8,
+                                1
+                            ],
+                            [
+                                9,
+                                1
+                            ],
+                            [
+                                15,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486055",
+                        "data": [
+                            [
+                                0,
+                                56
+                            ],
+                            [
+                                1,
+                                33
+                            ],
+                            [
+                                2,
+                                71
+                            ],
+                            [
+                                3,
+                                8
+                            ],
+                            [
+                                4,
+                                1
+                            ],
+                            [
+                                5,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486056",
+                        "data": [
+                            [
+                                0,
+                                42
+                            ],
+                            [
+                                1,
+                                58
+                            ],
+                            [
+                                2,
+                                64
+                            ],
+                            [
+                                3,
+                                20
+                            ],
+                            [
+                                4,
+                                12
+                            ],
+                            [
+                                5,
+                                3
+                            ],
+                            [
+                                6,
+                                2
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                9,
+                                2
+                            ],
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                11,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486057",
+                        "data": [
+                            [
+                                0,
+                                23
+                            ],
+                            [
+                                1,
+                                92
+                            ],
+                            [
+                                2,
+                                52
+                            ],
+                            [
+                                3,
+                                24
+                            ],
+                            [
+                                4,
+                                9
+                            ],
+                            [
+                                5,
+                                1
+                            ],
+                            [
+                                6,
+                                4
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                8,
+                                1
+                            ],
+                            [
+                                9,
+                                1
+                            ],
+                            [
+                                11,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486058",
+                        "data": [
+                            [
+                                0,
+                                18
+                            ],
+                            [
+                                1,
+                                94
+                            ],
+                            [
+                                2,
+                                70
+                            ],
+                            [
+                                3,
+                                21
+                            ],
+                            [
+                                4,
+                                16
+                            ],
+                            [
+                                5,
+                                6
+                            ],
+                            [
+                                6,
+                                1
+                            ],
+                            [
+                                7,
+                                2
+                            ],
+                            [
+                                8,
+                                1
+                            ],
+                            [
+                                9,
+                                2
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486059",
+                        "data": [
+                            [
+                                0,
+                                24
+                            ],
+                            [
+                                1,
+                                71
+                            ],
+                            [
+                                2,
+                                72
+                            ],
+                            [
+                                3,
+                                18
+                            ],
+                            [
+                                4,
+                                9
+                            ],
+                            [
+                                5,
+                                3
+                            ],
+                            [
+                                6,
+                                4
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                8,
+                                1
+                            ],
+                            [
+                                9,
+                                2
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486060",
+                        "data": [
+                            [
+                                0,
+                                16
+                            ],
+                            [
+                                1,
+                                82
+                            ],
+                            [
+                                2,
+                                74
+                            ],
+                            [
+                                3,
+                                25
+                            ],
+                            [
+                                4,
+                                6
+                            ],
+                            [
+                                5,
+                                7
+                            ],
+                            [
+                                7,
+                                2
+                            ],
+                            [
+                                8,
+                                1
+                            ],
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                17,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486061",
+                        "data": [
+                            [
+                                0,
+                                33
+                            ],
+                            [
+                                1,
+                                34
+                            ],
+                            [
+                                2,
+                                66
+                            ],
+                            [
+                                3,
+                                3
+                            ],
+                            [
+                                4,
+                                4
+                            ],
+                            [
+                                5,
+                                5
+                            ],
+                            [
+                                6,
+                                1
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486062",
+                        "data": [
+                            [
+                                0,
+                                47
+                            ],
+                            [
+                                1,
+                                39
+                            ],
+                            [
+                                2,
+                                84
+                            ],
+                            [
+                                3,
+                                14
+                            ],
+                            [
+                                4,
+                                4
+                            ],
+                            [
+                                5,
+                                4
+                            ],
+                            [
+                                6,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486063",
+                        "data": [
+                            [
+                                0,
+                                32
+                            ],
+                            [
+                                1,
+                                27
+                            ],
+                            [
+                                2,
+                                76
+                            ],
+                            [
+                                3,
+                                13
+                            ],
+                            [
+                                4,
+                                6
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486064",
+                        "data": [
+                            [
+                                0,
+                                53
+                            ],
+                            [
+                                1,
+                                53
+                            ],
+                            [
+                                2,
+                                64
+                            ],
+                            [
+                                3,
+                                10
+                            ],
+                            [
+                                4,
+                                7
+                            ],
+                            [
+                                5,
+                                1
+                            ],
+                            [
+                                8,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486065",
+                        "data": [
+                            [
+                                0,
+                                20
+                            ],
+                            [
+                                1,
+                                97
+                            ],
+                            [
+                                2,
+                                63
+                            ],
+                            [
+                                3,
+                                25
+                            ],
+                            [
+                                4,
+                                7
+                            ],
+                            [
+                                5,
+                                3
+                            ],
+                            [
+                                6,
+                                1
+                            ],
+                            [
+                                8,
+                                2
+                            ],
+                            [
+                                10,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486066",
+                        "data": [
+                            [
+                                0,
+                                25
+                            ],
+                            [
+                                1,
+                                103
+                            ],
+                            [
+                                2,
+                                65
+                            ],
+                            [
+                                3,
+                                21
+                            ],
+                            [
+                                4,
+                                8
+                            ],
+                            [
+                                5,
+                                5
+                            ],
+                            [
+                                6,
+                                1
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                8,
+                                1
+                            ],
+                            [
+                                10,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486067",
+                        "data": [
+                            [
+                                0,
+                                17
+                            ],
+                            [
+                                1,
+                                73
+                            ],
+                            [
+                                2,
+                                77
+                            ],
+                            [
+                                3,
+                                12
+                            ],
+                            [
+                                4,
+                                4
+                            ],
+                            [
+                                5,
+                                6
+                            ],
+                            [
+                                6,
+                                3
+                            ],
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                12,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486068",
+                        "data": [
+                            [
+                                0,
+                                29
+                            ],
+                            [
+                                1,
+                                74
+                            ],
+                            [
+                                2,
+                                50
+                            ],
+                            [
+                                3,
+                                32
+                            ],
+                            [
+                                4,
+                                11
+                            ],
+                            [
+                                5,
+                                5
+                            ],
+                            [
+                                6,
+                                1
+                            ],
+                            [
+                                7,
+                                4
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486069",
+                        "data": [
+                            [
+                                0,
+                                22
+                            ],
+                            [
+                                1,
+                                69
+                            ],
+                            [
+                                2,
+                                87
+                            ],
+                            [
+                                3,
+                                8
+                            ],
+                            [
+                                4,
+                                8
+                            ],
+                            [
+                                5,
+                                5
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                9,
+                                1
+                            ],
+                            [
+                                11,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486070",
+                        "data": [
+                            [
+                                0,
+                                17
+                            ],
+                            [
+                                1,
+                                41
+                            ],
+                            [
+                                2,
+                                91
+                            ],
+                            [
+                                3,
+                                10
+                            ],
+                            [
+                                4,
+                                11
+                            ],
+                            [
+                                5,
+                                3
+                            ],
+                            [
+                                6,
+                                3
+                            ],
+                            [
+                                8,
+                                2
+                            ],
+                            [
+                                9,
+                                1
+                            ],
+                            [
+                                10,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486071",
+                        "data": [
+                            [
+                                0,
+                                14
+                            ],
+                            [
+                                1,
+                                35
+                            ],
+                            [
+                                2,
+                                111
+                            ],
+                            [
+                                3,
+                                12
+                            ],
+                            [
+                                4,
+                                8
+                            ],
+                            [
+                                5,
+                                2
+                            ],
+                            [
+                                6,
+                                3
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486072",
+                        "data": [
+                            [
+                                0,
+                                38
+                            ],
+                            [
+                                1,
+                                48
+                            ],
+                            [
+                                2,
+                                86
+                            ],
+                            [
+                                3,
+                                13
+                            ],
+                            [
+                                4,
+                                7
+                            ],
+                            [
+                                5,
+                                5
+                            ],
+                            [
+                                6,
+                                1
+                            ],
+                            [
+                                12,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486073",
+                        "data": [
+                            [
+                                0,
+                                23
+                            ],
+                            [
+                                1,
+                                30
+                            ],
+                            [
+                                2,
+                                93
+                            ],
+                            [
+                                3,
+                                11
+                            ],
+                            [
+                                4,
+                                3
+                            ],
+                            [
+                                6,
+                                3
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486074",
+                        "data": [
+                            [
+                                0,
+                                47
+                            ],
+                            [
+                                1,
+                                32
+                            ],
+                            [
+                                2,
+                                80
+                            ],
+                            [
+                                3,
+                                10
+                            ],
+                            [
+                                4,
+                                5
+                            ],
+                            [
+                                5,
+                                2
+                            ],
+                            [
+                                6,
+                                1
+                            ],
+                            [
+                                11,
+                                2
+                            ]
+                        ]
+                    }
+                ]
+            ],
+            "config": {
+                "id": "rsem_multimapping_rates",
+                "title": "RSEM: Multimapping Rates",
+                "ylab": "Counts",
+                "xlab": "Number of alignments",
+                "xDecimals": false,
+                "ymin": 0,
+                "tt_label": "<b>{point.x} alignments</b>: {point.y:.0f}"
+            }
+        }
+    },
+    "report_saved_raw_data": {
+        "multiqc_rsem": {
+            "GSM4486057": {
+                "Unalignable": 23,
+                "Alignable": 186,
+                "Filtered": 0,
+                "Total": 209,
+                "alignable_percent": 88.99521531100478,
+                "Unique": 172,
+                "Multi": 14,
+                "Uncertain": 94
+            },
+            "GSM4486064": {
+                "Unalignable": 53,
+                "Alignable": 136,
+                "Filtered": 0,
+                "Total": 189,
+                "alignable_percent": 71.95767195767195,
+                "Unique": 84,
+                "Multi": 52,
+                "Uncertain": 83
+            },
+            "GSM4486049": {
+                "Unalignable": 34,
+                "Alignable": 192,
+                "Filtered": 0,
+                "Total": 226,
+                "alignable_percent": 84.95575221238938,
+                "Unique": 181,
+                "Multi": 11,
+                "Uncertain": 91
+            },
+            "GSM4486069": {
+                "Unalignable": 22,
+                "Alignable": 180,
+                "Filtered": 0,
+                "Total": 202,
+                "alignable_percent": 89.10891089108911,
+                "Unique": 126,
+                "Multi": 54,
+                "Uncertain": 111
+            },
+            "GSM4486046": {
+                "Unalignable": 65,
+                "Alignable": 138,
+                "Filtered": 0,
+                "Total": 203,
+                "alignable_percent": 67.98029556650246,
+                "Unique": 98,
+                "Multi": 40,
+                "Uncertain": 96
+            },
+            "GSM4486043": {
+                "Unalignable": 17,
+                "Alignable": 213,
+                "Filtered": 0,
+                "Total": 230,
+                "alignable_percent": 92.6086956521739,
+                "Unique": 175,
+                "Multi": 38,
+                "Uncertain": 133
+            },
+            "GSM4486073": {
+                "Unalignable": 23,
+                "Alignable": 140,
+                "Filtered": 0,
+                "Total": 163,
+                "alignable_percent": 85.88957055214725,
+                "Unique": 71,
+                "Multi": 69,
+                "Uncertain": 110
+            },
+            "GSM4486070": {
+                "Unalignable": 17,
+                "Alignable": 163,
+                "Filtered": 0,
+                "Total": 180,
+                "alignable_percent": 90.55555555555556,
+                "Unique": 91,
+                "Multi": 72,
+                "Uncertain": 122
+            },
+            "GSM4486065": {
+                "Unalignable": 20,
+                "Alignable": 199,
+                "Filtered": 0,
+                "Total": 219,
+                "alignable_percent": 90.8675799086758,
+                "Unique": 179,
+                "Multi": 20,
+                "Uncertain": 102
+            },
+            "GSM4486059": {
+                "Unalignable": 24,
+                "Alignable": 181,
+                "Filtered": 0,
+                "Total": 205,
+                "alignable_percent": 88.29268292682927,
+                "Unique": 149,
+                "Multi": 32,
+                "Uncertain": 110
+            },
+            "GSM4486048": {
+                "Unalignable": 21,
+                "Alignable": 203,
+                "Filtered": 0,
+                "Total": 224,
+                "alignable_percent": 90.625,
+                "Unique": 188,
+                "Multi": 15,
+                "Uncertain": 115
+            },
+            "GSM4486068": {
+                "Unalignable": 29,
+                "Alignable": 178,
+                "Filtered": 0,
+                "Total": 207,
+                "alignable_percent": 85.99033816425121,
+                "Unique": 165,
+                "Multi": 13,
+                "Uncertain": 104
+            },
+            "GSM4486051": {
+                "Unalignable": 20,
+                "Alignable": 219,
+                "Filtered": 0,
+                "Total": 239,
+                "alignable_percent": 91.63179916317992,
+                "Unique": 188,
+                "Multi": 31,
+                "Uncertain": 123
+            },
+            "GSM4486067": {
+                "Unalignable": 17,
+                "Alignable": 177,
+                "Filtered": 0,
+                "Total": 194,
+                "alignable_percent": 91.23711340206185,
+                "Unique": 144,
+                "Multi": 33,
+                "Uncertain": 104
+            },
+            "GSM4486052": {
+                "Unalignable": 21,
+                "Alignable": 149,
+                "Filtered": 0,
+                "Total": 170,
+                "alignable_percent": 87.6470588235294,
+                "Unique": 85,
+                "Multi": 64,
+                "Uncertain": 107
+            },
+            "GSM4486047": {
+                "Unalignable": 17,
+                "Alignable": 189,
+                "Filtered": 0,
+                "Total": 206,
+                "alignable_percent": 91.74757281553399,
+                "Unique": 157,
+                "Multi": 32,
+                "Uncertain": 117
+            },
+            "GSM4486044": {
+                "Unalignable": 8,
+                "Alignable": 205,
+                "Filtered": 0,
+                "Total": 213,
+                "alignable_percent": 96.24413145539906,
+                "Unique": 163,
+                "Multi": 42,
+                "Uncertain": 130
+            },
+            "GSM4486066": {
+                "Unalignable": 25,
+                "Alignable": 206,
+                "Filtered": 0,
+                "Total": 231,
+                "alignable_percent": 89.17748917748918,
+                "Unique": 185,
+                "Multi": 21,
+                "Uncertain": 103
+            },
+            "GSM4486058": {
+                "Unalignable": 18,
+                "Alignable": 213,
+                "Filtered": 0,
+                "Total": 231,
+                "alignable_percent": 92.20779220779221,
+                "Unique": 183,
+                "Multi": 30,
+                "Uncertain": 119
+            },
+            "GSM4486056": {
+                "Unalignable": 42,
+                "Alignable": 164,
+                "Filtered": 0,
+                "Total": 206,
+                "alignable_percent": 79.6116504854369,
+                "Unique": 136,
+                "Multi": 28,
+                "Uncertain": 106
+            },
+            "GSM4486072": {
+                "Unalignable": 38,
+                "Alignable": 161,
+                "Filtered": 0,
+                "Total": 199,
+                "alignable_percent": 80.90452261306532,
+                "Unique": 96,
+                "Multi": 65,
+                "Uncertain": 113
+            },
+            "GSM4486054": {
+                "Unalignable": 59,
+                "Alignable": 126,
+                "Filtered": 0,
+                "Total": 185,
+                "alignable_percent": 68.10810810810811,
+                "Unique": 63,
+                "Multi": 63,
+                "Uncertain": 93
+            },
+            "GSM4486074": {
+                "Unalignable": 47,
+                "Alignable": 132,
+                "Filtered": 0,
+                "Total": 179,
+                "alignable_percent": 73.74301675977654,
+                "Unique": 69,
+                "Multi": 63,
+                "Uncertain": 100
+            },
+            "GSM4486040": {
+                "Unalignable": 24,
+                "Alignable": 174,
+                "Filtered": 0,
+                "Total": 198,
+                "alignable_percent": 87.87878787878788,
+                "Unique": 160,
+                "Multi": 14,
+                "Uncertain": 104
+            },
+            "GSM4486061": {
+                "Unalignable": 33,
+                "Alignable": 114,
+                "Filtered": 0,
+                "Total": 147,
+                "alignable_percent": 77.55102040816327,
+                "Unique": 55,
+                "Multi": 59,
+                "Uncertain": 80
+            },
+            "GSM4486062": {
+                "Unalignable": 47,
+                "Alignable": 146,
+                "Filtered": 0,
+                "Total": 193,
+                "alignable_percent": 75.64766839378238,
+                "Unique": 82,
+                "Multi": 64,
+                "Uncertain": 107
+            },
+            "GSM4486063": {
+                "Unalignable": 32,
+                "Alignable": 122,
+                "Filtered": 0,
+                "Total": 154,
+                "alignable_percent": 79.22077922077922,
+                "Unique": 59,
+                "Multi": 63,
+                "Uncertain": 95
+            },
+            "GSM4486060": {
+                "Unalignable": 16,
+                "Alignable": 199,
+                "Filtered": 0,
+                "Total": 215,
+                "alignable_percent": 92.55813953488372,
+                "Unique": 161,
+                "Multi": 38,
+                "Uncertain": 117
+            },
+            "GSM4486050": {
+                "Unalignable": 20,
+                "Alignable": 184,
+                "Filtered": 0,
+                "Total": 204,
+                "alignable_percent": 90.19607843137256,
+                "Unique": 150,
+                "Multi": 34,
+                "Uncertain": 114
+            },
+            "GSM4486041": {
+                "Unalignable": 10,
+                "Alignable": 195,
+                "Filtered": 0,
+                "Total": 205,
+                "alignable_percent": 95.1219512195122,
+                "Unique": 166,
+                "Multi": 29,
+                "Uncertain": 109
+            },
+            "GSM4486071": {
+                "Unalignable": 14,
+                "Alignable": 171,
+                "Filtered": 0,
+                "Total": 185,
+                "alignable_percent": 92.43243243243244,
+                "Unique": 76,
+                "Multi": 95,
+                "Uncertain": 136
+            },
+            "GSM4486053": {
+                "Unalignable": 19,
+                "Alignable": 161,
+                "Filtered": 0,
+                "Total": 180,
+                "alignable_percent": 89.44444444444444,
+                "Unique": 108,
+                "Multi": 53,
+                "Uncertain": 100
+            },
+            "GSM4486055": {
+                "Unalignable": 56,
+                "Alignable": 114,
+                "Filtered": 0,
+                "Total": 170,
+                "alignable_percent": 67.05882352941175,
+                "Unique": 53,
+                "Multi": 61,
+                "Uncertain": 81
+            },
+            "GSM4486034": {
+                "Unalignable": 14,
+                "Alignable": 210,
+                "Filtered": 0,
+                "Total": 224,
+                "alignable_percent": 93.75,
+                "Unique": 181,
+                "Multi": 29,
+                "Uncertain": 115
+            },
+            "GSM4486033": {
+                "Unalignable": 19,
+                "Alignable": 195,
+                "Filtered": 0,
+                "Total": 214,
+                "alignable_percent": 91.1214953271028,
+                "Unique": 159,
+                "Multi": 36,
+                "Uncertain": 113
+            },
+            "GSM4486039": {
+                "Unalignable": 36,
+                "Alignable": 193,
+                "Filtered": 0,
+                "Total": 229,
+                "alignable_percent": 84.27947598253274,
+                "Unique": 177,
+                "Multi": 16,
+                "Uncertain": 101
+            },
+            "GSM4486038": {
+                "Unalignable": 55,
+                "Alignable": 143,
+                "Filtered": 0,
+                "Total": 198,
+                "alignable_percent": 72.22222222222221,
+                "Unique": 98,
+                "Multi": 45,
+                "Uncertain": 94
+            },
+            "GSM4486045": {
+                "Unalignable": 34,
+                "Alignable": 187,
+                "Filtered": 0,
+                "Total": 221,
+                "alignable_percent": 84.61538461538461,
+                "Unique": 139,
+                "Multi": 48,
+                "Uncertain": 116
+            },
+            "GSM4486031": {
+                "Unalignable": 24,
+                "Alignable": 173,
+                "Filtered": 0,
+                "Total": 197,
+                "alignable_percent": 87.81725888324873,
+                "Unique": 147,
+                "Multi": 26,
+                "Uncertain": 92
+            },
+            "GSM4486042": {
+                "Unalignable": 21,
+                "Alignable": 202,
+                "Filtered": 0,
+                "Total": 223,
+                "alignable_percent": 90.5829596412556,
+                "Unique": 169,
+                "Multi": 33,
+                "Uncertain": 120
+            },
+            "GSM4486032": {
+                "Unalignable": 30,
+                "Alignable": 173,
+                "Filtered": 0,
+                "Total": 203,
+                "alignable_percent": 85.22167487684729,
+                "Unique": 129,
+                "Multi": 44,
+                "Uncertain": 113
+            },
+            "GSM4486037": {
+                "Unalignable": 32,
+                "Alignable": 144,
+                "Filtered": 0,
+                "Total": 176,
+                "alignable_percent": 81.81818181818183,
+                "Unique": 91,
+                "Multi": 53,
+                "Uncertain": 88
+            },
+            "GSM4486036": {
+                "Unalignable": 19,
+                "Alignable": 119,
+                "Filtered": 0,
+                "Total": 138,
+                "alignable_percent": 86.23188405797102,
+                "Unique": 50,
+                "Multi": 69,
+                "Uncertain": 95
+            },
+            "GSM4486035": {
+                "Unalignable": 24,
+                "Alignable": 132,
+                "Filtered": 0,
+                "Total": 156,
+                "alignable_percent": 84.61538461538461,
+                "Unique": 51,
+                "Multi": 81,
+                "Uncertain": 106
+            }
+        },
+        "multiqc_general_stats": {
+            "GSM4486057": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 88.99521531100478
+            },
+            "GSM4486064": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 71.95767195767195
+            },
+            "GSM4486049": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 84.95575221238938
+            },
+            "GSM4486069": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 89.10891089108911
+            },
+            "GSM4486046": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 67.98029556650246
+            },
+            "GSM4486043": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 92.6086956521739
+            },
+            "GSM4486073": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 85.88957055214725
+            },
+            "GSM4486070": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 90.55555555555556
+            },
+            "GSM4486065": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 90.8675799086758
+            },
+            "GSM4486059": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 88.29268292682927
+            },
+            "GSM4486048": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 90.625
+            },
+            "GSM4486068": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 85.99033816425121
+            },
+            "GSM4486051": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 91.63179916317992
+            },
+            "GSM4486067": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 91.23711340206185
+            },
+            "GSM4486052": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 87.6470588235294
+            },
+            "GSM4486047": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 91.74757281553399
+            },
+            "GSM4486044": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 96.24413145539906
+            },
+            "GSM4486066": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 89.17748917748918
+            },
+            "GSM4486058": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 92.20779220779221
+            },
+            "GSM4486056": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 79.6116504854369
+            },
+            "GSM4486072": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 80.90452261306532
+            },
+            "GSM4486054": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 68.10810810810811
+            },
+            "GSM4486074": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 73.74301675977654
+            },
+            "GSM4486040": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 87.87878787878788
+            },
+            "GSM4486061": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 77.55102040816327
+            },
+            "GSM4486062": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 75.64766839378238
+            },
+            "GSM4486063": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 79.22077922077922
+            },
+            "GSM4486060": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 92.55813953488372
+            },
+            "GSM4486050": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 90.19607843137256
+            },
+            "GSM4486041": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 95.1219512195122
+            },
+            "GSM4486071": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 92.43243243243244
+            },
+            "GSM4486053": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 89.44444444444444
+            },
+            "GSM4486055": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 67.05882352941175
+            },
+            "GSM4486034": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 93.75
+            },
+            "GSM4486033": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 91.1214953271028
+            },
+            "GSM4486039": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 84.27947598253274
+            },
+            "GSM4486038": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 72.22222222222221
+            },
+            "GSM4486045": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 84.61538461538461
+            },
+            "GSM4486031": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 87.81725888324873
+            },
+            "GSM4486042": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 90.5829596412556
+            },
+            "GSM4486032": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 85.22167487684729
+            },
+            "GSM4486037": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 81.81818181818183
+            },
+            "GSM4486036": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 86.23188405797102
+            },
+            "GSM4486035": {
+                "Rsem_mqc-generalstats-rsem-alignable_percent": 84.61538461538461
+            }
+        }
+    },
+    "config_analysis_dir_abs": [
+        "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/35/eb476acade148800ad1b0820bb2a1d/mqc_in"
+    ],
+    "config_analysis_dir": [
+        "mqc_in"
+    ],
+    "config_creation_date": "2023-01-24, 02:54",
+    "config_git_hash": null,
+    "config_intro_text": null,
+    "config_report_comment": null,
+    "config_report_header_info": null,
+    "config_script_path": "/usr/local/lib/python3.10/site-packages/multiqc/utils",
+    "config_short_version": "1.12",
+    "config_subtitle": null,
+    "config_title": null,
+    "config_version": "1.12"
+}

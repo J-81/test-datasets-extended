@@ -1,0 +1,224 @@
+STAR version=2.7.10a
+STAR compilation time,server,dir=2022-01-14T18:50:00-05:00 :/home/dobin/data/STAR/STARcode/STAR.master/source
+STAR git: On branch master ; commit ae26add7ea1724f3281ec8abedb71bcff6a4ae73 ; diff files: CHANGES.md README.md RELEASEnotes.md doc/STARmanual.pdf extras/doc-latex/STARmanual.tex extras/doc-latex/convertParDefToLatexTable.awk extras/doc-latex/parametersDefault.tex extras/docker/Dockerfile source/VERSION 
+##### Command Line:
+STAR --twopassMode Basic --limitBAMsortRAM 4294967296 --outFilterType BySJout --outSAMunmapped Within --genomeDir Arabidopsis_thaliana.TAIR10.dna.toplevel_RL-50 --outSAMattributes NH HI AS NM MD MC --outFilterMismatchNoverReadLmax 0.04 --outFilterMismatchNmax 999 --outFilterMultimapNmax 20 --alignIntronMin 20 --alignSJoverhangMin 8 --alignMatesGapMax 1000000 --alignIntronMax 1000000 --alignSJDBoverhangMin 1 --sjdbScore 1 --outSAMtype BAM SortedByCoordinate --outSAMheaderHD @HD VN:1.4 SO:coordinate --runThreadN 2 --readFilesCommand zcat --quantMode TranscriptomeSAM GeneCounts --outFileNamePrefix GSM4486055/GSM4486055_ --readFilesIn GSM4486055_trimmed.fastq.gz
+##### Initial USER parameters from Command Line:
+outFileNamePrefix                 GSM4486055/GSM4486055_
+###### All USER parameters from Command Line:
+twopassMode                   Basic     ~RE-DEFINED
+limitBAMsortRAM               4294967296     ~RE-DEFINED
+outFilterType                 BySJout     ~RE-DEFINED
+outSAMunmapped                Within        ~RE-DEFINED
+genomeDir                     Arabidopsis_thaliana.TAIR10.dna.toplevel_RL-50     ~RE-DEFINED
+outSAMattributes              NH   HI   AS   NM   MD   MC        ~RE-DEFINED
+outFilterMismatchNoverReadLmax0.04     ~RE-DEFINED
+outFilterMismatchNmax         999     ~RE-DEFINED
+outFilterMultimapNmax         20     ~RE-DEFINED
+alignIntronMin                20     ~RE-DEFINED
+alignSJoverhangMin            8     ~RE-DEFINED
+alignMatesGapMax              1000000     ~RE-DEFINED
+alignIntronMax                1000000     ~RE-DEFINED
+alignSJDBoverhangMin          1     ~RE-DEFINED
+sjdbScore                     1     ~RE-DEFINED
+outSAMtype                    BAM   SortedByCoordinate        ~RE-DEFINED
+outSAMheaderHD                @HD   VN:1.4   SO:coordinate        ~RE-DEFINED
+runThreadN                    2     ~RE-DEFINED
+readFilesCommand              zcat        ~RE-DEFINED
+quantMode                     TranscriptomeSAM   GeneCounts        ~RE-DEFINED
+outFileNamePrefix             GSM4486055/GSM4486055_     ~RE-DEFINED
+readFilesIn                   GSM4486055_trimmed.fastq.gz        ~RE-DEFINED
+##### Finished reading parameters from all sources
+
+##### Final user re-defined parameters-----------------:
+runThreadN                        2
+genomeDir                         Arabidopsis_thaliana.TAIR10.dna.toplevel_RL-50
+readFilesIn                       GSM4486055_trimmed.fastq.gz   
+readFilesCommand                  zcat   
+limitBAMsortRAM                   4294967296
+outFileNamePrefix                 GSM4486055/GSM4486055_
+outSAMtype                        BAM   SortedByCoordinate   
+outSAMattributes                  NH   HI   AS   NM   MD   MC   
+outSAMunmapped                    Within   
+outSAMheaderHD                    @HD   VN:1.4   SO:coordinate   
+outFilterType                     BySJout
+outFilterMultimapNmax             20
+outFilterMismatchNmax             999
+outFilterMismatchNoverReadLmax    0.04
+alignIntronMin                    20
+alignIntronMax                    1000000
+alignMatesGapMax                  1000000
+alignSJoverhangMin                8
+alignSJDBoverhangMin              1
+sjdbScore                         1
+quantMode                         TranscriptomeSAM   GeneCounts   
+twopassMode                       Basic
+
+-------------------------------
+##### Final effective command line:
+STAR   --runThreadN 2   --genomeDir Arabidopsis_thaliana.TAIR10.dna.toplevel_RL-50   --readFilesIn GSM4486055_trimmed.fastq.gz      --readFilesCommand zcat      --limitBAMsortRAM 4294967296   --outFileNamePrefix GSM4486055/GSM4486055_   --outSAMtype BAM   SortedByCoordinate      --outSAMattributes NH   HI   AS   NM   MD   MC      --outSAMunmapped Within      --outSAMheaderHD @HD   VN:1.4   SO:coordinate      --outFilterType BySJout   --outFilterMultimapNmax 20   --outFilterMismatchNmax 999   --outFilterMismatchNoverReadLmax 0.04   --alignIntronMin 20   --alignIntronMax 1000000   --alignMatesGapMax 1000000   --alignSJoverhangMin 8   --alignSJDBoverhangMin 1   --sjdbScore 1   --quantMode TranscriptomeSAM   GeneCounts      --twopassMode Basic
+----------------------------------------
+
+Number of fastq files for each mate = 1
+
+   Input read files for mate 1 :
+-rw-r--r--    1 gitpod   gitpod       11310 Jan 24 02:22 GSM4486055_trimmed.fastq.gz
+
+   readsCommandsFile:
+exec > "GSM4486055/GSM4486055__STARtmp/tmp.fifo.read1"
+echo FILE 0
+zcat      "GSM4486055_trimmed.fastq.gz"
+
+ParametersSolo: --soloCellFilterType CellRanger2.2 filtering parameters:  3000 0.99 10
+Finished loading and checking parameters
+Reading genome generation parameters:
+### STAR   --runMode genomeGenerate      --runThreadN 2   --genomeDir Arabidopsis_thaliana.TAIR10.dna.toplevel_RL-50   --genomeFastaFiles Arabidopsis_thaliana.TAIR10.dna.toplevel.fa      --genomeSAindexNbases 12   --limitGenomeGenerateRAM 2147483648   --sjdbGTFfile Arabidopsis_thaliana.TAIR10.54.gtf   --sjdbOverhang 49
+### GstrandBit=32
+versionGenome                 2.7.4a     ~RE-DEFINED
+genomeType                    Full     ~RE-DEFINED
+genomeFastaFiles              Arabidopsis_thaliana.TAIR10.dna.toplevel.fa        ~RE-DEFINED
+genomeSAindexNbases           12     ~RE-DEFINED
+genomeChrBinNbits             18     ~RE-DEFINED
+genomeSAsparseD               1     ~RE-DEFINED
+genomeTransformType           None     ~RE-DEFINED
+genomeTransformVCF            -     ~RE-DEFINED
+sjdbOverhang                  49     ~RE-DEFINED
+sjdbFileChrStartEnd           -        ~RE-DEFINED
+sjdbGTFfile                   Arabidopsis_thaliana.TAIR10.54.gtf     ~RE-DEFINED
+sjdbGTFchrPrefix              -     ~RE-DEFINED
+sjdbGTFfeatureExon            exon     ~RE-DEFINED
+sjdbGTFtagExonParentTranscripttranscript_id     ~RE-DEFINED
+sjdbGTFtagExonParentGene      gene_id     ~RE-DEFINED
+sjdbInsertSave                Basic     ~RE-DEFINED
+genomeFileSizes               133704631   1092855996        ~RE-DEFINED
+Genome version is compatible with current STAR
+Number of real (reference) chromosomes= 7
+1	1	30427671	0
+2	2	19698289	30670848
+3	3	23459830	50593792
+4	4	18585056	74186752
+5	5	26975502	92798976
+6	Mt	366924	119799808
+7	Pt	154478	120324096
+--sjdbOverhang = 49 taken from the generated genome
+Started loading the genome: Tue Jan 24 02:30:41 2023
+
+Genome: size given as a parameter = 133704631
+SA: size given as a parameter = 1092855996
+SAindex: size given as a parameter = 1
+Read from SAindex: pGe.gSAindexNbases=12  nSAi=22369620
+nGenome=133704631;  nSAbyte=1092855996
+GstrandBit=32   SA number of indices=264934786
+Shared memory is not used for genomes. Allocated a private copy of the genome.
+Genome file size: 133704631 bytes; state: good=1 eof=0 fail=0 bad=0
+Loading Genome ... done! state: good=1 eof=0 fail=0 bad=0; loaded 133704631 bytes
+SA file size: 1092855996 bytes; state: good=1 eof=0 fail=0 bad=0
+Loading SA ... done! state: good=1 eof=0 fail=0 bad=0; loaded 1092855996 bytes
+Loading SAindex ... done: 97867203 bytes
+Finished loading the genome: Tue Jan 24 02:30:59 2023
+
+Processing splice junctions database sjdbN=132509,   pGe.sjdbOverhang=49 
+To accommodate alignIntronMax=1000000 redefined winBinNbits=18
+To accommodate alignIntronMax=1000000 and alignMatesGapMax=1000000, redefined winFlankNbins=4 and winAnchorDistNbins=8
+Opening the file: GSM4486055/GSM4486055__STARtmp//FilterBySJoutFiles.mate1.thread0 ... ok
+Opening the file: GSM4486055/GSM4486055__STARtmp//FilterBySJoutFiles.mate1.thread1 ... ok
+Created thread # 1
+Starting to map file # 0
+mate 1:   GSM4486055_trimmed.fastq.gz
+Thread #1 end of input stream, nextChar=-1
+Completed: thread #0
+Completed: thread #1
+Joined thread # 1
+Jan 24 02:31:07   Loaded database junctions from the generated genome Arabidopsis_thaliana.TAIR10.dna.toplevel_RL-50//sjdbList.out.tab: 132509 total junctions
+
+Jan 24 02:31:07   Loaded database junctions from the 1st pass file: GSM4486055/GSM4486055__STARpass1//SJ.out.tab: 132524 total junctions
+
+WARNING: long repeat for junction # 52109 : 2 17206886 17207050; left shift = 17; right shift = 255
+Jan 24 02:31:09   Finished preparing junctions
+Jan 24 02:31:09 ..... inserting junctions into the genome indices
+Jan 24 02:31:16   Finished SA search: number of new junctions=1, old junctions=132509
+Jan 24 02:31:16   Finished sorting SA indicesL nInd=196
+Genome size with junctions=133704730  120586240   13118490
+GstrandBit1=32   GstrandBit=32
+Jan 24 02:32:41   Finished inserting junction indices
+Jan 24 02:32:45   Finished SAi
+Jan 24 02:32:46 ..... finished inserting junctions into genome
+
+   Input read files for mate 1 :
+-rw-r--r--    1 gitpod   gitpod       11310 Jan 24 02:22 GSM4486055_trimmed.fastq.gz
+
+   readsCommandsFile:
+exec > "GSM4486055/GSM4486055__STARtmp/tmp.fifo.read1"
+echo FILE 0
+zcat      "GSM4486055_trimmed.fastq.gz"
+
+Loaded transcript database, nTr=54013
+Loaded exon database, nEx=313952
+Opening the file: GSM4486055/GSM4486055__STARtmp//FilterBySJoutFiles.mate1.thread0 ... ok
+Opening the file: GSM4486055/GSM4486055__STARtmp//FilterBySJoutFiles.mate1.thread1 ... ok
+Created thread # 1
+Starting to map file # 0
+mate 1:   GSM4486055_trimmed.fastq.gz
+Thread #0 end of input stream, nextChar=-1
+Completed: thread #1
+Completed: thread #0
+Joined thread # 1
+Completed stage 1 mapping of outFilterBySJout mapping
+Detected 0 novel junctions that passed filtering, will proceed to filter reads that contained unannotated junctions
+Created thread # 1
+Completed: thread #1
+BAM sorting: 401 mapped reads
+BAM sorting bins genomic start loci:
+1	0	12012255
+2	1	4024
+3	1	4400
+4	1	4631
+5	1	4698
+6	1	4831
+7	1	5297
+8	1	6372
+9	1	6730
+10	1	7009
+11	1	7282
+12	1	7798
+13	1	8332
+14	1	8694
+15	1	8996
+16	1	9271
+17	1	10848069
+18	2	564150
+19	2	5706539
+20	2	14192967
+21	2	14198215
+22	2	14198508
+23	2	14198634
+24	2	14198739
+25	2	14199173
+26	2	14199398
+27	2	14200451
+28	2	14200705
+29	2	14201022
+30	2	14201253
+31	2	14201552
+32	2	14202052
+33	2	14202303
+34	2	14202662
+35	2	14202934
+36	2	14203231
+37	2	14203376
+38	3	10780015
+39	3	15985380
+40	4	3258574
+41	4	19236708
+42	4	24631653
+43	5	364993
+44	6	104850
+45	6	106111
+46	6	106388
+47	6	131818
+48	6	132459
+Completed: thread #0
+Joined thread # 1
+Jan 24 02:33:03 ..... started sorting BAM
+Max memory needed for sorting = 3192
+ALL DONE!

@@ -1,0 +1,3287 @@
+{
+    "report_data_sources": {
+        "Cutadapt": {
+            "all_sections": {
+                "GSM4486074_raw": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/5d/f9407e107e95b8bf2d5d106c7994ef/mqc_in/GSM4486074_raw.fastq.gz_trimming_report.txt",
+                "GSM4486073_raw": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/5d/f9407e107e95b8bf2d5d106c7994ef/mqc_in/GSM4486073_raw.fastq.gz_trimming_report.txt",
+                "GSM4486072_raw": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/5d/f9407e107e95b8bf2d5d106c7994ef/mqc_in/GSM4486072_raw.fastq.gz_trimming_report.txt",
+                "GSM4486071_raw": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/5d/f9407e107e95b8bf2d5d106c7994ef/mqc_in/GSM4486071_raw.fastq.gz_trimming_report.txt",
+                "GSM4486070_raw": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/5d/f9407e107e95b8bf2d5d106c7994ef/mqc_in/GSM4486070_raw.fastq.gz_trimming_report.txt",
+                "GSM4486069_raw": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/5d/f9407e107e95b8bf2d5d106c7994ef/mqc_in/GSM4486069_raw.fastq.gz_trimming_report.txt",
+                "GSM4486068_raw": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/5d/f9407e107e95b8bf2d5d106c7994ef/mqc_in/GSM4486068_raw.fastq.gz_trimming_report.txt",
+                "GSM4486067_raw": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/5d/f9407e107e95b8bf2d5d106c7994ef/mqc_in/GSM4486067_raw.fastq.gz_trimming_report.txt",
+                "GSM4486066_raw": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/5d/f9407e107e95b8bf2d5d106c7994ef/mqc_in/GSM4486066_raw.fastq.gz_trimming_report.txt",
+                "GSM4486065_raw": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/5d/f9407e107e95b8bf2d5d106c7994ef/mqc_in/GSM4486065_raw.fastq.gz_trimming_report.txt",
+                "GSM4486064_raw": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/5d/f9407e107e95b8bf2d5d106c7994ef/mqc_in/GSM4486064_raw.fastq.gz_trimming_report.txt",
+                "GSM4486063_raw": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/5d/f9407e107e95b8bf2d5d106c7994ef/mqc_in/GSM4486063_raw.fastq.gz_trimming_report.txt",
+                "GSM4486062_raw": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/5d/f9407e107e95b8bf2d5d106c7994ef/mqc_in/GSM4486062_raw.fastq.gz_trimming_report.txt",
+                "GSM4486061_raw": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/5d/f9407e107e95b8bf2d5d106c7994ef/mqc_in/GSM4486061_raw.fastq.gz_trimming_report.txt",
+                "GSM4486060_raw": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/5d/f9407e107e95b8bf2d5d106c7994ef/mqc_in/GSM4486060_raw.fastq.gz_trimming_report.txt",
+                "GSM4486058_raw": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/5d/f9407e107e95b8bf2d5d106c7994ef/mqc_in/GSM4486058_raw.fastq.gz_trimming_report.txt",
+                "GSM4486059_raw": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/5d/f9407e107e95b8bf2d5d106c7994ef/mqc_in/GSM4486059_raw.fastq.gz_trimming_report.txt",
+                "GSM4486057_raw": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/5d/f9407e107e95b8bf2d5d106c7994ef/mqc_in/GSM4486057_raw.fastq.gz_trimming_report.txt",
+                "GSM4486056_raw": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/5d/f9407e107e95b8bf2d5d106c7994ef/mqc_in/GSM4486056_raw.fastq.gz_trimming_report.txt",
+                "GSM4486055_raw": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/5d/f9407e107e95b8bf2d5d106c7994ef/mqc_in/GSM4486055_raw.fastq.gz_trimming_report.txt",
+                "GSM4486054_raw": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/5d/f9407e107e95b8bf2d5d106c7994ef/mqc_in/GSM4486054_raw.fastq.gz_trimming_report.txt",
+                "GSM4486053_raw": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/5d/f9407e107e95b8bf2d5d106c7994ef/mqc_in/GSM4486053_raw.fastq.gz_trimming_report.txt",
+                "GSM4486052_raw": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/5d/f9407e107e95b8bf2d5d106c7994ef/mqc_in/GSM4486052_raw.fastq.gz_trimming_report.txt",
+                "GSM4486051_raw": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/5d/f9407e107e95b8bf2d5d106c7994ef/mqc_in/GSM4486051_raw.fastq.gz_trimming_report.txt",
+                "GSM4486050_raw": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/5d/f9407e107e95b8bf2d5d106c7994ef/mqc_in/GSM4486050_raw.fastq.gz_trimming_report.txt",
+                "GSM4486049_raw": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/5d/f9407e107e95b8bf2d5d106c7994ef/mqc_in/GSM4486049_raw.fastq.gz_trimming_report.txt",
+                "GSM4486048_raw": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/5d/f9407e107e95b8bf2d5d106c7994ef/mqc_in/GSM4486048_raw.fastq.gz_trimming_report.txt",
+                "GSM4486047_raw": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/5d/f9407e107e95b8bf2d5d106c7994ef/mqc_in/GSM4486047_raw.fastq.gz_trimming_report.txt",
+                "GSM4486046_raw": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/5d/f9407e107e95b8bf2d5d106c7994ef/mqc_in/GSM4486046_raw.fastq.gz_trimming_report.txt",
+                "GSM4486045_raw": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/5d/f9407e107e95b8bf2d5d106c7994ef/mqc_in/GSM4486045_raw.fastq.gz_trimming_report.txt",
+                "GSM4486044_raw": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/5d/f9407e107e95b8bf2d5d106c7994ef/mqc_in/GSM4486044_raw.fastq.gz_trimming_report.txt",
+                "GSM4486043_raw": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/5d/f9407e107e95b8bf2d5d106c7994ef/mqc_in/GSM4486043_raw.fastq.gz_trimming_report.txt",
+                "GSM4486042_raw": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/5d/f9407e107e95b8bf2d5d106c7994ef/mqc_in/GSM4486042_raw.fastq.gz_trimming_report.txt",
+                "GSM4486041_raw": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/5d/f9407e107e95b8bf2d5d106c7994ef/mqc_in/GSM4486041_raw.fastq.gz_trimming_report.txt",
+                "GSM4486040_raw": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/5d/f9407e107e95b8bf2d5d106c7994ef/mqc_in/GSM4486040_raw.fastq.gz_trimming_report.txt",
+                "GSM4486039_raw": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/5d/f9407e107e95b8bf2d5d106c7994ef/mqc_in/GSM4486039_raw.fastq.gz_trimming_report.txt",
+                "GSM4486038_raw": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/5d/f9407e107e95b8bf2d5d106c7994ef/mqc_in/GSM4486038_raw.fastq.gz_trimming_report.txt",
+                "GSM4486037_raw": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/5d/f9407e107e95b8bf2d5d106c7994ef/mqc_in/GSM4486037_raw.fastq.gz_trimming_report.txt",
+                "GSM4486036_raw": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/5d/f9407e107e95b8bf2d5d106c7994ef/mqc_in/GSM4486036_raw.fastq.gz_trimming_report.txt",
+                "GSM4486035_raw": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/5d/f9407e107e95b8bf2d5d106c7994ef/mqc_in/GSM4486035_raw.fastq.gz_trimming_report.txt",
+                "GSM4486034_raw": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/5d/f9407e107e95b8bf2d5d106c7994ef/mqc_in/GSM4486034_raw.fastq.gz_trimming_report.txt",
+                "GSM4486033_raw": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/5d/f9407e107e95b8bf2d5d106c7994ef/mqc_in/GSM4486033_raw.fastq.gz_trimming_report.txt",
+                "GSM4486032_raw": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/5d/f9407e107e95b8bf2d5d106c7994ef/mqc_in/GSM4486032_raw.fastq.gz_trimming_report.txt",
+                "GSM4486031_raw": "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/5d/f9407e107e95b8bf2d5d106c7994ef/mqc_in/GSM4486031_raw.fastq.gz_trimming_report.txt"
+            }
+        }
+    },
+    "report_general_stats_data": [
+        {
+            "GSM4486074_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 86,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 29,
+                "bp_written": 14807,
+                "percent_trimmed": 1.2866666666666666
+            },
+            "GSM4486073_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 104,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 213,
+                "bp_written": 14652,
+                "percent_trimmed": 2.32
+            },
+            "GSM4486072_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 113,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 39,
+                "bp_written": 14754,
+                "percent_trimmed": 1.6400000000000001
+            },
+            "GSM4486071_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 73,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 31,
+                "bp_written": 14729,
+                "percent_trimmed": 1.8066666666666669
+            },
+            "GSM4486070_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 92,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 30,
+                "bp_written": 14698,
+                "percent_trimmed": 2.013333333333333
+            },
+            "GSM4486069_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 122,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 171,
+                "bp_written": 14668,
+                "percent_trimmed": 2.2133333333333334
+            },
+            "GSM4486068_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 100,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 268,
+                "bp_written": 14597,
+                "percent_trimmed": 2.6866666666666665
+            },
+            "GSM4486067_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 100,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 4,
+                "bp_written": 14857,
+                "percent_trimmed": 0.9533333333333333
+            },
+            "GSM4486066_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 97,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 1,
+                "bp_written": 14629,
+                "percent_trimmed": 2.473333333333333
+            },
+            "GSM4486065_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 95,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 5,
+                "bp_written": 14821,
+                "percent_trimmed": 1.1933333333333334
+            },
+            "GSM4486064_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 86,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 49,
+                "bp_written": 14736,
+                "percent_trimmed": 1.76
+            },
+            "GSM4486063_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 110,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 196,
+                "bp_written": 14650,
+                "percent_trimmed": 2.3333333333333335
+            },
+            "GSM4486062_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 104,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 68,
+                "bp_written": 14659,
+                "percent_trimmed": 2.2733333333333334
+            },
+            "GSM4486061_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 81,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 217,
+                "bp_written": 14672,
+                "percent_trimmed": 2.1866666666666665
+            },
+            "GSM4486060_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 104,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 26,
+                "bp_written": 14844,
+                "percent_trimmed": 1.04
+            },
+            "GSM4486058_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 96,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 7,
+                "bp_written": 14826,
+                "percent_trimmed": 1.16
+            },
+            "GSM4486059_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 87,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 204,
+                "bp_written": 14673,
+                "percent_trimmed": 2.18
+            },
+            "GSM4486057_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 113,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 197,
+                "bp_written": 14648,
+                "percent_trimmed": 2.3466666666666667
+            },
+            "GSM4486056_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 101,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 30,
+                "bp_written": 14789,
+                "percent_trimmed": 1.4066666666666667
+            },
+            "GSM4486055_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 88,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 74,
+                "bp_written": 14632,
+                "percent_trimmed": 2.4533333333333336
+            },
+            "GSM4486054_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 95,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 21,
+                "bp_written": 14614,
+                "percent_trimmed": 2.5733333333333333
+            },
+            "GSM4486053_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 98,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 33,
+                "bp_written": 14785,
+                "percent_trimmed": 1.4333333333333333
+            },
+            "GSM4486052_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 83,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 44,
+                "bp_written": 14597,
+                "percent_trimmed": 2.6866666666666665
+            },
+            "GSM4486051_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 114,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 36,
+                "bp_written": 14807,
+                "percent_trimmed": 1.2866666666666666
+            },
+            "GSM4486050_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 88,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 1,
+                "bp_written": 14716,
+                "percent_trimmed": 1.8933333333333333
+            },
+            "GSM4486049_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 105,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 5,
+                "bp_written": 14811,
+                "percent_trimmed": 1.26
+            },
+            "GSM4486048_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 128,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 172,
+                "bp_written": 14650,
+                "percent_trimmed": 2.3333333333333335
+            },
+            "GSM4486047_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 78,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 6,
+                "bp_written": 14886,
+                "percent_trimmed": 0.76
+            },
+            "GSM4486046_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 106,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 23,
+                "bp_written": 14736,
+                "percent_trimmed": 1.76
+            },
+            "GSM4486045_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 99,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 37,
+                "bp_written": 14841,
+                "percent_trimmed": 1.06
+            },
+            "GSM4486044_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 114,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 36,
+                "bp_written": 14814,
+                "percent_trimmed": 1.24
+            },
+            "GSM4486043_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 94,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 34,
+                "bp_written": 14796,
+                "percent_trimmed": 1.3599999999999999
+            },
+            "GSM4486042_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 107,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 38,
+                "bp_written": 14756,
+                "percent_trimmed": 1.6266666666666665
+            },
+            "GSM4486041_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 98,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 9,
+                "bp_written": 14812,
+                "percent_trimmed": 1.2533333333333334
+            },
+            "GSM4486040_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 116,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 13,
+                "bp_written": 14779,
+                "percent_trimmed": 1.4733333333333332
+            },
+            "GSM4486039_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 96,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 3,
+                "bp_written": 14866,
+                "percent_trimmed": 0.8933333333333333
+            },
+            "GSM4486038_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 87,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 32,
+                "bp_written": 14846,
+                "percent_trimmed": 1.0266666666666666
+            },
+            "GSM4486037_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 78,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 35,
+                "bp_written": 14870,
+                "percent_trimmed": 0.8666666666666666
+            },
+            "GSM4486036_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 94,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 194,
+                "bp_written": 14690,
+                "percent_trimmed": 2.0666666666666664
+            },
+            "GSM4486035_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 86,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 143,
+                "bp_written": 14735,
+                "percent_trimmed": 1.7666666666666668
+            },
+            "GSM4486034_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 109,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 27,
+                "bp_written": 14731,
+                "percent_trimmed": 1.7933333333333332
+            },
+            "GSM4486033_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 98,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 36,
+                "bp_written": 14730,
+                "percent_trimmed": 1.7999999999999998
+            },
+            "GSM4486032_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 100,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 9,
+                "bp_written": 14462,
+                "percent_trimmed": 3.5866666666666664
+            },
+            "GSM4486031_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 103,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 239,
+                "bp_written": 14612,
+                "percent_trimmed": 2.5866666666666664
+            }
+        }
+    ],
+    "report_general_stats_headers": [
+        {
+            "percent_trimmed": {
+                "title": "% BP Trimmed",
+                "description": "% Total Base Pairs trimmed",
+                "max": 100,
+                "min": 0,
+                "suffix": "%",
+                "scale": "RdYlBu-rev",
+                "namespace": "Cutadapt",
+                "rid": "mqc-generalstats-cutadapt-percent_trimmed",
+                "format": "{:,.1f}",
+                "colour": "55,126,184",
+                "hidden": null,
+                "ceiling": null,
+                "floor": null,
+                "minRange": null,
+                "shared_key": null,
+                "modify": null,
+                "placement": 1000.0,
+                "dmax": 100.0,
+                "dmin": 0.0
+            }
+        }
+    ],
+    "report_multiqc_command": "/usr/local/bin/multiqc --sample-names samples.txt --interactive -o trimming_multiqc_report -n trimming_multiqc mqc_in --config multiqc.config",
+    "report_plot_data": {
+        "cutadapt_filtered_reads_plot": {
+            "plot_type": "bar_graph",
+            "samples": [
+                [
+                    "GSM4486031_raw",
+                    "GSM4486032_raw",
+                    "GSM4486033_raw",
+                    "GSM4486034_raw",
+                    "GSM4486035_raw",
+                    "GSM4486036_raw",
+                    "GSM4486037_raw",
+                    "GSM4486038_raw",
+                    "GSM4486039_raw",
+                    "GSM4486040_raw",
+                    "GSM4486041_raw",
+                    "GSM4486042_raw",
+                    "GSM4486043_raw",
+                    "GSM4486044_raw",
+                    "GSM4486045_raw",
+                    "GSM4486046_raw",
+                    "GSM4486047_raw",
+                    "GSM4486048_raw",
+                    "GSM4486049_raw",
+                    "GSM4486050_raw",
+                    "GSM4486051_raw",
+                    "GSM4486052_raw",
+                    "GSM4486053_raw",
+                    "GSM4486054_raw",
+                    "GSM4486055_raw",
+                    "GSM4486056_raw",
+                    "GSM4486057_raw",
+                    "GSM4486058_raw",
+                    "GSM4486059_raw",
+                    "GSM4486060_raw",
+                    "GSM4486061_raw",
+                    "GSM4486062_raw",
+                    "GSM4486063_raw",
+                    "GSM4486064_raw",
+                    "GSM4486065_raw",
+                    "GSM4486066_raw",
+                    "GSM4486067_raw",
+                    "GSM4486068_raw",
+                    "GSM4486069_raw",
+                    "GSM4486070_raw",
+                    "GSM4486071_raw",
+                    "GSM4486072_raw",
+                    "GSM4486073_raw",
+                    "GSM4486074_raw"
+                ]
+            ],
+            "datasets": [
+                [
+                    {
+                        "name": "Reads passing filters",
+                        "data": [
+                            300.0,
+                            300.0,
+                            300.0,
+                            300.0,
+                            300.0,
+                            300.0,
+                            300.0,
+                            300.0,
+                            300.0,
+                            300.0,
+                            300.0,
+                            300.0,
+                            300.0,
+                            300.0,
+                            300.0,
+                            300.0,
+                            300.0,
+                            300.0,
+                            300.0,
+                            300.0,
+                            300.0,
+                            300.0,
+                            300.0,
+                            300.0,
+                            300.0,
+                            300.0,
+                            300.0,
+                            300.0,
+                            300.0,
+                            300.0,
+                            300.0,
+                            300.0,
+                            300.0,
+                            300.0,
+                            300.0,
+                            300.0,
+                            300.0,
+                            300.0,
+                            300.0,
+                            300.0,
+                            300.0,
+                            300.0,
+                            300.0,
+                            300.0
+                        ]
+                    }
+                ]
+            ],
+            "config": {
+                "id": "cutadapt_filtered_reads_plot",
+                "title": "Cutadapt: Filtered Reads",
+                "ylab": "Counts"
+            }
+        },
+        "cutadapt_trimmed_sequences_plot_3": {
+            "plot_type": "xy_line",
+            "datasets": [
+                [
+                    {
+                        "name": "GSM4486031_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                67
+                            ],
+                            [
+                                2,
+                                29
+                            ],
+                            [
+                                3,
+                                5
+                            ],
+                            [
+                                4,
+                                1
+                            ],
+                            [
+                                5,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486032_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                65
+                            ],
+                            [
+                                2,
+                                18
+                            ],
+                            [
+                                3,
+                                8
+                            ],
+                            [
+                                4,
+                                1
+                            ],
+                            [
+                                50,
+                                8
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486033_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                69
+                            ],
+                            [
+                                2,
+                                17
+                            ],
+                            [
+                                3,
+                                9
+                            ],
+                            [
+                                4,
+                                1
+                            ],
+                            [
+                                50,
+                                2
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486034_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                82
+                            ],
+                            [
+                                2,
+                                16
+                            ],
+                            [
+                                3,
+                                7
+                            ],
+                            [
+                                4,
+                                2
+                            ],
+                            [
+                                49,
+                                1
+                            ],
+                            [
+                                50,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486035_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                55
+                            ],
+                            [
+                                2,
+                                29
+                            ],
+                            [
+                                4,
+                                1
+                            ],
+                            [
+                                5,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486036_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                74
+                            ],
+                            [
+                                2,
+                                18
+                            ],
+                            [
+                                3,
+                                2
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486037_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                64
+                            ],
+                            [
+                                2,
+                                12
+                            ],
+                            [
+                                3,
+                                1
+                            ],
+                            [
+                                4,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486038_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                61
+                            ],
+                            [
+                                2,
+                                21
+                            ],
+                            [
+                                3,
+                                2
+                            ],
+                            [
+                                4,
+                                2
+                            ],
+                            [
+                                5,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486039_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                66
+                            ],
+                            [
+                                2,
+                                25
+                            ],
+                            [
+                                3,
+                                5
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486040_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                84
+                            ],
+                            [
+                                2,
+                                20
+                            ],
+                            [
+                                3,
+                                10
+                            ],
+                            [
+                                4,
+                                1
+                            ],
+                            [
+                                50,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486041_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                72
+                            ],
+                            [
+                                2,
+                                20
+                            ],
+                            [
+                                3,
+                                3
+                            ],
+                            [
+                                4,
+                                2
+                            ],
+                            [
+                                50,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486042_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                83
+                            ],
+                            [
+                                2,
+                                15
+                            ],
+                            [
+                                3,
+                                7
+                            ],
+                            [
+                                22,
+                                1
+                            ],
+                            [
+                                50,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486043_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                72
+                            ],
+                            [
+                                2,
+                                17
+                            ],
+                            [
+                                3,
+                                2
+                            ],
+                            [
+                                4,
+                                2
+                            ],
+                            [
+                                50,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486044_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                86
+                            ],
+                            [
+                                2,
+                                21
+                            ],
+                            [
+                                3,
+                                6
+                            ],
+                            [
+                                4,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486045_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                77
+                            ],
+                            [
+                                2,
+                                21
+                            ],
+                            [
+                                3,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486046_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                74
+                            ],
+                            [
+                                2,
+                                24
+                            ],
+                            [
+                                3,
+                                5
+                            ],
+                            [
+                                4,
+                                1
+                            ],
+                            [
+                                50,
+                                2
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486047_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                54
+                            ],
+                            [
+                                2,
+                                18
+                            ],
+                            [
+                                3,
+                                6
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486048_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                94
+                            ],
+                            [
+                                2,
+                                21
+                            ],
+                            [
+                                3,
+                                10
+                            ],
+                            [
+                                4,
+                                3
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486049_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                79
+                            ],
+                            [
+                                2,
+                                20
+                            ],
+                            [
+                                3,
+                                5
+                            ],
+                            [
+                                50,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486050_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                52
+                            ],
+                            [
+                                2,
+                                21
+                            ],
+                            [
+                                3,
+                                10
+                            ],
+                            [
+                                4,
+                                1
+                            ],
+                            [
+                                5,
+                                1
+                            ],
+                            [
+                                50,
+                                3
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486051_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                82
+                            ],
+                            [
+                                2,
+                                25
+                            ],
+                            [
+                                3,
+                                3
+                            ],
+                            [
+                                4,
+                                4
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486052_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                55
+                            ],
+                            [
+                                2,
+                                17
+                            ],
+                            [
+                                3,
+                                4
+                            ],
+                            [
+                                4,
+                                2
+                            ],
+                            [
+                                50,
+                                5
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486053_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                70
+                            ],
+                            [
+                                2,
+                                19
+                            ],
+                            [
+                                3,
+                                8
+                            ],
+                            [
+                                50,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486054_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                70
+                            ],
+                            [
+                                2,
+                                16
+                            ],
+                            [
+                                3,
+                                3
+                            ],
+                            [
+                                5,
+                                1
+                            ],
+                            [
+                                49,
+                                1
+                            ],
+                            [
+                                50,
+                                4
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486055_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                66
+                            ],
+                            [
+                                2,
+                                17
+                            ],
+                            [
+                                3,
+                                1
+                            ],
+                            [
+                                41,
+                                1
+                            ],
+                            [
+                                50,
+                                3
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486056_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                77
+                            ],
+                            [
+                                2,
+                                16
+                            ],
+                            [
+                                3,
+                                6
+                            ],
+                            [
+                                4,
+                                1
+                            ],
+                            [
+                                50,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486057_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                76
+                            ],
+                            [
+                                2,
+                                32
+                            ],
+                            [
+                                3,
+                                5
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486058_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                77
+                            ],
+                            [
+                                2,
+                                14
+                            ],
+                            [
+                                3,
+                                4
+                            ],
+                            [
+                                50,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486059_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                60
+                            ],
+                            [
+                                2,
+                                20
+                            ],
+                            [
+                                3,
+                                6
+                            ],
+                            [
+                                5,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486060_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                84
+                            ],
+                            [
+                                2,
+                                15
+                            ],
+                            [
+                                3,
+                                4
+                            ],
+                            [
+                                4,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486061_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                58
+                            ],
+                            [
+                                2,
+                                19
+                            ],
+                            [
+                                3,
+                                2
+                            ],
+                            [
+                                4,
+                                1
+                            ],
+                            [
+                                5,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486062_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                80
+                            ],
+                            [
+                                2,
+                                20
+                            ],
+                            [
+                                3,
+                                1
+                            ],
+                            [
+                                50,
+                                3
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486063_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                76
+                            ],
+                            [
+                                2,
+                                25
+                            ],
+                            [
+                                3,
+                                8
+                            ],
+                            [
+                                4,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486064_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                63
+                            ],
+                            [
+                                2,
+                                15
+                            ],
+                            [
+                                3,
+                                3
+                            ],
+                            [
+                                4,
+                                2
+                            ],
+                            [
+                                5,
+                                1
+                            ],
+                            [
+                                50,
+                                2
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486065_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                72
+                            ],
+                            [
+                                2,
+                                18
+                            ],
+                            [
+                                3,
+                                2
+                            ],
+                            [
+                                5,
+                                2
+                            ],
+                            [
+                                50,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486066_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                70
+                            ],
+                            [
+                                2,
+                                17
+                            ],
+                            [
+                                3,
+                                4
+                            ],
+                            [
+                                4,
+                                1
+                            ],
+                            [
+                                50,
+                                5
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486067_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                69
+                            ],
+                            [
+                                2,
+                                26
+                            ],
+                            [
+                                3,
+                                3
+                            ],
+                            [
+                                4,
+                                1
+                            ],
+                            [
+                                5,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486068_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                72
+                            ],
+                            [
+                                2,
+                                22
+                            ],
+                            [
+                                3,
+                                5
+                            ],
+                            [
+                                4,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486069_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                89
+                            ],
+                            [
+                                2,
+                                27
+                            ],
+                            [
+                                3,
+                                6
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486070_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                67
+                            ],
+                            [
+                                2,
+                                17
+                            ],
+                            [
+                                3,
+                                4
+                            ],
+                            [
+                                9,
+                                1
+                            ],
+                            [
+                                50,
+                                3
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486071_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                55
+                            ],
+                            [
+                                2,
+                                12
+                            ],
+                            [
+                                3,
+                                2
+                            ],
+                            [
+                                5,
+                                1
+                            ],
+                            [
+                                50,
+                                3
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486072_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                80
+                            ],
+                            [
+                                2,
+                                23
+                            ],
+                            [
+                                3,
+                                6
+                            ],
+                            [
+                                4,
+                                2
+                            ],
+                            [
+                                5,
+                                1
+                            ],
+                            [
+                                50,
+                                1
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486073_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                79
+                            ],
+                            [
+                                2,
+                                19
+                            ],
+                            [
+                                3,
+                                6
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486074_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                63
+                            ],
+                            [
+                                2,
+                                18
+                            ],
+                            [
+                                3,
+                                2
+                            ],
+                            [
+                                4,
+                                1
+                            ],
+                            [
+                                5,
+                                1
+                            ],
+                            [
+                                50,
+                                1
+                            ]
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "name": "GSM4486031_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                0.8933333333333333
+                            ],
+                            [
+                                2,
+                                1.5425531914893615
+                            ],
+                            [
+                                3,
+                                1.0638297872340425
+                            ],
+                            [
+                                4,
+                                0.8333333333333334
+                            ],
+                            [
+                                5,
+                                3.3333333333333335
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486032_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                0.8666666666666667
+                            ],
+                            [
+                                2,
+                                0.9574468085106382
+                            ],
+                            [
+                                3,
+                                1.702127659574468
+                            ],
+                            [
+                                4,
+                                0.8333333333333334
+                            ],
+                            [
+                                50,
+                                8.0
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486033_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                0.92
+                            ],
+                            [
+                                2,
+                                0.9042553191489361
+                            ],
+                            [
+                                3,
+                                1.9148936170212765
+                            ],
+                            [
+                                4,
+                                0.8333333333333334
+                            ],
+                            [
+                                50,
+                                2.0
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486034_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                1.0933333333333333
+                            ],
+                            [
+                                2,
+                                0.851063829787234
+                            ],
+                            [
+                                3,
+                                1.4893617021276595
+                            ],
+                            [
+                                4,
+                                1.6666666666666667
+                            ],
+                            [
+                                49,
+                                1.0
+                            ],
+                            [
+                                50,
+                                1.0
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486035_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                0.7333333333333333
+                            ],
+                            [
+                                2,
+                                1.5425531914893615
+                            ],
+                            [
+                                4,
+                                0.8333333333333334
+                            ],
+                            [
+                                5,
+                                3.3333333333333335
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486036_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                0.9866666666666667
+                            ],
+                            [
+                                2,
+                                0.9574468085106382
+                            ],
+                            [
+                                3,
+                                0.425531914893617
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486037_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                0.8533333333333334
+                            ],
+                            [
+                                2,
+                                0.6382978723404255
+                            ],
+                            [
+                                3,
+                                0.2127659574468085
+                            ],
+                            [
+                                4,
+                                0.8333333333333334
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486038_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                0.8133333333333334
+                            ],
+                            [
+                                2,
+                                1.1170212765957446
+                            ],
+                            [
+                                3,
+                                0.425531914893617
+                            ],
+                            [
+                                4,
+                                1.6666666666666667
+                            ],
+                            [
+                                5,
+                                3.3333333333333335
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486039_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                0.88
+                            ],
+                            [
+                                2,
+                                1.3297872340425532
+                            ],
+                            [
+                                3,
+                                1.0638297872340425
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486040_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                1.12
+                            ],
+                            [
+                                2,
+                                1.0638297872340425
+                            ],
+                            [
+                                3,
+                                2.127659574468085
+                            ],
+                            [
+                                4,
+                                0.8333333333333334
+                            ],
+                            [
+                                50,
+                                1.0
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486041_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                0.96
+                            ],
+                            [
+                                2,
+                                1.0638297872340425
+                            ],
+                            [
+                                3,
+                                0.6382978723404255
+                            ],
+                            [
+                                4,
+                                1.6666666666666667
+                            ],
+                            [
+                                50,
+                                1.0
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486042_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                1.1066666666666667
+                            ],
+                            [
+                                2,
+                                0.7978723404255319
+                            ],
+                            [
+                                3,
+                                1.4893617021276595
+                            ],
+                            [
+                                22,
+                                1.0
+                            ],
+                            [
+                                50,
+                                1.0
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486043_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                0.96
+                            ],
+                            [
+                                2,
+                                0.9042553191489361
+                            ],
+                            [
+                                3,
+                                0.425531914893617
+                            ],
+                            [
+                                4,
+                                1.6666666666666667
+                            ],
+                            [
+                                50,
+                                1.0
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486044_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                1.1466666666666667
+                            ],
+                            [
+                                2,
+                                1.1170212765957446
+                            ],
+                            [
+                                3,
+                                1.276595744680851
+                            ],
+                            [
+                                4,
+                                0.8333333333333334
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486045_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                1.0266666666666666
+                            ],
+                            [
+                                2,
+                                1.1170212765957446
+                            ],
+                            [
+                                3,
+                                0.2127659574468085
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486046_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                0.9866666666666667
+                            ],
+                            [
+                                2,
+                                1.276595744680851
+                            ],
+                            [
+                                3,
+                                1.0638297872340425
+                            ],
+                            [
+                                4,
+                                0.8333333333333334
+                            ],
+                            [
+                                50,
+                                2.0
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486047_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                0.72
+                            ],
+                            [
+                                2,
+                                0.9574468085106382
+                            ],
+                            [
+                                3,
+                                1.276595744680851
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486048_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                1.2533333333333334
+                            ],
+                            [
+                                2,
+                                1.1170212765957446
+                            ],
+                            [
+                                3,
+                                2.127659574468085
+                            ],
+                            [
+                                4,
+                                2.5
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486049_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                1.0533333333333332
+                            ],
+                            [
+                                2,
+                                1.0638297872340425
+                            ],
+                            [
+                                3,
+                                1.0638297872340425
+                            ],
+                            [
+                                50,
+                                1.0
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486050_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                0.6933333333333334
+                            ],
+                            [
+                                2,
+                                1.1170212765957446
+                            ],
+                            [
+                                3,
+                                2.127659574468085
+                            ],
+                            [
+                                4,
+                                0.8333333333333334
+                            ],
+                            [
+                                5,
+                                3.3333333333333335
+                            ],
+                            [
+                                50,
+                                3.0
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486051_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                1.0933333333333333
+                            ],
+                            [
+                                2,
+                                1.3297872340425532
+                            ],
+                            [
+                                3,
+                                0.6382978723404255
+                            ],
+                            [
+                                4,
+                                3.3333333333333335
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486052_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                0.7333333333333333
+                            ],
+                            [
+                                2,
+                                0.9042553191489361
+                            ],
+                            [
+                                3,
+                                0.851063829787234
+                            ],
+                            [
+                                4,
+                                1.6666666666666667
+                            ],
+                            [
+                                50,
+                                5.0
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486053_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                0.9333333333333333
+                            ],
+                            [
+                                2,
+                                1.0106382978723405
+                            ],
+                            [
+                                3,
+                                1.702127659574468
+                            ],
+                            [
+                                50,
+                                1.0
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486054_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                0.9333333333333333
+                            ],
+                            [
+                                2,
+                                0.851063829787234
+                            ],
+                            [
+                                3,
+                                0.6382978723404255
+                            ],
+                            [
+                                5,
+                                3.3333333333333335
+                            ],
+                            [
+                                49,
+                                1.0
+                            ],
+                            [
+                                50,
+                                4.0
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486055_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                0.88
+                            ],
+                            [
+                                2,
+                                0.9042553191489361
+                            ],
+                            [
+                                3,
+                                0.2127659574468085
+                            ],
+                            [
+                                41,
+                                1.0
+                            ],
+                            [
+                                50,
+                                3.0
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486056_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                1.0266666666666666
+                            ],
+                            [
+                                2,
+                                0.851063829787234
+                            ],
+                            [
+                                3,
+                                1.276595744680851
+                            ],
+                            [
+                                4,
+                                0.8333333333333334
+                            ],
+                            [
+                                50,
+                                1.0
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486057_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                1.0133333333333334
+                            ],
+                            [
+                                2,
+                                1.702127659574468
+                            ],
+                            [
+                                3,
+                                1.0638297872340425
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486058_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                1.0266666666666666
+                            ],
+                            [
+                                2,
+                                0.7446808510638298
+                            ],
+                            [
+                                3,
+                                0.851063829787234
+                            ],
+                            [
+                                50,
+                                1.0
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486059_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                0.8
+                            ],
+                            [
+                                2,
+                                1.0638297872340425
+                            ],
+                            [
+                                3,
+                                1.276595744680851
+                            ],
+                            [
+                                5,
+                                3.3333333333333335
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486060_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                1.12
+                            ],
+                            [
+                                2,
+                                0.7978723404255319
+                            ],
+                            [
+                                3,
+                                0.851063829787234
+                            ],
+                            [
+                                4,
+                                0.8333333333333334
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486061_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                0.7733333333333333
+                            ],
+                            [
+                                2,
+                                1.0106382978723405
+                            ],
+                            [
+                                3,
+                                0.425531914893617
+                            ],
+                            [
+                                4,
+                                0.8333333333333334
+                            ],
+                            [
+                                5,
+                                3.3333333333333335
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486062_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                1.0666666666666667
+                            ],
+                            [
+                                2,
+                                1.0638297872340425
+                            ],
+                            [
+                                3,
+                                0.2127659574468085
+                            ],
+                            [
+                                50,
+                                3.0
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486063_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                1.0133333333333334
+                            ],
+                            [
+                                2,
+                                1.3297872340425532
+                            ],
+                            [
+                                3,
+                                1.702127659574468
+                            ],
+                            [
+                                4,
+                                0.8333333333333334
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486064_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                0.84
+                            ],
+                            [
+                                2,
+                                0.7978723404255319
+                            ],
+                            [
+                                3,
+                                0.6382978723404255
+                            ],
+                            [
+                                4,
+                                1.6666666666666667
+                            ],
+                            [
+                                5,
+                                3.3333333333333335
+                            ],
+                            [
+                                50,
+                                2.0
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486065_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                0.96
+                            ],
+                            [
+                                2,
+                                0.9574468085106382
+                            ],
+                            [
+                                3,
+                                0.425531914893617
+                            ],
+                            [
+                                5,
+                                6.666666666666667
+                            ],
+                            [
+                                50,
+                                1.0
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486066_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                0.9333333333333333
+                            ],
+                            [
+                                2,
+                                0.9042553191489361
+                            ],
+                            [
+                                3,
+                                0.851063829787234
+                            ],
+                            [
+                                4,
+                                0.8333333333333334
+                            ],
+                            [
+                                50,
+                                5.0
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486067_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                0.92
+                            ],
+                            [
+                                2,
+                                1.3829787234042552
+                            ],
+                            [
+                                3,
+                                0.6382978723404255
+                            ],
+                            [
+                                4,
+                                0.8333333333333334
+                            ],
+                            [
+                                5,
+                                3.3333333333333335
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486068_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                0.96
+                            ],
+                            [
+                                2,
+                                1.1702127659574468
+                            ],
+                            [
+                                3,
+                                1.0638297872340425
+                            ],
+                            [
+                                4,
+                                0.8333333333333334
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486069_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                1.1866666666666668
+                            ],
+                            [
+                                2,
+                                1.4361702127659575
+                            ],
+                            [
+                                3,
+                                1.276595744680851
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486070_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                0.8933333333333333
+                            ],
+                            [
+                                2,
+                                0.9042553191489361
+                            ],
+                            [
+                                3,
+                                0.851063829787234
+                            ],
+                            [
+                                9,
+                                1.0
+                            ],
+                            [
+                                50,
+                                3.0
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486071_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                0.7333333333333333
+                            ],
+                            [
+                                2,
+                                0.6382978723404255
+                            ],
+                            [
+                                3,
+                                0.425531914893617
+                            ],
+                            [
+                                5,
+                                3.3333333333333335
+                            ],
+                            [
+                                50,
+                                3.0
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486072_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                1.0666666666666667
+                            ],
+                            [
+                                2,
+                                1.2234042553191489
+                            ],
+                            [
+                                3,
+                                1.276595744680851
+                            ],
+                            [
+                                4,
+                                1.6666666666666667
+                            ],
+                            [
+                                5,
+                                3.3333333333333335
+                            ],
+                            [
+                                50,
+                                1.0
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486073_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                1.0533333333333332
+                            ],
+                            [
+                                2,
+                                1.0106382978723405
+                            ],
+                            [
+                                3,
+                                1.276595744680851
+                            ]
+                        ]
+                    },
+                    {
+                        "name": "GSM4486074_raw - Adapter 1",
+                        "data": [
+                            [
+                                1,
+                                0.84
+                            ],
+                            [
+                                2,
+                                0.9574468085106382
+                            ],
+                            [
+                                3,
+                                0.425531914893617
+                            ],
+                            [
+                                4,
+                                0.8333333333333334
+                            ],
+                            [
+                                5,
+                                3.3333333333333335
+                            ],
+                            [
+                                50,
+                                1.0
+                            ]
+                        ]
+                    }
+                ]
+            ],
+            "config": {
+                "id": "cutadapt_trimmed_sequences_plot_3",
+                "title": "Cutadapt: Lengths of Trimmed Sequences (3' end)",
+                "ylab": "Counts",
+                "xlab": "Length Trimmed (bp)",
+                "xDecimals": false,
+                "ymin": 0,
+                "tt_label": "<b>{point.x} bp trimmed</b>: {point.y:.0f}",
+                "data_labels": [
+                    {
+                        "name": "Counts",
+                        "ylab": "Count"
+                    },
+                    {
+                        "name": "Obs/Exp",
+                        "ylab": "Observed / Expected"
+                    }
+                ]
+            }
+        }
+    },
+    "report_saved_raw_data": {
+        "multiqc_cutadapt": {
+            "GSM4486074_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 86,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 29,
+                "bp_written": 14807,
+                "percent_trimmed": 1.2866666666666666
+            },
+            "GSM4486073_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 104,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 213,
+                "bp_written": 14652,
+                "percent_trimmed": 2.32
+            },
+            "GSM4486072_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 113,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 39,
+                "bp_written": 14754,
+                "percent_trimmed": 1.6400000000000001
+            },
+            "GSM4486071_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 73,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 31,
+                "bp_written": 14729,
+                "percent_trimmed": 1.8066666666666669
+            },
+            "GSM4486070_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 92,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 30,
+                "bp_written": 14698,
+                "percent_trimmed": 2.013333333333333
+            },
+            "GSM4486069_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 122,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 171,
+                "bp_written": 14668,
+                "percent_trimmed": 2.2133333333333334
+            },
+            "GSM4486068_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 100,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 268,
+                "bp_written": 14597,
+                "percent_trimmed": 2.6866666666666665
+            },
+            "GSM4486067_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 100,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 4,
+                "bp_written": 14857,
+                "percent_trimmed": 0.9533333333333333
+            },
+            "GSM4486066_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 97,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 1,
+                "bp_written": 14629,
+                "percent_trimmed": 2.473333333333333
+            },
+            "GSM4486065_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 95,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 5,
+                "bp_written": 14821,
+                "percent_trimmed": 1.1933333333333334
+            },
+            "GSM4486064_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 86,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 49,
+                "bp_written": 14736,
+                "percent_trimmed": 1.76
+            },
+            "GSM4486063_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 110,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 196,
+                "bp_written": 14650,
+                "percent_trimmed": 2.3333333333333335
+            },
+            "GSM4486062_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 104,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 68,
+                "bp_written": 14659,
+                "percent_trimmed": 2.2733333333333334
+            },
+            "GSM4486061_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 81,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 217,
+                "bp_written": 14672,
+                "percent_trimmed": 2.1866666666666665
+            },
+            "GSM4486060_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 104,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 26,
+                "bp_written": 14844,
+                "percent_trimmed": 1.04
+            },
+            "GSM4486058_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 96,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 7,
+                "bp_written": 14826,
+                "percent_trimmed": 1.16
+            },
+            "GSM4486059_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 87,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 204,
+                "bp_written": 14673,
+                "percent_trimmed": 2.18
+            },
+            "GSM4486057_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 113,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 197,
+                "bp_written": 14648,
+                "percent_trimmed": 2.3466666666666667
+            },
+            "GSM4486056_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 101,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 30,
+                "bp_written": 14789,
+                "percent_trimmed": 1.4066666666666667
+            },
+            "GSM4486055_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 88,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 74,
+                "bp_written": 14632,
+                "percent_trimmed": 2.4533333333333336
+            },
+            "GSM4486054_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 95,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 21,
+                "bp_written": 14614,
+                "percent_trimmed": 2.5733333333333333
+            },
+            "GSM4486053_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 98,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 33,
+                "bp_written": 14785,
+                "percent_trimmed": 1.4333333333333333
+            },
+            "GSM4486052_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 83,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 44,
+                "bp_written": 14597,
+                "percent_trimmed": 2.6866666666666665
+            },
+            "GSM4486051_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 114,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 36,
+                "bp_written": 14807,
+                "percent_trimmed": 1.2866666666666666
+            },
+            "GSM4486050_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 88,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 1,
+                "bp_written": 14716,
+                "percent_trimmed": 1.8933333333333333
+            },
+            "GSM4486049_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 105,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 5,
+                "bp_written": 14811,
+                "percent_trimmed": 1.26
+            },
+            "GSM4486048_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 128,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 172,
+                "bp_written": 14650,
+                "percent_trimmed": 2.3333333333333335
+            },
+            "GSM4486047_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 78,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 6,
+                "bp_written": 14886,
+                "percent_trimmed": 0.76
+            },
+            "GSM4486046_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 106,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 23,
+                "bp_written": 14736,
+                "percent_trimmed": 1.76
+            },
+            "GSM4486045_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 99,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 37,
+                "bp_written": 14841,
+                "percent_trimmed": 1.06
+            },
+            "GSM4486044_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 114,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 36,
+                "bp_written": 14814,
+                "percent_trimmed": 1.24
+            },
+            "GSM4486043_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 94,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 34,
+                "bp_written": 14796,
+                "percent_trimmed": 1.3599999999999999
+            },
+            "GSM4486042_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 107,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 38,
+                "bp_written": 14756,
+                "percent_trimmed": 1.6266666666666665
+            },
+            "GSM4486041_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 98,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 9,
+                "bp_written": 14812,
+                "percent_trimmed": 1.2533333333333334
+            },
+            "GSM4486040_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 116,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 13,
+                "bp_written": 14779,
+                "percent_trimmed": 1.4733333333333332
+            },
+            "GSM4486039_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 96,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 3,
+                "bp_written": 14866,
+                "percent_trimmed": 0.8933333333333333
+            },
+            "GSM4486038_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 87,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 32,
+                "bp_written": 14846,
+                "percent_trimmed": 1.0266666666666666
+            },
+            "GSM4486037_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 78,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 35,
+                "bp_written": 14870,
+                "percent_trimmed": 0.8666666666666666
+            },
+            "GSM4486036_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 94,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 194,
+                "bp_written": 14690,
+                "percent_trimmed": 2.0666666666666664
+            },
+            "GSM4486035_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 86,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 143,
+                "bp_written": 14735,
+                "percent_trimmed": 1.7666666666666668
+            },
+            "GSM4486034_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 109,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 27,
+                "bp_written": 14731,
+                "percent_trimmed": 1.7933333333333332
+            },
+            "GSM4486033_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 98,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 36,
+                "bp_written": 14730,
+                "percent_trimmed": 1.7999999999999998
+            },
+            "GSM4486032_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 100,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 9,
+                "bp_written": 14462,
+                "percent_trimmed": 3.5866666666666664
+            },
+            "GSM4486031_raw": {
+                "cutadapt_version": "3.7",
+                "r_processed": 300,
+                "r_with_adapters": 103,
+                "r_written": 300,
+                "bp_processed": 15000,
+                "quality_trimmed": 239,
+                "bp_written": 14612,
+                "percent_trimmed": 2.5866666666666664
+            }
+        },
+        "multiqc_general_stats": {
+            "GSM4486074_raw": {
+                "Cutadapt_mqc-generalstats-cutadapt-percent_trimmed": 1.2866666666666666
+            },
+            "GSM4486073_raw": {
+                "Cutadapt_mqc-generalstats-cutadapt-percent_trimmed": 2.32
+            },
+            "GSM4486072_raw": {
+                "Cutadapt_mqc-generalstats-cutadapt-percent_trimmed": 1.6400000000000001
+            },
+            "GSM4486071_raw": {
+                "Cutadapt_mqc-generalstats-cutadapt-percent_trimmed": 1.8066666666666669
+            },
+            "GSM4486070_raw": {
+                "Cutadapt_mqc-generalstats-cutadapt-percent_trimmed": 2.013333333333333
+            },
+            "GSM4486069_raw": {
+                "Cutadapt_mqc-generalstats-cutadapt-percent_trimmed": 2.2133333333333334
+            },
+            "GSM4486068_raw": {
+                "Cutadapt_mqc-generalstats-cutadapt-percent_trimmed": 2.6866666666666665
+            },
+            "GSM4486067_raw": {
+                "Cutadapt_mqc-generalstats-cutadapt-percent_trimmed": 0.9533333333333333
+            },
+            "GSM4486066_raw": {
+                "Cutadapt_mqc-generalstats-cutadapt-percent_trimmed": 2.473333333333333
+            },
+            "GSM4486065_raw": {
+                "Cutadapt_mqc-generalstats-cutadapt-percent_trimmed": 1.1933333333333334
+            },
+            "GSM4486064_raw": {
+                "Cutadapt_mqc-generalstats-cutadapt-percent_trimmed": 1.76
+            },
+            "GSM4486063_raw": {
+                "Cutadapt_mqc-generalstats-cutadapt-percent_trimmed": 2.3333333333333335
+            },
+            "GSM4486062_raw": {
+                "Cutadapt_mqc-generalstats-cutadapt-percent_trimmed": 2.2733333333333334
+            },
+            "GSM4486061_raw": {
+                "Cutadapt_mqc-generalstats-cutadapt-percent_trimmed": 2.1866666666666665
+            },
+            "GSM4486060_raw": {
+                "Cutadapt_mqc-generalstats-cutadapt-percent_trimmed": 1.04
+            },
+            "GSM4486058_raw": {
+                "Cutadapt_mqc-generalstats-cutadapt-percent_trimmed": 1.16
+            },
+            "GSM4486059_raw": {
+                "Cutadapt_mqc-generalstats-cutadapt-percent_trimmed": 2.18
+            },
+            "GSM4486057_raw": {
+                "Cutadapt_mqc-generalstats-cutadapt-percent_trimmed": 2.3466666666666667
+            },
+            "GSM4486056_raw": {
+                "Cutadapt_mqc-generalstats-cutadapt-percent_trimmed": 1.4066666666666667
+            },
+            "GSM4486055_raw": {
+                "Cutadapt_mqc-generalstats-cutadapt-percent_trimmed": 2.4533333333333336
+            },
+            "GSM4486054_raw": {
+                "Cutadapt_mqc-generalstats-cutadapt-percent_trimmed": 2.5733333333333333
+            },
+            "GSM4486053_raw": {
+                "Cutadapt_mqc-generalstats-cutadapt-percent_trimmed": 1.4333333333333333
+            },
+            "GSM4486052_raw": {
+                "Cutadapt_mqc-generalstats-cutadapt-percent_trimmed": 2.6866666666666665
+            },
+            "GSM4486051_raw": {
+                "Cutadapt_mqc-generalstats-cutadapt-percent_trimmed": 1.2866666666666666
+            },
+            "GSM4486050_raw": {
+                "Cutadapt_mqc-generalstats-cutadapt-percent_trimmed": 1.8933333333333333
+            },
+            "GSM4486049_raw": {
+                "Cutadapt_mqc-generalstats-cutadapt-percent_trimmed": 1.26
+            },
+            "GSM4486048_raw": {
+                "Cutadapt_mqc-generalstats-cutadapt-percent_trimmed": 2.3333333333333335
+            },
+            "GSM4486047_raw": {
+                "Cutadapt_mqc-generalstats-cutadapt-percent_trimmed": 0.76
+            },
+            "GSM4486046_raw": {
+                "Cutadapt_mqc-generalstats-cutadapt-percent_trimmed": 1.76
+            },
+            "GSM4486045_raw": {
+                "Cutadapt_mqc-generalstats-cutadapt-percent_trimmed": 1.06
+            },
+            "GSM4486044_raw": {
+                "Cutadapt_mqc-generalstats-cutadapt-percent_trimmed": 1.24
+            },
+            "GSM4486043_raw": {
+                "Cutadapt_mqc-generalstats-cutadapt-percent_trimmed": 1.3599999999999999
+            },
+            "GSM4486042_raw": {
+                "Cutadapt_mqc-generalstats-cutadapt-percent_trimmed": 1.6266666666666665
+            },
+            "GSM4486041_raw": {
+                "Cutadapt_mqc-generalstats-cutadapt-percent_trimmed": 1.2533333333333334
+            },
+            "GSM4486040_raw": {
+                "Cutadapt_mqc-generalstats-cutadapt-percent_trimmed": 1.4733333333333332
+            },
+            "GSM4486039_raw": {
+                "Cutadapt_mqc-generalstats-cutadapt-percent_trimmed": 0.8933333333333333
+            },
+            "GSM4486038_raw": {
+                "Cutadapt_mqc-generalstats-cutadapt-percent_trimmed": 1.0266666666666666
+            },
+            "GSM4486037_raw": {
+                "Cutadapt_mqc-generalstats-cutadapt-percent_trimmed": 0.8666666666666666
+            },
+            "GSM4486036_raw": {
+                "Cutadapt_mqc-generalstats-cutadapt-percent_trimmed": 2.0666666666666664
+            },
+            "GSM4486035_raw": {
+                "Cutadapt_mqc-generalstats-cutadapt-percent_trimmed": 1.7666666666666668
+            },
+            "GSM4486034_raw": {
+                "Cutadapt_mqc-generalstats-cutadapt-percent_trimmed": 1.7933333333333332
+            },
+            "GSM4486033_raw": {
+                "Cutadapt_mqc-generalstats-cutadapt-percent_trimmed": 1.7999999999999998
+            },
+            "GSM4486032_raw": {
+                "Cutadapt_mqc-generalstats-cutadapt-percent_trimmed": 3.5866666666666664
+            },
+            "GSM4486031_raw": {
+                "Cutadapt_mqc-generalstats-cutadapt-percent_trimmed": 2.5866666666666664
+            }
+        }
+    },
+    "config_analysis_dir_abs": [
+        "/tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/5d/f9407e107e95b8bf2d5d106c7994ef/mqc_in"
+    ],
+    "config_analysis_dir": [
+        "mqc_in"
+    ],
+    "config_creation_date": "2023-01-24, 02:25",
+    "config_git_hash": null,
+    "config_intro_text": null,
+    "config_report_comment": null,
+    "config_report_header_info": null,
+    "config_script_path": "/usr/local/lib/python3.10/site-packages/multiqc/utils",
+    "config_short_version": "1.12",
+    "config_subtitle": null,
+    "config_title": null,
+    "config_version": "1.12"
+}

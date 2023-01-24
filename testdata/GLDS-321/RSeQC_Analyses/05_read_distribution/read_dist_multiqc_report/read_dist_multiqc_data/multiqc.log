@@ -1,0 +1,161 @@
+[2023-01-24 02:54:22,689] multiqc                                            [DEBUG  ]  This is MultiQC v1.12
+[2023-01-24 02:54:22,689] multiqc                                            [DEBUG  ]  No MultiQC config found: /usr/local/lib/python3.10/site-packages/multiqc_config.yaml
+[2023-01-24 02:54:22,689] multiqc                                            [DEBUG  ]  No MultiQC config found: /home/gitpod/.multiqc_config.yaml
+[2023-01-24 02:54:22,689] multiqc                                            [DEBUG  ]  No MultiQC config found: multiqc_config.yaml
+[2023-01-24 02:54:22,691] multiqc                                            [DEBUG  ]  Loading config settings from: multiqc.config
+[2023-01-24 02:54:22,691] multiqc                                            [DEBUG  ]  New config 'module_order': [{'fastqc': None}, 'cutadapt', 'star', 'rseqc', 'rsem']
+[2023-01-24 02:54:22,691] multiqc                                            [DEBUG  ]  Added to filename clean extensions: ['.read_distribution_out', '.infer_experiment_out', '.geneBodyCoverage.txt']
+[2023-01-24 02:54:22,691] multiqc                                            [DEBUG  ]  New config 'use_filename_as_sample_name': ['rseqc/gene_body_coverage']
+[2023-01-24 02:54:22,691] multiqc                                            [DEBUG  ]  New config 'show_analysis_paths': False
+[2023-01-24 02:54:22,691] multiqc                                            [DEBUG  ]  New config 'show_analysis_time': False
+[2023-01-24 02:54:22,692] multiqc                                            [DEBUG  ]  Command used: /usr/local/bin/multiqc --sample-names samples.txt --interactive -o read_dist_multiqc_report -n read_dist_multiqc mqc_in --config multiqc.config
+[2023-01-24 02:54:24,170] multiqc                                            [WARNING]  MultiQC Version v1.14 now available!
+[2023-01-24 02:54:24,170] multiqc                                            [DEBUG  ]  Loading sample renaming config settings from: samples.txt
+[2023-01-24 02:54:24,170] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486031
+[2023-01-24 02:54:24,171] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486032
+[2023-01-24 02:54:24,171] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486033
+[2023-01-24 02:54:24,171] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486034
+[2023-01-24 02:54:24,171] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486035
+[2023-01-24 02:54:24,171] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486036
+[2023-01-24 02:54:24,171] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486037
+[2023-01-24 02:54:24,171] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486038
+[2023-01-24 02:54:24,171] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486039
+[2023-01-24 02:54:24,171] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486040
+[2023-01-24 02:54:24,171] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486041
+[2023-01-24 02:54:24,171] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486042
+[2023-01-24 02:54:24,171] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486043
+[2023-01-24 02:54:24,171] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486044
+[2023-01-24 02:54:24,172] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486045
+[2023-01-24 02:54:24,172] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486046
+[2023-01-24 02:54:24,172] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486047
+[2023-01-24 02:54:24,172] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486048
+[2023-01-24 02:54:24,172] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486049
+[2023-01-24 02:54:24,172] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486050
+[2023-01-24 02:54:24,172] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486051
+[2023-01-24 02:54:24,172] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486052
+[2023-01-24 02:54:24,172] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486053
+[2023-01-24 02:54:24,172] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486054
+[2023-01-24 02:54:24,172] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486055
+[2023-01-24 02:54:24,172] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486056
+[2023-01-24 02:54:24,172] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486057
+[2023-01-24 02:54:24,173] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486058
+[2023-01-24 02:54:24,173] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486059
+[2023-01-24 02:54:24,173] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486060
+[2023-01-24 02:54:24,173] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486061
+[2023-01-24 02:54:24,173] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486062
+[2023-01-24 02:54:24,173] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486063
+[2023-01-24 02:54:24,173] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486064
+[2023-01-24 02:54:24,173] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486065
+[2023-01-24 02:54:24,173] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486066
+[2023-01-24 02:54:24,173] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486067
+[2023-01-24 02:54:24,173] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486068
+[2023-01-24 02:54:24,173] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486069
+[2023-01-24 02:54:24,173] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486070
+[2023-01-24 02:54:24,173] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486071
+[2023-01-24 02:54:24,173] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486072
+[2023-01-24 02:54:24,174] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486073
+[2023-01-24 02:54:24,174] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486074
+[2023-01-24 02:54:24,174] multiqc                                            [DEBUG  ]  Found 0 sample renaming patterns
+[2023-01-24 02:54:24,174] multiqc                                            [DEBUG  ]  Command     : /usr/local/bin/multiqc --sample-names samples.txt --interactive -o read_dist_multiqc_report -n read_dist_multiqc mqc_in --config multiqc.config
+[2023-01-24 02:54:24,174] multiqc                                            [DEBUG  ]  Working dir : /tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/64/b01318f49facfe339e324b91275ef6
+[2023-01-24 02:54:24,174] multiqc                                            [DEBUG  ]  Template    : default
+[2023-01-24 02:54:24,174] multiqc                                            [DEBUG  ]  Running Python 3.10.2 | packaged by conda-forge | (main, Feb  1 2022, 19:28:35) [GCC 9.4.0]
+[2023-01-24 02:54:24,174] multiqc                                            [DEBUG  ]  Analysing modules: adapterRemoval, afterqc, bamtools, bbmap, bcftools, bcl2fastq, bclconvert, biobambam2, biobloomtools, biscuit, bismark, bowtie1, bowtie2, busco, bustools, ccs, checkqc, clipandmerge, clusterflow, conpair, custom_content, damageprofiler, dedup, deeptools, disambiguate, dragen, eigenstratdatabasetools, fastp, fastq_screen, featureCounts, fgbio, flash, flexbar, gatk, gffcompare, goleft_indexcov, happy, hicexplorer, hicpro, hicup, hisat2, homer, hops, htseq, interop, ivar, jcvi, jellyfish, kaiju, kallisto, kat, kraken, leehom, lima, longranger, macs2, malt, methylQA, minionqc, mirtop, mirtrace, mosdepth, mtnucratio, multivcfanalyzer, nanostat, ngsderive, odgi, optitype, pangolin, pbmarkdup, peddy, phantompeakqualtools, picard, preseq, prokka, purple, pychopper, pycoqc, qc3C, qorts, qualimap, quast, rna_seqc, rockhopper, salmon, sambamba, samblaster, samtools, sargasso, sentieon, seqyclean, sexdeterrmine, sickle, skewer, slamdunk, snippy, snpeff, snpsplit, somalier, sortmerna, stacks, supernova, theta2, tophat, trimmomatic, varscan2, vcftools, vep, verifybamid, whatshap, fastqc, cutadapt, star, rseqc, rsem
+[2023-01-24 02:54:24,174] multiqc                                            [DEBUG  ]  Using temporary directory for creating report: /tmp/tmpkqe8u24p
+[2023-01-24 02:54:24,684] multiqc                                            [INFO   ]  Search path : /tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/64/b01318f49facfe339e324b91275ef6/mqc_in
+[2023-01-24 02:54:24,786] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486070_read_dist.out
+[2023-01-24 02:54:24,788] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486070_read_dist.out
+[2023-01-24 02:54:24,795] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486064_read_dist.out
+[2023-01-24 02:54:24,796] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486064_read_dist.out
+[2023-01-24 02:54:24,873] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486069_read_dist.out
+[2023-01-24 02:54:24,874] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486069_read_dist.out
+[2023-01-24 02:54:24,879] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486073_read_dist.out
+[2023-01-24 02:54:24,880] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486073_read_dist.out
+[2023-01-24 02:54:24,885] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486043_read_dist.out
+[2023-01-24 02:54:24,886] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486043_read_dist.out
+[2023-01-24 02:54:24,890] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486068_read_dist.out
+[2023-01-24 02:54:24,890] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486068_read_dist.out
+[2023-01-24 02:54:24,896] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486041_read_dist.out
+[2023-01-24 02:54:24,969] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486041_read_dist.out
+[2023-01-24 02:54:24,975] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486042_read_dist.out
+[2023-01-24 02:54:24,977] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486042_read_dist.out
+[2023-01-24 02:54:24,982] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486057_read_dist.out
+[2023-01-24 02:54:24,983] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486057_read_dist.out
+[2023-01-24 02:54:24,989] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486059_read_dist.out
+[2023-01-24 02:54:24,990] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486059_read_dist.out
+[2023-01-24 02:54:24,995] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486067_read_dist.out
+[2023-01-24 02:54:24,996] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486067_read_dist.out
+[2023-01-24 02:54:25,073] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486056_read_dist.out
+[2023-01-24 02:54:25,075] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486056_read_dist.out
+[2023-01-24 02:54:25,080] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486072_read_dist.out
+[2023-01-24 02:54:25,081] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486072_read_dist.out
+[2023-01-24 02:54:25,086] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486047_read_dist.out
+[2023-01-24 02:54:25,087] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486047_read_dist.out
+[2023-01-24 02:54:25,091] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486074_read_dist.out
+[2023-01-24 02:54:25,092] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486074_read_dist.out
+[2023-01-24 02:54:25,096] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486071_read_dist.out
+[2023-01-24 02:54:25,097] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486071_read_dist.out
+[2023-01-24 02:54:25,169] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486046_read_dist.out
+[2023-01-24 02:54:25,170] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486046_read_dist.out
+[2023-01-24 02:54:25,175] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486062_read_dist.out
+[2023-01-24 02:54:25,176] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486062_read_dist.out
+[2023-01-24 02:54:25,181] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486063_read_dist.out
+[2023-01-24 02:54:25,182] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486063_read_dist.out
+[2023-01-24 02:54:25,187] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486060_read_dist.out
+[2023-01-24 02:54:25,188] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486060_read_dist.out
+[2023-01-24 02:54:25,193] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486066_read_dist.out
+[2023-01-24 02:54:25,194] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486066_read_dist.out
+[2023-01-24 02:54:25,268] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486054_read_dist.out
+[2023-01-24 02:54:25,269] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486054_read_dist.out
+[2023-01-24 02:54:25,273] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486061_read_dist.out
+[2023-01-24 02:54:25,274] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486061_read_dist.out
+[2023-01-24 02:54:25,278] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486065_read_dist.out
+[2023-01-24 02:54:25,279] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486065_read_dist.out
+[2023-01-24 02:54:25,284] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486052_read_dist.out
+[2023-01-24 02:54:25,285] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486052_read_dist.out
+[2023-01-24 02:54:25,289] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486048_read_dist.out
+[2023-01-24 02:54:25,290] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486048_read_dist.out
+[2023-01-24 02:54:25,296] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486055_read_dist.out
+[2023-01-24 02:54:25,370] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486055_read_dist.out
+[2023-01-24 02:54:25,376] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486044_read_dist.out
+[2023-01-24 02:54:25,377] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486044_read_dist.out
+[2023-01-24 02:54:25,383] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486051_read_dist.out
+[2023-01-24 02:54:25,384] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486051_read_dist.out
+[2023-01-24 02:54:25,390] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486049_read_dist.out
+[2023-01-24 02:54:25,391] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486049_read_dist.out
+[2023-01-24 02:54:25,468] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486032_read_dist.out
+[2023-01-24 02:54:25,470] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486032_read_dist.out
+[2023-01-24 02:54:25,475] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486050_read_dist.out
+[2023-01-24 02:54:25,476] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486050_read_dist.out
+[2023-01-24 02:54:25,480] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486040_read_dist.out
+[2023-01-24 02:54:25,481] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486040_read_dist.out
+[2023-01-24 02:54:25,486] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486058_read_dist.out
+[2023-01-24 02:54:25,487] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486058_read_dist.out
+[2023-01-24 02:54:25,492] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486053_read_dist.out
+[2023-01-24 02:54:25,493] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486053_read_dist.out
+[2023-01-24 02:54:25,498] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486038_read_dist.out
+[2023-01-24 02:54:25,498] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486038_read_dist.out
+[2023-01-24 02:54:25,570] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486045_read_dist.out
+[2023-01-24 02:54:25,571] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486045_read_dist.out
+[2023-01-24 02:54:25,576] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486037_read_dist.out
+[2023-01-24 02:54:25,577] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486037_read_dist.out
+[2023-01-24 02:54:25,582] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486036_read_dist.out
+[2023-01-24 02:54:25,583] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486036_read_dist.out
+[2023-01-24 02:54:25,588] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486031_read_dist.out
+[2023-01-24 02:54:25,589] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486031_read_dist.out
+[2023-01-24 02:54:25,593] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486033_read_dist.out
+[2023-01-24 02:54:25,594] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486033_read_dist.out
+[2023-01-24 02:54:25,599] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486035_read_dist.out
+[2023-01-24 02:54:25,599] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486035_read_dist.out
+[2023-01-24 02:54:25,672] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486039_read_dist.out
+[2023-01-24 02:54:25,673] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486039_read_dist.out
+[2023-01-24 02:54:25,679] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486034_read_dist.out
+[2023-01-24 02:54:25,680] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486034_read_dist.out
+[2023-01-24 02:54:28,311] multiqc.plots.bargraph                             [DEBUG  ]  Using matplotlib version 3.5.1
+[2023-01-24 02:54:28,392] multiqc.modules.rseqc.rseqc                        [INFO   ]  Found 44 read_distribution reports
+[2023-01-24 02:54:28,393] multiqc.plots.linegraph                            [DEBUG  ]  Using matplotlib version 3.5.1
+[2023-01-24 02:54:28,396] multiqc                                            [INFO   ]  Compressing plot data
+[2023-01-24 02:54:28,474] multiqc                                            [INFO   ]  Report      : read_dist_multiqc_report/read_dist_multiqc.html
+[2023-01-24 02:54:28,474] multiqc                                            [INFO   ]  Data        : read_dist_multiqc_report/read_dist_multiqc_data
+[2023-01-24 02:54:28,475] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmpkqe8u24p/multiqc_data' to 'read_dist_multiqc_report/read_dist_multiqc_data'
+[2023-01-24 02:54:28,793] multiqc                                            [INFO   ]  MultiQC complete

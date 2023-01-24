@@ -1,0 +1,557 @@
+[2023-01-24 02:26:09,295] multiqc                                            [DEBUG  ]  This is MultiQC v1.12
+[2023-01-24 02:26:09,295] multiqc                                            [DEBUG  ]  No MultiQC config found: /usr/local/lib/python3.10/site-packages/multiqc_config.yaml
+[2023-01-24 02:26:09,295] multiqc                                            [DEBUG  ]  No MultiQC config found: /home/gitpod/.multiqc_config.yaml
+[2023-01-24 02:26:09,295] multiqc                                            [DEBUG  ]  No MultiQC config found: multiqc_config.yaml
+[2023-01-24 02:26:09,369] multiqc                                            [DEBUG  ]  Loading config settings from: multiqc.config
+[2023-01-24 02:26:09,369] multiqc                                            [DEBUG  ]  New config 'module_order': [{'fastqc': None}, 'cutadapt', 'star', 'rseqc', 'rsem']
+[2023-01-24 02:26:09,369] multiqc                                            [DEBUG  ]  Added to filename clean extensions: ['.read_distribution_out', '.infer_experiment_out', '.geneBodyCoverage.txt']
+[2023-01-24 02:26:09,369] multiqc                                            [DEBUG  ]  New config 'use_filename_as_sample_name': ['rseqc/gene_body_coverage']
+[2023-01-24 02:26:09,369] multiqc                                            [DEBUG  ]  New config 'show_analysis_paths': False
+[2023-01-24 02:26:09,369] multiqc                                            [DEBUG  ]  New config 'show_analysis_time': False
+[2023-01-24 02:26:09,369] multiqc                                            [DEBUG  ]  Command used: /usr/local/bin/multiqc --sample-names samples.txt --interactive -o trimmed_multiqc_report -n trimmed_multiqc mqc_in --config multiqc.config
+[2023-01-24 02:26:10,576] multiqc                                            [WARNING]  MultiQC Version v1.14 now available!
+[2023-01-24 02:26:10,576] multiqc                                            [DEBUG  ]  Loading sample renaming config settings from: samples.txt
+[2023-01-24 02:26:10,576] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486031
+[2023-01-24 02:26:10,576] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486032
+[2023-01-24 02:26:10,576] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486033
+[2023-01-24 02:26:10,576] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486034
+[2023-01-24 02:26:10,576] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486035
+[2023-01-24 02:26:10,576] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486036
+[2023-01-24 02:26:10,576] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486037
+[2023-01-24 02:26:10,576] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486038
+[2023-01-24 02:26:10,576] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486039
+[2023-01-24 02:26:10,577] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486040
+[2023-01-24 02:26:10,577] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486041
+[2023-01-24 02:26:10,577] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486042
+[2023-01-24 02:26:10,577] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486043
+[2023-01-24 02:26:10,577] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486044
+[2023-01-24 02:26:10,577] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486045
+[2023-01-24 02:26:10,577] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486046
+[2023-01-24 02:26:10,577] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486047
+[2023-01-24 02:26:10,577] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486048
+[2023-01-24 02:26:10,577] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486049
+[2023-01-24 02:26:10,577] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486050
+[2023-01-24 02:26:10,577] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486051
+[2023-01-24 02:26:10,577] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486052
+[2023-01-24 02:26:10,577] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486053
+[2023-01-24 02:26:10,577] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486054
+[2023-01-24 02:26:10,577] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486055
+[2023-01-24 02:26:10,577] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486056
+[2023-01-24 02:26:10,578] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486057
+[2023-01-24 02:26:10,578] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486058
+[2023-01-24 02:26:10,578] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486059
+[2023-01-24 02:26:10,578] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486060
+[2023-01-24 02:26:10,578] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486061
+[2023-01-24 02:26:10,578] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486062
+[2023-01-24 02:26:10,578] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486063
+[2023-01-24 02:26:10,578] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486064
+[2023-01-24 02:26:10,578] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486065
+[2023-01-24 02:26:10,578] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486066
+[2023-01-24 02:26:10,578] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486067
+[2023-01-24 02:26:10,578] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486068
+[2023-01-24 02:26:10,578] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486069
+[2023-01-24 02:26:10,578] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486070
+[2023-01-24 02:26:10,579] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486071
+[2023-01-24 02:26:10,580] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486072
+[2023-01-24 02:26:10,580] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486073
+[2023-01-24 02:26:10,580] multiqc                                            [WARNING]  Sample names file line did not have columns (must use tabs): GSM4486074
+[2023-01-24 02:26:10,580] multiqc                                            [DEBUG  ]  Found 0 sample renaming patterns
+[2023-01-24 02:26:10,580] multiqc                                            [DEBUG  ]  Command     : /usr/local/bin/multiqc --sample-names samples.txt --interactive -o trimmed_multiqc_report -n trimmed_multiqc mqc_in --config multiqc.config
+[2023-01-24 02:26:10,580] multiqc                                            [DEBUG  ]  Working dir : /tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/44/0d9f0ba848d61c8611534040778572
+[2023-01-24 02:26:10,580] multiqc                                            [DEBUG  ]  Template    : default
+[2023-01-24 02:26:10,580] multiqc                                            [DEBUG  ]  Running Python 3.10.2 | packaged by conda-forge | (main, Feb  1 2022, 19:28:35) [GCC 9.4.0]
+[2023-01-24 02:26:10,581] multiqc                                            [DEBUG  ]  Analysing modules: adapterRemoval, afterqc, bamtools, bbmap, bcftools, bcl2fastq, bclconvert, biobambam2, biobloomtools, biscuit, bismark, bowtie1, bowtie2, busco, bustools, ccs, checkqc, clipandmerge, clusterflow, conpair, custom_content, damageprofiler, dedup, deeptools, disambiguate, dragen, eigenstratdatabasetools, fastp, fastq_screen, featureCounts, fgbio, flash, flexbar, gatk, gffcompare, goleft_indexcov, happy, hicexplorer, hicpro, hicup, hisat2, homer, hops, htseq, interop, ivar, jcvi, jellyfish, kaiju, kallisto, kat, kraken, leehom, lima, longranger, macs2, malt, methylQA, minionqc, mirtop, mirtrace, mosdepth, mtnucratio, multivcfanalyzer, nanostat, ngsderive, odgi, optitype, pangolin, pbmarkdup, peddy, phantompeakqualtools, picard, preseq, prokka, purple, pychopper, pycoqc, qc3C, qorts, qualimap, quast, rna_seqc, rockhopper, salmon, sambamba, samblaster, samtools, sargasso, sentieon, seqyclean, sexdeterrmine, sickle, skewer, slamdunk, snippy, snpeff, snpsplit, somalier, sortmerna, stacks, supernova, theta2, tophat, trimmomatic, varscan2, vcftools, vep, verifybamid, whatshap, fastqc, cutadapt, star, rseqc, rsem
+[2023-01-24 02:26:10,581] multiqc                                            [DEBUG  ]  Using temporary directory for creating report: /tmp/tmpiju31qfq
+[2023-01-24 02:26:10,997] multiqc                                            [INFO   ]  Search path : /tmp/.nf-test/tests/cc7b6a2958286aab2d618b022bf34774/work/44/0d9f0ba848d61c8611534040778572/mqc_in
+[2023-01-24 02:26:11,285] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486074_trimmed_fastqc.html
+[2023-01-24 02:26:11,286] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: GSM4486074_trimmed_fastqc.html
+[2023-01-24 02:26:11,286] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486074_trimmed_fastqc.html
+[2023-01-24 02:26:11,291] multiqc                                            [DEBUG  ]  File ignored by vep/vep_txt because it exceeded search pattern filesize limit: GSM4486074_trimmed_fastqc.html
+[2023-01-24 02:26:11,291] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: GSM4486074_trimmed_fastqc.html
+[2023-01-24 02:26:11,291] multiqc                                            [DEBUG  ]  File ignored by rockhopper because it exceeded search pattern filesize limit: GSM4486074_trimmed_fastqc.html
+[2023-01-24 02:26:11,291] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: GSM4486074_trimmed_fastqc.html
+[2023-01-24 02:26:11,291] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: GSM4486074_trimmed_fastqc.html
+[2023-01-24 02:26:11,291] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: GSM4486074_trimmed_fastqc.html
+[2023-01-24 02:26:11,291] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: GSM4486074_trimmed_fastqc.html
+[2023-01-24 02:26:11,588] multiqc                                            [DEBUG  ]  File ignored by nanostat because it exceeded search pattern filesize limit: GSM4486074_trimmed_fastqc.html
+[2023-01-24 02:26:11,699] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486072_trimmed_fastqc.html
+[2023-01-24 02:26:11,701] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: GSM4486072_trimmed_fastqc.html
+[2023-01-24 02:26:11,701] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486072_trimmed_fastqc.html
+[2023-01-24 02:26:11,703] multiqc                                            [DEBUG  ]  File ignored by vep/vep_txt because it exceeded search pattern filesize limit: GSM4486072_trimmed_fastqc.html
+[2023-01-24 02:26:11,703] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: GSM4486072_trimmed_fastqc.html
+[2023-01-24 02:26:11,703] multiqc                                            [DEBUG  ]  File ignored by rockhopper because it exceeded search pattern filesize limit: GSM4486072_trimmed_fastqc.html
+[2023-01-24 02:26:11,703] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: GSM4486072_trimmed_fastqc.html
+[2023-01-24 02:26:11,703] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: GSM4486072_trimmed_fastqc.html
+[2023-01-24 02:26:11,703] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: GSM4486072_trimmed_fastqc.html
+[2023-01-24 02:26:11,704] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: GSM4486072_trimmed_fastqc.html
+[2023-01-24 02:26:11,903] multiqc                                            [DEBUG  ]  File ignored by nanostat because it exceeded search pattern filesize limit: GSM4486072_trimmed_fastqc.html
+[2023-01-24 02:26:12,081] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486073_trimmed_fastqc.html
+[2023-01-24 02:26:12,082] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: GSM4486073_trimmed_fastqc.html
+[2023-01-24 02:26:12,082] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486073_trimmed_fastqc.html
+[2023-01-24 02:26:12,085] multiqc                                            [DEBUG  ]  File ignored by vep/vep_txt because it exceeded search pattern filesize limit: GSM4486073_trimmed_fastqc.html
+[2023-01-24 02:26:12,085] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: GSM4486073_trimmed_fastqc.html
+[2023-01-24 02:26:12,085] multiqc                                            [DEBUG  ]  File ignored by rockhopper because it exceeded search pattern filesize limit: GSM4486073_trimmed_fastqc.html
+[2023-01-24 02:26:12,085] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: GSM4486073_trimmed_fastqc.html
+[2023-01-24 02:26:12,085] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: GSM4486073_trimmed_fastqc.html
+[2023-01-24 02:26:12,085] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: GSM4486073_trimmed_fastqc.html
+[2023-01-24 02:26:12,085] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: GSM4486073_trimmed_fastqc.html
+[2023-01-24 02:26:12,294] multiqc                                            [DEBUG  ]  File ignored by nanostat because it exceeded search pattern filesize limit: GSM4486073_trimmed_fastqc.html
+[2023-01-24 02:26:12,483] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486071_trimmed_fastqc.html
+[2023-01-24 02:26:12,485] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: GSM4486071_trimmed_fastqc.html
+[2023-01-24 02:26:12,485] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486071_trimmed_fastqc.html
+[2023-01-24 02:26:12,489] multiqc                                            [DEBUG  ]  File ignored by vep/vep_txt because it exceeded search pattern filesize limit: GSM4486071_trimmed_fastqc.html
+[2023-01-24 02:26:12,489] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: GSM4486071_trimmed_fastqc.html
+[2023-01-24 02:26:12,489] multiqc                                            [DEBUG  ]  File ignored by rockhopper because it exceeded search pattern filesize limit: GSM4486071_trimmed_fastqc.html
+[2023-01-24 02:26:12,489] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: GSM4486071_trimmed_fastqc.html
+[2023-01-24 02:26:12,489] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: GSM4486071_trimmed_fastqc.html
+[2023-01-24 02:26:12,489] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: GSM4486071_trimmed_fastqc.html
+[2023-01-24 02:26:12,489] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: GSM4486071_trimmed_fastqc.html
+[2023-01-24 02:26:12,682] multiqc                                            [DEBUG  ]  File ignored by nanostat because it exceeded search pattern filesize limit: GSM4486071_trimmed_fastqc.html
+[2023-01-24 02:26:12,882] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486070_trimmed_fastqc.html
+[2023-01-24 02:26:12,886] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: GSM4486070_trimmed_fastqc.html
+[2023-01-24 02:26:12,886] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486070_trimmed_fastqc.html
+[2023-01-24 02:26:12,888] multiqc                                            [DEBUG  ]  File ignored by vep/vep_txt because it exceeded search pattern filesize limit: GSM4486070_trimmed_fastqc.html
+[2023-01-24 02:26:12,889] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: GSM4486070_trimmed_fastqc.html
+[2023-01-24 02:26:12,889] multiqc                                            [DEBUG  ]  File ignored by rockhopper because it exceeded search pattern filesize limit: GSM4486070_trimmed_fastqc.html
+[2023-01-24 02:26:12,889] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: GSM4486070_trimmed_fastqc.html
+[2023-01-24 02:26:12,889] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: GSM4486070_trimmed_fastqc.html
+[2023-01-24 02:26:12,889] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: GSM4486070_trimmed_fastqc.html
+[2023-01-24 02:26:12,889] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: GSM4486070_trimmed_fastqc.html
+[2023-01-24 02:26:13,081] multiqc                                            [DEBUG  ]  File ignored by nanostat because it exceeded search pattern filesize limit: GSM4486070_trimmed_fastqc.html
+[2023-01-24 02:26:13,185] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486069_trimmed_fastqc.html
+[2023-01-24 02:26:13,187] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: GSM4486069_trimmed_fastqc.html
+[2023-01-24 02:26:13,187] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486069_trimmed_fastqc.html
+[2023-01-24 02:26:13,197] multiqc                                            [DEBUG  ]  File ignored by vep/vep_txt because it exceeded search pattern filesize limit: GSM4486069_trimmed_fastqc.html
+[2023-01-24 02:26:13,197] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: GSM4486069_trimmed_fastqc.html
+[2023-01-24 02:26:13,197] multiqc                                            [DEBUG  ]  File ignored by rockhopper because it exceeded search pattern filesize limit: GSM4486069_trimmed_fastqc.html
+[2023-01-24 02:26:13,197] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: GSM4486069_trimmed_fastqc.html
+[2023-01-24 02:26:13,197] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: GSM4486069_trimmed_fastqc.html
+[2023-01-24 02:26:13,198] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: GSM4486069_trimmed_fastqc.html
+[2023-01-24 02:26:13,198] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: GSM4486069_trimmed_fastqc.html
+[2023-01-24 02:26:13,311] multiqc                                            [DEBUG  ]  File ignored by nanostat because it exceeded search pattern filesize limit: GSM4486069_trimmed_fastqc.html
+[2023-01-24 02:26:13,485] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486068_trimmed_fastqc.html
+[2023-01-24 02:26:13,487] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: GSM4486068_trimmed_fastqc.html
+[2023-01-24 02:26:13,487] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486068_trimmed_fastqc.html
+[2023-01-24 02:26:13,490] multiqc                                            [DEBUG  ]  File ignored by vep/vep_txt because it exceeded search pattern filesize limit: GSM4486068_trimmed_fastqc.html
+[2023-01-24 02:26:13,490] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: GSM4486068_trimmed_fastqc.html
+[2023-01-24 02:26:13,490] multiqc                                            [DEBUG  ]  File ignored by rockhopper because it exceeded search pattern filesize limit: GSM4486068_trimmed_fastqc.html
+[2023-01-24 02:26:13,490] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: GSM4486068_trimmed_fastqc.html
+[2023-01-24 02:26:13,490] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: GSM4486068_trimmed_fastqc.html
+[2023-01-24 02:26:13,490] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: GSM4486068_trimmed_fastqc.html
+[2023-01-24 02:26:13,490] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: GSM4486068_trimmed_fastqc.html
+[2023-01-24 02:26:13,681] multiqc                                            [DEBUG  ]  File ignored by nanostat because it exceeded search pattern filesize limit: GSM4486068_trimmed_fastqc.html
+[2023-01-24 02:26:13,808] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486067_trimmed_fastqc.html
+[2023-01-24 02:26:13,809] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: GSM4486067_trimmed_fastqc.html
+[2023-01-24 02:26:13,809] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486067_trimmed_fastqc.html
+[2023-01-24 02:26:13,811] multiqc                                            [DEBUG  ]  File ignored by vep/vep_txt because it exceeded search pattern filesize limit: GSM4486067_trimmed_fastqc.html
+[2023-01-24 02:26:13,811] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: GSM4486067_trimmed_fastqc.html
+[2023-01-24 02:26:13,811] multiqc                                            [DEBUG  ]  File ignored by rockhopper because it exceeded search pattern filesize limit: GSM4486067_trimmed_fastqc.html
+[2023-01-24 02:26:13,811] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: GSM4486067_trimmed_fastqc.html
+[2023-01-24 02:26:13,811] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: GSM4486067_trimmed_fastqc.html
+[2023-01-24 02:26:13,811] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: GSM4486067_trimmed_fastqc.html
+[2023-01-24 02:26:13,811] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: GSM4486067_trimmed_fastqc.html
+[2023-01-24 02:26:13,972] multiqc                                            [DEBUG  ]  File ignored by nanostat because it exceeded search pattern filesize limit: GSM4486067_trimmed_fastqc.html
+[2023-01-24 02:26:14,020] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486066_trimmed_fastqc.html
+[2023-01-24 02:26:14,021] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: GSM4486066_trimmed_fastqc.html
+[2023-01-24 02:26:14,021] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486066_trimmed_fastqc.html
+[2023-01-24 02:26:14,024] multiqc                                            [DEBUG  ]  File ignored by vep/vep_txt because it exceeded search pattern filesize limit: GSM4486066_trimmed_fastqc.html
+[2023-01-24 02:26:14,024] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: GSM4486066_trimmed_fastqc.html
+[2023-01-24 02:26:14,024] multiqc                                            [DEBUG  ]  File ignored by rockhopper because it exceeded search pattern filesize limit: GSM4486066_trimmed_fastqc.html
+[2023-01-24 02:26:14,024] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: GSM4486066_trimmed_fastqc.html
+[2023-01-24 02:26:14,024] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: GSM4486066_trimmed_fastqc.html
+[2023-01-24 02:26:14,024] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: GSM4486066_trimmed_fastqc.html
+[2023-01-24 02:26:14,024] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: GSM4486066_trimmed_fastqc.html
+[2023-01-24 02:26:14,124] multiqc                                            [DEBUG  ]  File ignored by nanostat because it exceeded search pattern filesize limit: GSM4486066_trimmed_fastqc.html
+[2023-01-24 02:26:14,306] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486064_trimmed_fastqc.html
+[2023-01-24 02:26:14,307] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: GSM4486064_trimmed_fastqc.html
+[2023-01-24 02:26:14,307] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486064_trimmed_fastqc.html
+[2023-01-24 02:26:14,309] multiqc                                            [DEBUG  ]  File ignored by vep/vep_txt because it exceeded search pattern filesize limit: GSM4486064_trimmed_fastqc.html
+[2023-01-24 02:26:14,309] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: GSM4486064_trimmed_fastqc.html
+[2023-01-24 02:26:14,309] multiqc                                            [DEBUG  ]  File ignored by rockhopper because it exceeded search pattern filesize limit: GSM4486064_trimmed_fastqc.html
+[2023-01-24 02:26:14,309] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: GSM4486064_trimmed_fastqc.html
+[2023-01-24 02:26:14,309] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: GSM4486064_trimmed_fastqc.html
+[2023-01-24 02:26:14,309] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: GSM4486064_trimmed_fastqc.html
+[2023-01-24 02:26:14,310] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: GSM4486064_trimmed_fastqc.html
+[2023-01-24 02:26:14,473] multiqc                                            [DEBUG  ]  File ignored by nanostat because it exceeded search pattern filesize limit: GSM4486064_trimmed_fastqc.html
+[2023-01-24 02:26:14,586] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486065_trimmed_fastqc.html
+[2023-01-24 02:26:14,587] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: GSM4486065_trimmed_fastqc.html
+[2023-01-24 02:26:14,587] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486065_trimmed_fastqc.html
+[2023-01-24 02:26:14,589] multiqc                                            [DEBUG  ]  File ignored by vep/vep_txt because it exceeded search pattern filesize limit: GSM4486065_trimmed_fastqc.html
+[2023-01-24 02:26:14,589] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: GSM4486065_trimmed_fastqc.html
+[2023-01-24 02:26:14,589] multiqc                                            [DEBUG  ]  File ignored by rockhopper because it exceeded search pattern filesize limit: GSM4486065_trimmed_fastqc.html
+[2023-01-24 02:26:14,589] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: GSM4486065_trimmed_fastqc.html
+[2023-01-24 02:26:14,590] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: GSM4486065_trimmed_fastqc.html
+[2023-01-24 02:26:14,590] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: GSM4486065_trimmed_fastqc.html
+[2023-01-24 02:26:14,590] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: GSM4486065_trimmed_fastqc.html
+[2023-01-24 02:26:14,705] multiqc                                            [DEBUG  ]  File ignored by nanostat because it exceeded search pattern filesize limit: GSM4486065_trimmed_fastqc.html
+[2023-01-24 02:26:14,776] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486063_trimmed_fastqc.html
+[2023-01-24 02:26:14,777] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: GSM4486063_trimmed_fastqc.html
+[2023-01-24 02:26:14,777] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486063_trimmed_fastqc.html
+[2023-01-24 02:26:14,780] multiqc                                            [DEBUG  ]  File ignored by vep/vep_txt because it exceeded search pattern filesize limit: GSM4486063_trimmed_fastqc.html
+[2023-01-24 02:26:14,781] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: GSM4486063_trimmed_fastqc.html
+[2023-01-24 02:26:14,781] multiqc                                            [DEBUG  ]  File ignored by rockhopper because it exceeded search pattern filesize limit: GSM4486063_trimmed_fastqc.html
+[2023-01-24 02:26:14,781] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: GSM4486063_trimmed_fastqc.html
+[2023-01-24 02:26:14,781] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: GSM4486063_trimmed_fastqc.html
+[2023-01-24 02:26:14,781] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: GSM4486063_trimmed_fastqc.html
+[2023-01-24 02:26:14,781] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: GSM4486063_trimmed_fastqc.html
+[2023-01-24 02:26:14,887] multiqc                                            [DEBUG  ]  File ignored by nanostat because it exceeded search pattern filesize limit: GSM4486063_trimmed_fastqc.html
+[2023-01-24 02:26:14,993] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486062_trimmed_fastqc.html
+[2023-01-24 02:26:14,995] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: GSM4486062_trimmed_fastqc.html
+[2023-01-24 02:26:14,995] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486062_trimmed_fastqc.html
+[2023-01-24 02:26:14,998] multiqc                                            [DEBUG  ]  File ignored by vep/vep_txt because it exceeded search pattern filesize limit: GSM4486062_trimmed_fastqc.html
+[2023-01-24 02:26:14,998] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: GSM4486062_trimmed_fastqc.html
+[2023-01-24 02:26:14,998] multiqc                                            [DEBUG  ]  File ignored by rockhopper because it exceeded search pattern filesize limit: GSM4486062_trimmed_fastqc.html
+[2023-01-24 02:26:14,998] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: GSM4486062_trimmed_fastqc.html
+[2023-01-24 02:26:14,998] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: GSM4486062_trimmed_fastqc.html
+[2023-01-24 02:26:14,998] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: GSM4486062_trimmed_fastqc.html
+[2023-01-24 02:26:14,998] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: GSM4486062_trimmed_fastqc.html
+[2023-01-24 02:26:15,122] multiqc                                            [DEBUG  ]  File ignored by nanostat because it exceeded search pattern filesize limit: GSM4486062_trimmed_fastqc.html
+[2023-01-24 02:26:15,174] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486061_trimmed_fastqc.html
+[2023-01-24 02:26:15,175] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: GSM4486061_trimmed_fastqc.html
+[2023-01-24 02:26:15,175] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486061_trimmed_fastqc.html
+[2023-01-24 02:26:15,177] multiqc                                            [DEBUG  ]  File ignored by vep/vep_txt because it exceeded search pattern filesize limit: GSM4486061_trimmed_fastqc.html
+[2023-01-24 02:26:15,178] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: GSM4486061_trimmed_fastqc.html
+[2023-01-24 02:26:15,178] multiqc                                            [DEBUG  ]  File ignored by rockhopper because it exceeded search pattern filesize limit: GSM4486061_trimmed_fastqc.html
+[2023-01-24 02:26:15,178] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: GSM4486061_trimmed_fastqc.html
+[2023-01-24 02:26:15,178] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: GSM4486061_trimmed_fastqc.html
+[2023-01-24 02:26:15,178] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: GSM4486061_trimmed_fastqc.html
+[2023-01-24 02:26:15,178] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: GSM4486061_trimmed_fastqc.html
+[2023-01-24 02:26:15,239] multiqc                                            [DEBUG  ]  File ignored by nanostat because it exceeded search pattern filesize limit: GSM4486061_trimmed_fastqc.html
+[2023-01-24 02:26:15,301] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486060_trimmed_fastqc.html
+[2023-01-24 02:26:15,302] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: GSM4486060_trimmed_fastqc.html
+[2023-01-24 02:26:15,302] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486060_trimmed_fastqc.html
+[2023-01-24 02:26:15,303] multiqc                                            [DEBUG  ]  File ignored by vep/vep_txt because it exceeded search pattern filesize limit: GSM4486060_trimmed_fastqc.html
+[2023-01-24 02:26:15,303] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: GSM4486060_trimmed_fastqc.html
+[2023-01-24 02:26:15,303] multiqc                                            [DEBUG  ]  File ignored by rockhopper because it exceeded search pattern filesize limit: GSM4486060_trimmed_fastqc.html
+[2023-01-24 02:26:15,303] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: GSM4486060_trimmed_fastqc.html
+[2023-01-24 02:26:15,303] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: GSM4486060_trimmed_fastqc.html
+[2023-01-24 02:26:15,303] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: GSM4486060_trimmed_fastqc.html
+[2023-01-24 02:26:15,304] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: GSM4486060_trimmed_fastqc.html
+[2023-01-24 02:26:15,385] multiqc                                            [DEBUG  ]  File ignored by nanostat because it exceeded search pattern filesize limit: GSM4486060_trimmed_fastqc.html
+[2023-01-24 02:26:15,426] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486058_trimmed_fastqc.html
+[2023-01-24 02:26:15,427] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: GSM4486058_trimmed_fastqc.html
+[2023-01-24 02:26:15,427] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486058_trimmed_fastqc.html
+[2023-01-24 02:26:15,429] multiqc                                            [DEBUG  ]  File ignored by vep/vep_txt because it exceeded search pattern filesize limit: GSM4486058_trimmed_fastqc.html
+[2023-01-24 02:26:15,429] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: GSM4486058_trimmed_fastqc.html
+[2023-01-24 02:26:15,429] multiqc                                            [DEBUG  ]  File ignored by rockhopper because it exceeded search pattern filesize limit: GSM4486058_trimmed_fastqc.html
+[2023-01-24 02:26:15,429] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: GSM4486058_trimmed_fastqc.html
+[2023-01-24 02:26:15,429] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: GSM4486058_trimmed_fastqc.html
+[2023-01-24 02:26:15,429] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: GSM4486058_trimmed_fastqc.html
+[2023-01-24 02:26:15,429] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: GSM4486058_trimmed_fastqc.html
+[2023-01-24 02:26:15,573] multiqc                                            [DEBUG  ]  File ignored by nanostat because it exceeded search pattern filesize limit: GSM4486058_trimmed_fastqc.html
+[2023-01-24 02:26:15,601] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486059_trimmed_fastqc.html
+[2023-01-24 02:26:15,602] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: GSM4486059_trimmed_fastqc.html
+[2023-01-24 02:26:15,602] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486059_trimmed_fastqc.html
+[2023-01-24 02:26:15,604] multiqc                                            [DEBUG  ]  File ignored by vep/vep_txt because it exceeded search pattern filesize limit: GSM4486059_trimmed_fastqc.html
+[2023-01-24 02:26:15,605] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: GSM4486059_trimmed_fastqc.html
+[2023-01-24 02:26:15,605] multiqc                                            [DEBUG  ]  File ignored by rockhopper because it exceeded search pattern filesize limit: GSM4486059_trimmed_fastqc.html
+[2023-01-24 02:26:15,605] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: GSM4486059_trimmed_fastqc.html
+[2023-01-24 02:26:15,605] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: GSM4486059_trimmed_fastqc.html
+[2023-01-24 02:26:15,605] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: GSM4486059_trimmed_fastqc.html
+[2023-01-24 02:26:15,605] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: GSM4486059_trimmed_fastqc.html
+[2023-01-24 02:26:15,794] multiqc                                            [DEBUG  ]  File ignored by nanostat because it exceeded search pattern filesize limit: GSM4486059_trimmed_fastqc.html
+[2023-01-24 02:26:15,838] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486050_trimmed_fastqc.html
+[2023-01-24 02:26:15,868] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: GSM4486050_trimmed_fastqc.html
+[2023-01-24 02:26:15,868] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486050_trimmed_fastqc.html
+[2023-01-24 02:26:15,870] multiqc                                            [DEBUG  ]  File ignored by vep/vep_txt because it exceeded search pattern filesize limit: GSM4486050_trimmed_fastqc.html
+[2023-01-24 02:26:15,870] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: GSM4486050_trimmed_fastqc.html
+[2023-01-24 02:26:15,870] multiqc                                            [DEBUG  ]  File ignored by rockhopper because it exceeded search pattern filesize limit: GSM4486050_trimmed_fastqc.html
+[2023-01-24 02:26:15,870] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: GSM4486050_trimmed_fastqc.html
+[2023-01-24 02:26:15,870] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: GSM4486050_trimmed_fastqc.html
+[2023-01-24 02:26:15,870] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: GSM4486050_trimmed_fastqc.html
+[2023-01-24 02:26:15,870] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: GSM4486050_trimmed_fastqc.html
+[2023-01-24 02:26:15,933] multiqc                                            [DEBUG  ]  File ignored by nanostat because it exceeded search pattern filesize limit: GSM4486050_trimmed_fastqc.html
+[2023-01-24 02:26:16,004] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486057_trimmed_fastqc.html
+[2023-01-24 02:26:16,005] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: GSM4486057_trimmed_fastqc.html
+[2023-01-24 02:26:16,006] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486057_trimmed_fastqc.html
+[2023-01-24 02:26:16,008] multiqc                                            [DEBUG  ]  File ignored by vep/vep_txt because it exceeded search pattern filesize limit: GSM4486057_trimmed_fastqc.html
+[2023-01-24 02:26:16,008] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: GSM4486057_trimmed_fastqc.html
+[2023-01-24 02:26:16,008] multiqc                                            [DEBUG  ]  File ignored by rockhopper because it exceeded search pattern filesize limit: GSM4486057_trimmed_fastqc.html
+[2023-01-24 02:26:16,008] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: GSM4486057_trimmed_fastqc.html
+[2023-01-24 02:26:16,008] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: GSM4486057_trimmed_fastqc.html
+[2023-01-24 02:26:16,008] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: GSM4486057_trimmed_fastqc.html
+[2023-01-24 02:26:16,008] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: GSM4486057_trimmed_fastqc.html
+[2023-01-24 02:26:16,172] multiqc                                            [DEBUG  ]  File ignored by nanostat because it exceeded search pattern filesize limit: GSM4486057_trimmed_fastqc.html
+[2023-01-24 02:26:16,216] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486056_trimmed_fastqc.html
+[2023-01-24 02:26:16,217] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: GSM4486056_trimmed_fastqc.html
+[2023-01-24 02:26:16,218] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486056_trimmed_fastqc.html
+[2023-01-24 02:26:16,220] multiqc                                            [DEBUG  ]  File ignored by vep/vep_txt because it exceeded search pattern filesize limit: GSM4486056_trimmed_fastqc.html
+[2023-01-24 02:26:16,220] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: GSM4486056_trimmed_fastqc.html
+[2023-01-24 02:26:16,220] multiqc                                            [DEBUG  ]  File ignored by rockhopper because it exceeded search pattern filesize limit: GSM4486056_trimmed_fastqc.html
+[2023-01-24 02:26:16,220] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: GSM4486056_trimmed_fastqc.html
+[2023-01-24 02:26:16,220] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: GSM4486056_trimmed_fastqc.html
+[2023-01-24 02:26:16,220] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: GSM4486056_trimmed_fastqc.html
+[2023-01-24 02:26:16,221] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: GSM4486056_trimmed_fastqc.html
+[2023-01-24 02:26:16,377] multiqc                                            [DEBUG  ]  File ignored by nanostat because it exceeded search pattern filesize limit: GSM4486056_trimmed_fastqc.html
+[2023-01-24 02:26:16,424] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486055_trimmed_fastqc.html
+[2023-01-24 02:26:16,425] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: GSM4486055_trimmed_fastqc.html
+[2023-01-24 02:26:16,425] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486055_trimmed_fastqc.html
+[2023-01-24 02:26:16,426] multiqc                                            [DEBUG  ]  File ignored by vep/vep_txt because it exceeded search pattern filesize limit: GSM4486055_trimmed_fastqc.html
+[2023-01-24 02:26:16,426] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: GSM4486055_trimmed_fastqc.html
+[2023-01-24 02:26:16,427] multiqc                                            [DEBUG  ]  File ignored by rockhopper because it exceeded search pattern filesize limit: GSM4486055_trimmed_fastqc.html
+[2023-01-24 02:26:16,427] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: GSM4486055_trimmed_fastqc.html
+[2023-01-24 02:26:16,427] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: GSM4486055_trimmed_fastqc.html
+[2023-01-24 02:26:16,427] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: GSM4486055_trimmed_fastqc.html
+[2023-01-24 02:26:16,427] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: GSM4486055_trimmed_fastqc.html
+[2023-01-24 02:26:16,539] multiqc                                            [DEBUG  ]  File ignored by nanostat because it exceeded search pattern filesize limit: GSM4486055_trimmed_fastqc.html
+[2023-01-24 02:26:16,582] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486054_trimmed_fastqc.html
+[2023-01-24 02:26:16,583] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: GSM4486054_trimmed_fastqc.html
+[2023-01-24 02:26:16,583] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486054_trimmed_fastqc.html
+[2023-01-24 02:26:16,585] multiqc                                            [DEBUG  ]  File ignored by vep/vep_txt because it exceeded search pattern filesize limit: GSM4486054_trimmed_fastqc.html
+[2023-01-24 02:26:16,585] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: GSM4486054_trimmed_fastqc.html
+[2023-01-24 02:26:16,585] multiqc                                            [DEBUG  ]  File ignored by rockhopper because it exceeded search pattern filesize limit: GSM4486054_trimmed_fastqc.html
+[2023-01-24 02:26:16,585] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: GSM4486054_trimmed_fastqc.html
+[2023-01-24 02:26:16,585] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: GSM4486054_trimmed_fastqc.html
+[2023-01-24 02:26:16,585] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: GSM4486054_trimmed_fastqc.html
+[2023-01-24 02:26:16,586] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: GSM4486054_trimmed_fastqc.html
+[2023-01-24 02:26:16,658] multiqc                                            [DEBUG  ]  File ignored by nanostat because it exceeded search pattern filesize limit: GSM4486054_trimmed_fastqc.html
+[2023-01-24 02:26:16,694] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486053_trimmed_fastqc.html
+[2023-01-24 02:26:16,695] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: GSM4486053_trimmed_fastqc.html
+[2023-01-24 02:26:16,695] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486053_trimmed_fastqc.html
+[2023-01-24 02:26:16,697] multiqc                                            [DEBUG  ]  File ignored by vep/vep_txt because it exceeded search pattern filesize limit: GSM4486053_trimmed_fastqc.html
+[2023-01-24 02:26:16,697] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: GSM4486053_trimmed_fastqc.html
+[2023-01-24 02:26:16,697] multiqc                                            [DEBUG  ]  File ignored by rockhopper because it exceeded search pattern filesize limit: GSM4486053_trimmed_fastqc.html
+[2023-01-24 02:26:16,697] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: GSM4486053_trimmed_fastqc.html
+[2023-01-24 02:26:16,697] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: GSM4486053_trimmed_fastqc.html
+[2023-01-24 02:26:16,697] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: GSM4486053_trimmed_fastqc.html
+[2023-01-24 02:26:16,697] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: GSM4486053_trimmed_fastqc.html
+[2023-01-24 02:26:16,756] multiqc                                            [DEBUG  ]  File ignored by nanostat because it exceeded search pattern filesize limit: GSM4486053_trimmed_fastqc.html
+[2023-01-24 02:26:16,808] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486052_trimmed_fastqc.html
+[2023-01-24 02:26:16,810] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: GSM4486052_trimmed_fastqc.html
+[2023-01-24 02:26:16,810] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486052_trimmed_fastqc.html
+[2023-01-24 02:26:16,812] multiqc                                            [DEBUG  ]  File ignored by vep/vep_txt because it exceeded search pattern filesize limit: GSM4486052_trimmed_fastqc.html
+[2023-01-24 02:26:16,812] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: GSM4486052_trimmed_fastqc.html
+[2023-01-24 02:26:16,813] multiqc                                            [DEBUG  ]  File ignored by rockhopper because it exceeded search pattern filesize limit: GSM4486052_trimmed_fastqc.html
+[2023-01-24 02:26:16,813] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: GSM4486052_trimmed_fastqc.html
+[2023-01-24 02:26:16,813] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: GSM4486052_trimmed_fastqc.html
+[2023-01-24 02:26:16,813] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: GSM4486052_trimmed_fastqc.html
+[2023-01-24 02:26:16,813] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: GSM4486052_trimmed_fastqc.html
+[2023-01-24 02:26:16,987] multiqc                                            [DEBUG  ]  File ignored by nanostat because it exceeded search pattern filesize limit: GSM4486052_trimmed_fastqc.html
+[2023-01-24 02:26:17,022] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486051_trimmed_fastqc.html
+[2023-01-24 02:26:17,023] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: GSM4486051_trimmed_fastqc.html
+[2023-01-24 02:26:17,023] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486051_trimmed_fastqc.html
+[2023-01-24 02:26:17,025] multiqc                                            [DEBUG  ]  File ignored by vep/vep_txt because it exceeded search pattern filesize limit: GSM4486051_trimmed_fastqc.html
+[2023-01-24 02:26:17,025] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: GSM4486051_trimmed_fastqc.html
+[2023-01-24 02:26:17,025] multiqc                                            [DEBUG  ]  File ignored by rockhopper because it exceeded search pattern filesize limit: GSM4486051_trimmed_fastqc.html
+[2023-01-24 02:26:17,025] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: GSM4486051_trimmed_fastqc.html
+[2023-01-24 02:26:17,025] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: GSM4486051_trimmed_fastqc.html
+[2023-01-24 02:26:17,025] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: GSM4486051_trimmed_fastqc.html
+[2023-01-24 02:26:17,025] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: GSM4486051_trimmed_fastqc.html
+[2023-01-24 02:26:17,130] multiqc                                            [DEBUG  ]  File ignored by nanostat because it exceeded search pattern filesize limit: GSM4486051_trimmed_fastqc.html
+[2023-01-24 02:26:17,190] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486049_trimmed_fastqc.html
+[2023-01-24 02:26:17,191] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: GSM4486049_trimmed_fastqc.html
+[2023-01-24 02:26:17,191] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486049_trimmed_fastqc.html
+[2023-01-24 02:26:17,193] multiqc                                            [DEBUG  ]  File ignored by vep/vep_txt because it exceeded search pattern filesize limit: GSM4486049_trimmed_fastqc.html
+[2023-01-24 02:26:17,193] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: GSM4486049_trimmed_fastqc.html
+[2023-01-24 02:26:17,193] multiqc                                            [DEBUG  ]  File ignored by rockhopper because it exceeded search pattern filesize limit: GSM4486049_trimmed_fastqc.html
+[2023-01-24 02:26:17,193] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: GSM4486049_trimmed_fastqc.html
+[2023-01-24 02:26:17,193] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: GSM4486049_trimmed_fastqc.html
+[2023-01-24 02:26:17,193] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: GSM4486049_trimmed_fastqc.html
+[2023-01-24 02:26:17,193] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: GSM4486049_trimmed_fastqc.html
+[2023-01-24 02:26:17,273] multiqc                                            [DEBUG  ]  File ignored by nanostat because it exceeded search pattern filesize limit: GSM4486049_trimmed_fastqc.html
+[2023-01-24 02:26:17,304] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486048_trimmed_fastqc.html
+[2023-01-24 02:26:17,305] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: GSM4486048_trimmed_fastqc.html
+[2023-01-24 02:26:17,306] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486048_trimmed_fastqc.html
+[2023-01-24 02:26:17,308] multiqc                                            [DEBUG  ]  File ignored by vep/vep_txt because it exceeded search pattern filesize limit: GSM4486048_trimmed_fastqc.html
+[2023-01-24 02:26:17,308] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: GSM4486048_trimmed_fastqc.html
+[2023-01-24 02:26:17,308] multiqc                                            [DEBUG  ]  File ignored by rockhopper because it exceeded search pattern filesize limit: GSM4486048_trimmed_fastqc.html
+[2023-01-24 02:26:17,308] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: GSM4486048_trimmed_fastqc.html
+[2023-01-24 02:26:17,308] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: GSM4486048_trimmed_fastqc.html
+[2023-01-24 02:26:17,309] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: GSM4486048_trimmed_fastqc.html
+[2023-01-24 02:26:17,309] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: GSM4486048_trimmed_fastqc.html
+[2023-01-24 02:26:17,422] multiqc                                            [DEBUG  ]  File ignored by nanostat because it exceeded search pattern filesize limit: GSM4486048_trimmed_fastqc.html
+[2023-01-24 02:26:17,510] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486047_trimmed_fastqc.html
+[2023-01-24 02:26:17,511] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: GSM4486047_trimmed_fastqc.html
+[2023-01-24 02:26:17,512] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486047_trimmed_fastqc.html
+[2023-01-24 02:26:17,513] multiqc                                            [DEBUG  ]  File ignored by vep/vep_txt because it exceeded search pattern filesize limit: GSM4486047_trimmed_fastqc.html
+[2023-01-24 02:26:17,513] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: GSM4486047_trimmed_fastqc.html
+[2023-01-24 02:26:17,513] multiqc                                            [DEBUG  ]  File ignored by rockhopper because it exceeded search pattern filesize limit: GSM4486047_trimmed_fastqc.html
+[2023-01-24 02:26:17,514] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: GSM4486047_trimmed_fastqc.html
+[2023-01-24 02:26:17,514] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: GSM4486047_trimmed_fastqc.html
+[2023-01-24 02:26:17,514] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: GSM4486047_trimmed_fastqc.html
+[2023-01-24 02:26:17,514] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: GSM4486047_trimmed_fastqc.html
+[2023-01-24 02:26:17,675] multiqc                                            [DEBUG  ]  File ignored by nanostat because it exceeded search pattern filesize limit: GSM4486047_trimmed_fastqc.html
+[2023-01-24 02:26:17,725] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486046_trimmed_fastqc.html
+[2023-01-24 02:26:17,727] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: GSM4486046_trimmed_fastqc.html
+[2023-01-24 02:26:17,727] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486046_trimmed_fastqc.html
+[2023-01-24 02:26:17,729] multiqc                                            [DEBUG  ]  File ignored by vep/vep_txt because it exceeded search pattern filesize limit: GSM4486046_trimmed_fastqc.html
+[2023-01-24 02:26:17,730] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: GSM4486046_trimmed_fastqc.html
+[2023-01-24 02:26:17,730] multiqc                                            [DEBUG  ]  File ignored by rockhopper because it exceeded search pattern filesize limit: GSM4486046_trimmed_fastqc.html
+[2023-01-24 02:26:17,730] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: GSM4486046_trimmed_fastqc.html
+[2023-01-24 02:26:17,730] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: GSM4486046_trimmed_fastqc.html
+[2023-01-24 02:26:17,730] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: GSM4486046_trimmed_fastqc.html
+[2023-01-24 02:26:17,730] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: GSM4486046_trimmed_fastqc.html
+[2023-01-24 02:26:17,880] multiqc                                            [DEBUG  ]  File ignored by nanostat because it exceeded search pattern filesize limit: GSM4486046_trimmed_fastqc.html
+[2023-01-24 02:26:17,913] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486045_trimmed_fastqc.html
+[2023-01-24 02:26:17,913] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: GSM4486045_trimmed_fastqc.html
+[2023-01-24 02:26:17,914] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486045_trimmed_fastqc.html
+[2023-01-24 02:26:17,915] multiqc                                            [DEBUG  ]  File ignored by vep/vep_txt because it exceeded search pattern filesize limit: GSM4486045_trimmed_fastqc.html
+[2023-01-24 02:26:17,915] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: GSM4486045_trimmed_fastqc.html
+[2023-01-24 02:26:17,915] multiqc                                            [DEBUG  ]  File ignored by rockhopper because it exceeded search pattern filesize limit: GSM4486045_trimmed_fastqc.html
+[2023-01-24 02:26:17,915] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: GSM4486045_trimmed_fastqc.html
+[2023-01-24 02:26:17,915] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: GSM4486045_trimmed_fastqc.html
+[2023-01-24 02:26:17,915] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: GSM4486045_trimmed_fastqc.html
+[2023-01-24 02:26:17,916] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: GSM4486045_trimmed_fastqc.html
+[2023-01-24 02:26:18,012] multiqc                                            [DEBUG  ]  File ignored by nanostat because it exceeded search pattern filesize limit: GSM4486045_trimmed_fastqc.html
+[2023-01-24 02:26:18,101] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486044_trimmed_fastqc.html
+[2023-01-24 02:26:18,103] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: GSM4486044_trimmed_fastqc.html
+[2023-01-24 02:26:18,103] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486044_trimmed_fastqc.html
+[2023-01-24 02:26:18,105] multiqc                                            [DEBUG  ]  File ignored by vep/vep_txt because it exceeded search pattern filesize limit: GSM4486044_trimmed_fastqc.html
+[2023-01-24 02:26:18,105] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: GSM4486044_trimmed_fastqc.html
+[2023-01-24 02:26:18,105] multiqc                                            [DEBUG  ]  File ignored by rockhopper because it exceeded search pattern filesize limit: GSM4486044_trimmed_fastqc.html
+[2023-01-24 02:26:18,105] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: GSM4486044_trimmed_fastqc.html
+[2023-01-24 02:26:18,105] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: GSM4486044_trimmed_fastqc.html
+[2023-01-24 02:26:18,105] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: GSM4486044_trimmed_fastqc.html
+[2023-01-24 02:26:18,105] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: GSM4486044_trimmed_fastqc.html
+[2023-01-24 02:26:18,295] multiqc                                            [DEBUG  ]  File ignored by nanostat because it exceeded search pattern filesize limit: GSM4486044_trimmed_fastqc.html
+[2023-01-24 02:26:18,391] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486043_trimmed_fastqc.html
+[2023-01-24 02:26:18,392] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: GSM4486043_trimmed_fastqc.html
+[2023-01-24 02:26:18,392] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486043_trimmed_fastqc.html
+[2023-01-24 02:26:18,394] multiqc                                            [DEBUG  ]  File ignored by vep/vep_txt because it exceeded search pattern filesize limit: GSM4486043_trimmed_fastqc.html
+[2023-01-24 02:26:18,394] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: GSM4486043_trimmed_fastqc.html
+[2023-01-24 02:26:18,394] multiqc                                            [DEBUG  ]  File ignored by rockhopper because it exceeded search pattern filesize limit: GSM4486043_trimmed_fastqc.html
+[2023-01-24 02:26:18,394] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: GSM4486043_trimmed_fastqc.html
+[2023-01-24 02:26:18,395] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: GSM4486043_trimmed_fastqc.html
+[2023-01-24 02:26:18,395] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: GSM4486043_trimmed_fastqc.html
+[2023-01-24 02:26:18,395] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: GSM4486043_trimmed_fastqc.html
+[2023-01-24 02:26:18,593] multiqc                                            [DEBUG  ]  File ignored by nanostat because it exceeded search pattern filesize limit: GSM4486043_trimmed_fastqc.html
+[2023-01-24 02:26:18,717] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486042_trimmed_fastqc.html
+[2023-01-24 02:26:18,718] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: GSM4486042_trimmed_fastqc.html
+[2023-01-24 02:26:18,719] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486042_trimmed_fastqc.html
+[2023-01-24 02:26:18,721] multiqc                                            [DEBUG  ]  File ignored by vep/vep_txt because it exceeded search pattern filesize limit: GSM4486042_trimmed_fastqc.html
+[2023-01-24 02:26:18,721] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: GSM4486042_trimmed_fastqc.html
+[2023-01-24 02:26:18,721] multiqc                                            [DEBUG  ]  File ignored by rockhopper because it exceeded search pattern filesize limit: GSM4486042_trimmed_fastqc.html
+[2023-01-24 02:26:18,721] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: GSM4486042_trimmed_fastqc.html
+[2023-01-24 02:26:18,721] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: GSM4486042_trimmed_fastqc.html
+[2023-01-24 02:26:18,721] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: GSM4486042_trimmed_fastqc.html
+[2023-01-24 02:26:18,722] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: GSM4486042_trimmed_fastqc.html
+[2023-01-24 02:26:18,971] multiqc                                            [DEBUG  ]  File ignored by nanostat because it exceeded search pattern filesize limit: GSM4486042_trimmed_fastqc.html
+[2023-01-24 02:26:19,091] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486040_trimmed_fastqc.html
+[2023-01-24 02:26:19,092] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: GSM4486040_trimmed_fastqc.html
+[2023-01-24 02:26:19,093] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486040_trimmed_fastqc.html
+[2023-01-24 02:26:19,094] multiqc                                            [DEBUG  ]  File ignored by vep/vep_txt because it exceeded search pattern filesize limit: GSM4486040_trimmed_fastqc.html
+[2023-01-24 02:26:19,094] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: GSM4486040_trimmed_fastqc.html
+[2023-01-24 02:26:19,094] multiqc                                            [DEBUG  ]  File ignored by rockhopper because it exceeded search pattern filesize limit: GSM4486040_trimmed_fastqc.html
+[2023-01-24 02:26:19,094] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: GSM4486040_trimmed_fastqc.html
+[2023-01-24 02:26:19,094] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: GSM4486040_trimmed_fastqc.html
+[2023-01-24 02:26:19,095] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: GSM4486040_trimmed_fastqc.html
+[2023-01-24 02:26:19,095] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: GSM4486040_trimmed_fastqc.html
+[2023-01-24 02:26:19,271] multiqc                                            [DEBUG  ]  File ignored by nanostat because it exceeded search pattern filesize limit: GSM4486040_trimmed_fastqc.html
+[2023-01-24 02:26:19,382] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486041_trimmed_fastqc.html
+[2023-01-24 02:26:19,383] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: GSM4486041_trimmed_fastqc.html
+[2023-01-24 02:26:19,384] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486041_trimmed_fastqc.html
+[2023-01-24 02:26:19,386] multiqc                                            [DEBUG  ]  File ignored by vep/vep_txt because it exceeded search pattern filesize limit: GSM4486041_trimmed_fastqc.html
+[2023-01-24 02:26:19,386] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: GSM4486041_trimmed_fastqc.html
+[2023-01-24 02:26:19,386] multiqc                                            [DEBUG  ]  File ignored by rockhopper because it exceeded search pattern filesize limit: GSM4486041_trimmed_fastqc.html
+[2023-01-24 02:26:19,386] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: GSM4486041_trimmed_fastqc.html
+[2023-01-24 02:26:19,386] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: GSM4486041_trimmed_fastqc.html
+[2023-01-24 02:26:19,386] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: GSM4486041_trimmed_fastqc.html
+[2023-01-24 02:26:19,387] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: GSM4486041_trimmed_fastqc.html
+[2023-01-24 02:26:19,580] multiqc                                            [DEBUG  ]  File ignored by nanostat because it exceeded search pattern filesize limit: GSM4486041_trimmed_fastqc.html
+[2023-01-24 02:26:19,695] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486037_trimmed_fastqc.html
+[2023-01-24 02:26:19,696] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: GSM4486037_trimmed_fastqc.html
+[2023-01-24 02:26:19,696] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486037_trimmed_fastqc.html
+[2023-01-24 02:26:19,698] multiqc                                            [DEBUG  ]  File ignored by vep/vep_txt because it exceeded search pattern filesize limit: GSM4486037_trimmed_fastqc.html
+[2023-01-24 02:26:19,699] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: GSM4486037_trimmed_fastqc.html
+[2023-01-24 02:26:19,699] multiqc                                            [DEBUG  ]  File ignored by rockhopper because it exceeded search pattern filesize limit: GSM4486037_trimmed_fastqc.html
+[2023-01-24 02:26:19,699] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: GSM4486037_trimmed_fastqc.html
+[2023-01-24 02:26:19,699] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: GSM4486037_trimmed_fastqc.html
+[2023-01-24 02:26:19,699] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: GSM4486037_trimmed_fastqc.html
+[2023-01-24 02:26:19,699] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: GSM4486037_trimmed_fastqc.html
+[2023-01-24 02:26:19,870] multiqc                                            [DEBUG  ]  File ignored by nanostat because it exceeded search pattern filesize limit: GSM4486037_trimmed_fastqc.html
+[2023-01-24 02:26:19,974] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486039_trimmed_fastqc.html
+[2023-01-24 02:26:19,975] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: GSM4486039_trimmed_fastqc.html
+[2023-01-24 02:26:19,975] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486039_trimmed_fastqc.html
+[2023-01-24 02:26:19,977] multiqc                                            [DEBUG  ]  File ignored by vep/vep_txt because it exceeded search pattern filesize limit: GSM4486039_trimmed_fastqc.html
+[2023-01-24 02:26:19,977] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: GSM4486039_trimmed_fastqc.html
+[2023-01-24 02:26:19,978] multiqc                                            [DEBUG  ]  File ignored by rockhopper because it exceeded search pattern filesize limit: GSM4486039_trimmed_fastqc.html
+[2023-01-24 02:26:19,978] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: GSM4486039_trimmed_fastqc.html
+[2023-01-24 02:26:19,978] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: GSM4486039_trimmed_fastqc.html
+[2023-01-24 02:26:19,978] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: GSM4486039_trimmed_fastqc.html
+[2023-01-24 02:26:19,978] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: GSM4486039_trimmed_fastqc.html
+[2023-01-24 02:26:20,182] multiqc                                            [DEBUG  ]  File ignored by nanostat because it exceeded search pattern filesize limit: GSM4486039_trimmed_fastqc.html
+[2023-01-24 02:26:20,276] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486038_trimmed_fastqc.html
+[2023-01-24 02:26:20,277] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: GSM4486038_trimmed_fastqc.html
+[2023-01-24 02:26:20,278] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486038_trimmed_fastqc.html
+[2023-01-24 02:26:20,280] multiqc                                            [DEBUG  ]  File ignored by vep/vep_txt because it exceeded search pattern filesize limit: GSM4486038_trimmed_fastqc.html
+[2023-01-24 02:26:20,280] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: GSM4486038_trimmed_fastqc.html
+[2023-01-24 02:26:20,280] multiqc                                            [DEBUG  ]  File ignored by rockhopper because it exceeded search pattern filesize limit: GSM4486038_trimmed_fastqc.html
+[2023-01-24 02:26:20,280] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: GSM4486038_trimmed_fastqc.html
+[2023-01-24 02:26:20,280] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: GSM4486038_trimmed_fastqc.html
+[2023-01-24 02:26:20,280] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: GSM4486038_trimmed_fastqc.html
+[2023-01-24 02:26:20,281] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: GSM4486038_trimmed_fastqc.html
+[2023-01-24 02:26:20,488] multiqc                                            [DEBUG  ]  File ignored by nanostat because it exceeded search pattern filesize limit: GSM4486038_trimmed_fastqc.html
+[2023-01-24 02:26:20,599] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486035_trimmed_fastqc.html
+[2023-01-24 02:26:20,601] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: GSM4486035_trimmed_fastqc.html
+[2023-01-24 02:26:20,601] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486035_trimmed_fastqc.html
+[2023-01-24 02:26:20,604] multiqc                                            [DEBUG  ]  File ignored by vep/vep_txt because it exceeded search pattern filesize limit: GSM4486035_trimmed_fastqc.html
+[2023-01-24 02:26:20,604] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: GSM4486035_trimmed_fastqc.html
+[2023-01-24 02:26:20,604] multiqc                                            [DEBUG  ]  File ignored by rockhopper because it exceeded search pattern filesize limit: GSM4486035_trimmed_fastqc.html
+[2023-01-24 02:26:20,604] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: GSM4486035_trimmed_fastqc.html
+[2023-01-24 02:26:20,604] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: GSM4486035_trimmed_fastqc.html
+[2023-01-24 02:26:20,604] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: GSM4486035_trimmed_fastqc.html
+[2023-01-24 02:26:20,604] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: GSM4486035_trimmed_fastqc.html
+[2023-01-24 02:26:20,788] multiqc                                            [DEBUG  ]  File ignored by nanostat because it exceeded search pattern filesize limit: GSM4486035_trimmed_fastqc.html
+[2023-01-24 02:26:20,900] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486036_trimmed_fastqc.html
+[2023-01-24 02:26:20,901] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: GSM4486036_trimmed_fastqc.html
+[2023-01-24 02:26:20,902] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486036_trimmed_fastqc.html
+[2023-01-24 02:26:20,904] multiqc                                            [DEBUG  ]  File ignored by vep/vep_txt because it exceeded search pattern filesize limit: GSM4486036_trimmed_fastqc.html
+[2023-01-24 02:26:20,904] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: GSM4486036_trimmed_fastqc.html
+[2023-01-24 02:26:20,904] multiqc                                            [DEBUG  ]  File ignored by rockhopper because it exceeded search pattern filesize limit: GSM4486036_trimmed_fastqc.html
+[2023-01-24 02:26:20,904] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: GSM4486036_trimmed_fastqc.html
+[2023-01-24 02:26:20,904] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: GSM4486036_trimmed_fastqc.html
+[2023-01-24 02:26:20,904] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: GSM4486036_trimmed_fastqc.html
+[2023-01-24 02:26:20,905] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: GSM4486036_trimmed_fastqc.html
+[2023-01-24 02:26:21,071] multiqc                                            [DEBUG  ]  File ignored by nanostat because it exceeded search pattern filesize limit: GSM4486036_trimmed_fastqc.html
+[2023-01-24 02:26:21,126] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486034_trimmed_fastqc.html
+[2023-01-24 02:26:21,127] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: GSM4486034_trimmed_fastqc.html
+[2023-01-24 02:26:21,128] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486034_trimmed_fastqc.html
+[2023-01-24 02:26:21,129] multiqc                                            [DEBUG  ]  File ignored by vep/vep_txt because it exceeded search pattern filesize limit: GSM4486034_trimmed_fastqc.html
+[2023-01-24 02:26:21,130] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: GSM4486034_trimmed_fastqc.html
+[2023-01-24 02:26:21,130] multiqc                                            [DEBUG  ]  File ignored by rockhopper because it exceeded search pattern filesize limit: GSM4486034_trimmed_fastqc.html
+[2023-01-24 02:26:21,130] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: GSM4486034_trimmed_fastqc.html
+[2023-01-24 02:26:21,130] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: GSM4486034_trimmed_fastqc.html
+[2023-01-24 02:26:21,130] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: GSM4486034_trimmed_fastqc.html
+[2023-01-24 02:26:21,130] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: GSM4486034_trimmed_fastqc.html
+[2023-01-24 02:26:21,278] multiqc                                            [DEBUG  ]  File ignored by nanostat because it exceeded search pattern filesize limit: GSM4486034_trimmed_fastqc.html
+[2023-01-24 02:26:21,385] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486033_trimmed_fastqc.html
+[2023-01-24 02:26:21,386] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: GSM4486033_trimmed_fastqc.html
+[2023-01-24 02:26:21,386] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486033_trimmed_fastqc.html
+[2023-01-24 02:26:21,389] multiqc                                            [DEBUG  ]  File ignored by vep/vep_txt because it exceeded search pattern filesize limit: GSM4486033_trimmed_fastqc.html
+[2023-01-24 02:26:21,389] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: GSM4486033_trimmed_fastqc.html
+[2023-01-24 02:26:21,389] multiqc                                            [DEBUG  ]  File ignored by rockhopper because it exceeded search pattern filesize limit: GSM4486033_trimmed_fastqc.html
+[2023-01-24 02:26:21,389] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: GSM4486033_trimmed_fastqc.html
+[2023-01-24 02:26:21,389] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: GSM4486033_trimmed_fastqc.html
+[2023-01-24 02:26:21,389] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: GSM4486033_trimmed_fastqc.html
+[2023-01-24 02:26:21,389] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: GSM4486033_trimmed_fastqc.html
+[2023-01-24 02:26:21,500] multiqc                                            [DEBUG  ]  File ignored by nanostat because it exceeded search pattern filesize limit: GSM4486033_trimmed_fastqc.html
+[2023-01-24 02:26:21,530] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486032_trimmed_fastqc.html
+[2023-01-24 02:26:21,531] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: GSM4486032_trimmed_fastqc.html
+[2023-01-24 02:26:21,531] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486032_trimmed_fastqc.html
+[2023-01-24 02:26:21,569] multiqc                                            [DEBUG  ]  File ignored by vep/vep_txt because it exceeded search pattern filesize limit: GSM4486032_trimmed_fastqc.html
+[2023-01-24 02:26:21,569] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: GSM4486032_trimmed_fastqc.html
+[2023-01-24 02:26:21,569] multiqc                                            [DEBUG  ]  File ignored by rockhopper because it exceeded search pattern filesize limit: GSM4486032_trimmed_fastqc.html
+[2023-01-24 02:26:21,569] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: GSM4486032_trimmed_fastqc.html
+[2023-01-24 02:26:21,569] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: GSM4486032_trimmed_fastqc.html
+[2023-01-24 02:26:21,569] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: GSM4486032_trimmed_fastqc.html
+[2023-01-24 02:26:21,569] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: GSM4486032_trimmed_fastqc.html
+[2023-01-24 02:26:21,679] multiqc                                            [DEBUG  ]  File ignored by nanostat because it exceeded search pattern filesize limit: GSM4486032_trimmed_fastqc.html
+[2023-01-24 02:26:21,771] multiqc                                            [DEBUG  ]  File ignored by ccs/v4 because it exceeded search pattern filesize limit: GSM4486031_trimmed_fastqc.html
+[2023-01-24 02:26:21,772] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: GSM4486031_trimmed_fastqc.html
+[2023-01-24 02:26:21,772] multiqc                                            [DEBUG  ]  File ignored by lima/summary because it exceeded search pattern filesize limit: GSM4486031_trimmed_fastqc.html
+[2023-01-24 02:26:21,774] multiqc                                            [DEBUG  ]  File ignored by vep/vep_txt because it exceeded search pattern filesize limit: GSM4486031_trimmed_fastqc.html
+[2023-01-24 02:26:21,774] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: GSM4486031_trimmed_fastqc.html
+[2023-01-24 02:26:21,774] multiqc                                            [DEBUG  ]  File ignored by rockhopper because it exceeded search pattern filesize limit: GSM4486031_trimmed_fastqc.html
+[2023-01-24 02:26:21,775] multiqc                                            [DEBUG  ]  File ignored by rseqc/bam_stat because it exceeded search pattern filesize limit: GSM4486031_trimmed_fastqc.html
+[2023-01-24 02:26:21,775] multiqc                                            [DEBUG  ]  File ignored by rseqc/junction_annotation because it exceeded search pattern filesize limit: GSM4486031_trimmed_fastqc.html
+[2023-01-24 02:26:21,775] multiqc                                            [DEBUG  ]  File ignored by rseqc/read_distribution because it exceeded search pattern filesize limit: GSM4486031_trimmed_fastqc.html
+[2023-01-24 02:26:21,775] multiqc                                            [DEBUG  ]  File ignored by rseqc/infer_experiment because it exceeded search pattern filesize limit: GSM4486031_trimmed_fastqc.html
+[2023-01-24 02:26:21,913] multiqc                                            [DEBUG  ]  File ignored by nanostat because it exceeded search pattern filesize limit: GSM4486031_trimmed_fastqc.html
+[2023-01-24 02:26:24,885] multiqc.plots.linegraph                            [DEBUG  ]  Using matplotlib version 3.5.1
+[2023-01-24 02:26:24,886] multiqc.plots.bargraph                             [DEBUG  ]  Using matplotlib version 3.5.1
+[2023-01-24 02:26:25,919] multiqc.modules.fastqc.fastqc                      [INFO   ]  Found 44 reports
+[2023-01-24 02:26:26,891] multiqc                                            [INFO   ]  Compressing plot data
+[2023-01-24 02:26:27,715] multiqc                                            [INFO   ]  Report      : trimmed_multiqc_report/trimmed_multiqc.html
+[2023-01-24 02:26:27,715] multiqc                                            [INFO   ]  Data        : trimmed_multiqc_report/trimmed_multiqc_data
+[2023-01-24 02:26:27,715] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmpiju31qfq/multiqc_data' to 'trimmed_multiqc_report/trimmed_multiqc_data'
+[2023-01-24 02:26:28,097] multiqc                                            [INFO   ]  MultiQC complete
