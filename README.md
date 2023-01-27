@@ -19,7 +19,7 @@ nf-core/test-datasets comes with documentation in the `docs/` directory:
 Due the large number of large files in this repository for each pipeline, we highly recommend cloning only the branches you would use.
 
 ```bash
-git clone <url> --single-branch --branch <pipeline/modules/branch_name>
+git clone https://github.com/J-81/test-datasets-extended.git --single-branch --branch NF_AGILE1CH
 ```
 
 To subsequently clone other branches[^1]
