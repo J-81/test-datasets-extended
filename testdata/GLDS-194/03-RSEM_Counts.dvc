@@ -1,0 +1,5 @@
+outs:
+- md5: 6bfc75a8687a51f1ce705ea5bb1b1f41.dir
+  size: 8704131
+  nfiles: 75
+  path: 03-RSEM_Counts
