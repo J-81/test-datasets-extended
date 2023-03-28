@@ -1,0 +1,5 @@
+outs:
+- md5: 8c986e30f67103189e669dfa91b6881e.dir
+  size: 389
+  nfiles: 1
+  path: mock
