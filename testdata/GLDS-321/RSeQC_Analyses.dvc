@@ -1,0 +1,5 @@
+outs:
+- md5: a63f0d2e88059c3210e1a707922be15a.dir
+  size: 6772266
+  nfiles: 241
+  path: RSeQC_Analyses

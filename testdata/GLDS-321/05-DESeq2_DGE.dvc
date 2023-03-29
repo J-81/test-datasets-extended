@@ -1,0 +1,5 @@
+outs:
+- md5: a344c6d339e51752125353ac107e0fa8.dir
+  size: 670599518
+  nfiles: 5
+  path: 05-DESeq2_DGE
