@@ -1,0 +1,5 @@
+outs:
+- md5: 7bc4c64fddd0ba0ee5ce54bd79a9234c.dir
+  size: 76635166
+  nfiles: 200
+  path: 00-RawData

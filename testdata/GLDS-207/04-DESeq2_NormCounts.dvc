@@ -1,0 +1,5 @@
+outs:
+- md5: 5b0bb7c8835df4a221197d40fdb254c3.dir
+  size: 30564197
+  nfiles: 3
+  path: 04-DESeq2_NormCounts
